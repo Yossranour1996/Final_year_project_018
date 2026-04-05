@@ -1,0 +1,42 @@
+[
+  {
+    "page": "page_01.png",
+    "text": "EMPTY"
+  },
+  {
+    "page": "page_02.png",
+    "text": "1.1) JAVA's motto is \"write once, run anywhere\", bot meaning\nit could run in multiple Anvironments and architechture.\n1.2) the interenet requrid flexiable languages to work\non multiple Platforms, it also requried more complex\nProgramms which requried more complex programming languages.\n1.3) OOP: object orianted programming, the \"object\" or\ndata are an itegral part of the programm and it's not\nfor just Free Flowing - contains classess\nPOP: procedure orianted programming, divides the programm\ninto smaller procedure's or \"furchions\".\n1.4) JRE - Contains Byte compilier and JUE (JAVA\nvirtual Entuironment)\n(5) inheritance - is the idea that a codes class can inherit modifers\nand functionality from another cal class.\nPolymorphism - the using of Interface to get around the\nmulti inheritance problem (Dimand problem)\n(1.6) encapsulation is the use of setters for read-only\nand getters for wolte only\n(1.7) abstract classes.\nin fer face\n(1.8) if you catch a threat, or made an exception, finally.\n(1.9) system. In - system.err., system.out\n4,10) the JAVA language was an improvements of C and C++"
+  },
+  {
+    "page": "page_03.png",
+    "text": "(2.1) T\n(2-2) F\n(2.3) T\n(2-4) F\n(2-5) T\n(2-6) T\n(2-7) F"
+  },
+  {
+    "page": "page_04.png",
+    "text": "(3.1) adaptation, improvement.\n(3.2) C language.\n(3.) DATA\n(3.4) HTML\n(3-5) JADP\n(3-6) mobile\n13.7) Swing"
+  },
+  {
+    "page": "page_05.png",
+    "text": "system.out.prinIn (seats[i] + \"you will tak seat\" + i )\nPublic int = Votes"
+  },
+  {
+    "page": "page_06.png",
+    "text": "EMPTY"
+  },
+  {
+    "page": "page_07.png",
+    "text": "EMPTY"
+  },
+  {
+    "page": "page_08.png",
+    "text": "EMPTY"
+  },
+  {
+    "page": "page_09.png",
+    "text": "EMPTY"
+  },
+  {
+    "page": "page_10.png",
+    "text": "EMPTY"
+  }
+]

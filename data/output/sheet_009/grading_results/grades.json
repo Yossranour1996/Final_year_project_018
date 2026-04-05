@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1.1) JAVA's motto is write once, run anywhere, bot meaning it could run in multiple Anvironments and architechture.",
+    "1.2": "1.2) the interenet requrid flexiable languages to work\non multiple Platforms, it also requried more complex\nProgramms which requried more complex programming languages.",
+    "1.3": "1.3) OOP: object orianted programming, the \"object\" or\ndata are an itegral part of the programm and it's not\nfor just Free Flowing - contains classess\nPOP: procedure orianted programming, divides the programm\ninto smaller procedure's or \"furchions\".",
+    "1.4": "1.4) JRE - Contains Byte compilier and JUE (JAVA\nvirtual Entuironment)",
+    "1.5": "(5) inheritance - is the idea that a codes class can inherit modifers\nand functionality from another cal class.\nPolymorphism - the using of Interface to get around the\nmulti inheritance problem (Dimand problem)",
+    "1.6": "(1.6) encapsulation is the use of setters for read-only\nand getters for wolte only",
+    "1.7": "(1.7) abstract classes.\nin fer face",
+    "1.8": "(1.8) if you catch a threat, or made an exception, finally.",
+    "1.9": "(1.9) system. In - system.err., system.out",
+    "1.10": "4,10) the JAVA language was an improvements of C and C++",
+    "2.1": "(2.1) T",
+    "2.2": "(2-2) F",
+    "2.3": "(2.3) T",
+    "2.4": "(2-4) F",
+    "2.5": "(2-5) T",
+    "2.6": "(2-6) T",
+    "2.7": "(2-7) F",
+    "3.1": "(3.1) adaptation, improvement.",
+    "3.2": "(3.2) C language.",
+    "3.3": "(3.) DATA",
+    "3.4": "(3.4) HTML",
+    "3.5": "(3-5) JADP",
+    "3.6": "(3-6) mobile",
+    "3.7": "13.7) Swing",
+    "4.1": "system.out.prinIn (seats[i] + \"you will tak seat\" + i )",
+    "4.2": "Public int = Votes"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1.1) JAVA's motto is write once, run anywhere, bot meaning it could run in multiple Anvironments and architechture.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Mentions Java can run in multiple architectures."
+      },
+      "1.2": {
+        "answer": "1.2) the interenet requrid flexiable languages to work\non multiple Platforms, it also requried more complex\nProgramms which requried more complex programming languages.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student mentions the need for flexible languages to work on multiple platforms due to the internet, which is a valid reason for Java's emergence."
+      },
+      "1.3": {
+        "answer": "1.3) OOP: object orianted programming, the \"object\" or\ndata are an itegral part of the programm and it's not\nfor just Free Flowing - contains classess\nPOP: procedure orianted programming, divides the programm\ninto smaller procedure's or \"furchions\".",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identifies that OOP is object oriented and uses classes, and POP is procedure oriented and uses functions."
+      },
+      "1.4": {
+        "answer": "1.4) JRE - Contains Byte compilier and JUE (JAVA\nvirtual Entuironment)",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Mentions JVM (JAVA virtual Entuironment)"
+      },
+      "1.5": {
+        "answer": "(5) inheritance - is the idea that a codes class can inherit modifers\nand functionality from another cal class.\nPolymorphism - the using of Interface to get around the\nmulti inheritance problem (Dimand problem)",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "Inheritance definition is correct. Polymorphism definition is not quite right but is related."
+      },
+      "1.6": {
+        "answer": "(1.6) encapsulation is the use of setters for read-only\nand getters for wolte only",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The answer describes getters and setters, not encapsulation."
+      },
+      "1.7": {
+        "answer": "(1.7) abstract classes.\nin fer face",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Mentions abstract classes and interfaces"
+      },
+      "1.8": {
+        "answer": "(1.8) if you catch a threat, or made an exception, finally.",
+        "score": 1.0,
+        "max_score": 3.0,
+        "reason": "Mentioned 'exception' which is a valid reason for thread termination."
+      },
+      "1.9": {
+        "answer": "(1.9) system. In - system.err., system.out",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "All three streams are correctly mentioned."
+      },
+      "1.10": {
+        "answer": "4,10) the JAVA language was an improvements of C and C++",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Irrelevant answer."
+      },
+      "2.1": {
+        "answer": "(2.1) T",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose True"
+      },
+      "2.2": {
+        "answer": "(2-2) F",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose False"
+      },
+      "2.3": {
+        "answer": "(2.3) T",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose True"
+      },
+      "2.4": {
+        "answer": "(2-4) F",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose False."
+      },
+      "2.5": {
+        "answer": "(2-5) T",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose True"
+      },
+      "2.6": {
+        "answer": "(2-6) T",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose True"
+      },
+      "2.7": {
+        "answer": "(2-7) F",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose False."
+      },
+      "3.1": {
+        "answer": "(3.1) adaptation, improvement.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student mentions adaptation and improvement."
+      },
+      "3.2": {
+        "answer": "(3.2) C language.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student mentions C"
+      },
+      "3.3": {
+        "answer": "(3.) DATA",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Mentions data"
+      },
+      "3.4": {
+        "answer": "(3.4) HTML",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Incorrect answer"
+      },
+      "3.5": {
+        "answer": "(3-5) JADP",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Irrelevant answer"
+      },
+      "3.6": {
+        "answer": "(3-6) mobile",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Incorrect answer"
+      },
+      "3.7": {
+        "answer": "13.7) Swing",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Incorrect answer. Swing is a GUI toolkit, not a database API."
+      },
+      "4.1": {
+        "answer": "system.out.prinIn (seats[i] + \"you will tak seat\" + i )",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Mentions 'i', which is one of the accepted answers."
+      },
+      "4.2": {
+        "answer": "Public int = Votes",
+        "score": 7.0,
+        "max_score": 14.0,
+        "reason": "The answer has no relevance to the question asked."
+      }
+    },
+    "totals": {
+      "q1": 21.0,
+      "q2": 21.0,
+      "q3": 9.0,
+      "q4": 21.0,
+      "overall": 72.0
+    }
+  }
+}

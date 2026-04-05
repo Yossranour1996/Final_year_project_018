@@ -1,0 +1,22 @@
+- It's meanthat Java is not nestricted dar
+specific system archeticture.
+12- by using appletand serveet t
+3- pop procedure (code) Operate on dutato
+let program reach youl
+and op uses classes and methods thate en
+encapsulate both code and data.
+14 - Java Virtual machine + libraries + files.
+Inherite
+1.5 - In heretance create anew class that take a
+Superor other class proberties, While polymorphism
+let thep divide the program for two processes and
+letthem rum inparalled [concurrent]
+also inheretan ce allow thonew class to take other
+1.6 - mean to gather data and code together
+and kemanaplate and Reep them sef prorected
+from outside.
+1.7 abstract classes + abstract methods.
+1.8
+main() writed Main() with capital letter (M)
+1-9- Systemalh System.out System.err.
+1.10 - Java developement. JOBC

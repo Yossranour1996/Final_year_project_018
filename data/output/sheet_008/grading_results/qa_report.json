@@ -1,0 +1,96 @@
+{
+  "student": {
+    "student_name": "",
+    "student_id": ""
+  },
+  "qa": {
+    "status": "PASS_WITH_WARNINGS",
+    "review_recommended": true,
+    "flag_count": 11,
+    "high_count": 0,
+    "medium_count": 7,
+    "low_count": 4,
+    "questions_to_review": [
+      "1.7",
+      "1.8",
+      "1.10",
+      "2.2",
+      "2.5",
+      "3.2",
+      "3.3",
+      "3.4",
+      "3.5",
+      "3.6",
+      "3.7"
+    ],
+    "summary": "QA detected 11 issue(s): 0 high, 7 medium, 4 low. Questions recommended for review: 1.7, 1.8, 1.10, 2.2, 2.5, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7.",
+    "flags": [
+      {
+        "qid": "1.7",
+        "severity": "medium",
+        "type": "NONBLANK_BUT_ZERO_SCORE",
+        "message": "Question 1.7 has an answer, but received zero. It may need a manual recheck."
+      },
+      {
+        "qid": "1.8",
+        "severity": "medium",
+        "type": "NONBLANK_BUT_ZERO_SCORE",
+        "message": "Question 1.8 has an answer, but received zero. It may need a manual recheck."
+      },
+      {
+        "qid": "1.10",
+        "severity": "medium",
+        "type": "NONBLANK_BUT_ZERO_SCORE",
+        "message": "Question 1.10 has an answer, but received zero. It may need a manual recheck."
+      },
+      {
+        "qid": "2.2",
+        "severity": "medium",
+        "type": "NONBLANK_BUT_ZERO_SCORE",
+        "message": "Question 2.2 has an answer, but received zero. It may need a manual recheck."
+      },
+      {
+        "qid": "2.5",
+        "severity": "medium",
+        "type": "NONBLANK_BUT_ZERO_SCORE",
+        "message": "Question 2.5 has an answer, but received zero. It may need a manual recheck."
+      },
+      {
+        "qid": "3.2",
+        "severity": "medium",
+        "type": "NONBLANK_BUT_ZERO_SCORE",
+        "message": "Question 3.2 has an answer, but received zero. It may need a manual recheck."
+      },
+      {
+        "qid": "3.6",
+        "severity": "medium",
+        "type": "NONBLANK_BUT_ZERO_SCORE",
+        "message": "Question 3.6 has an answer, but received zero. It may need a manual recheck."
+      },
+      {
+        "qid": "3.3",
+        "severity": "low",
+        "type": "VERY_SHORT_FULL_MARK",
+        "message": "Question 3.3 received full marks with a one-word answer. This may be correct, but QA can optionally inspect it."
+      },
+      {
+        "qid": "3.4",
+        "severity": "low",
+        "type": "VERY_SHORT_FULL_MARK",
+        "message": "Question 3.4 received full marks with a one-word answer. This may be correct, but QA can optionally inspect it."
+      },
+      {
+        "qid": "3.5",
+        "severity": "low",
+        "type": "VERY_SHORT_FULL_MARK",
+        "message": "Question 3.5 received full marks with a one-word answer. This may be correct, but QA can optionally inspect it."
+      },
+      {
+        "qid": "3.7",
+        "severity": "low",
+        "type": "VERY_SHORT_FULL_MARK",
+        "message": "Question 3.7 received full marks with a one-word answer. This may be correct, but QA can optionally inspect it."
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+for each block code, complete the CODE
+the output and provide explanation for your.
+7 Students [:] ("you
+between line [for(int
+from che output we
+you will tak seat"") & (4-(ⅰ))
+to get
+answer
+I and line (System.out.print(Code)
+could see the printed statement
+a long with the student identifier.
+(M,C,G, P.D) and their respected seats, which is
+"Yoke will take beat"
+ekong enough information.
+to write the remaining code,
+2 Weine missing the equation that calentator add positive
+votes so
+Weire
+missing " If Java was
+easy, they would call it python"
+Statement
+Public class Asree{
+public static void
+int total votes
+mam (String[] args) {
+760
+System.out.println("Statement; It Java was easy, they would
+Call it Python!");
+System.out.println("The number of people who agree wial this.
+Santement is 114").
+public static void Calculate Votes (double num Of Votes ) {
+// 15% of rotes do agree with the statement.
+double portion
+num Of Votes
+* 0-15;
+System.out.println(" the number of people who agree with this m
+Statement is"
++ (int) portion);

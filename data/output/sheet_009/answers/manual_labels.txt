@@ -1,0 +1,167 @@
+MANUAL LABELING FILE
+================================================================================
+
+Instructions:
+1) Put each answer between its opening and closing markers.
+2) Format must be exactly like: "1.1" answer text "1.1 slach"
+3) Leave the block empty if there is no answer.
+4) Do NOT change the question keys.
+5) After editing this file, save it, then return to the terminal and press Enter.
+
+RAW OCR REFERENCE
+================================================================================
+===== RAW OCR FROM page_01.txt =====
+EMPTY
+
+
+===== RAW OCR FROM page_02.txt =====
+"1.1" 1.1) JAVA's motto is "write once, run anywhere", bot meaning
+it could run in multiple Anvironments and architechture. "1.1/"
+"1.2" 1.2) the interenet requrid flexiable languages to work
+on multiple Platforms, it also requried more complex
+Programms which requried more complex programming languages. "1.2/"
+"1.3" 1.3) OOP: object orianted programming, the "object" or
+data are an itegral part of the programm and it's not
+for just Free Flowing - contains classess
+POP: procedure orianted programming, divides the programm
+into smaller procedure's or "furchions". "1.3/"
+"1.4" 1.4) JRE - Contains Byte compilier and JUE (JAVA
+virtual Entuironment) "1.4/"
+"1.5" (5) inheritance - is the idea that a codes class can inherit modifers
+and functionality from another cal class.
+Polymorphism - the using of Interface to get around the
+multi inheritance problem (Dimand problem)  "1.5/"
+"1.6" (1.6) encapsulation is the use of setters for read-only
+and getters for wolte only "1.6/"
+"1.7" (1.7) abstract classes.
+in fer face "1.7/"
+"1.8" (1.8) if you catch a threat, or made an exception, finally. "1.8/"
+"1.9" (1.9) system. In - system.err., system.out "1.9/"
+"1.10" 4,10) the JAVA language was an improvements of C and C++ "1.10/"
+
+
+===== RAW OCR FROM page_03.txt =====
+"2.1" (2.1) T "2.1/"
+"2.2" (2-2) F "2.2/"
+"2.3" (2.3) T "2.3/"
+"2.4" (2-4) F "2.4/"
+"2.5" (2-5) T "2.5/"
+"2.6" (2-6) T "2.6/"
+"2.7" (2-7) F "2.7/"
+
+
+===== RAW OCR FROM page_04.txt =====
+"3.1" (3.1) adaptation, improvement. "3.1/"
+"3.2" (3.2) C language. "3.2/"
+"3.3" (3.) DATA "3.3/"
+"3.4" (3.4) HTML "3.4/"
+"3.5" (3-5) JADP "3.5/"
+"3.6" (3-6) mobile "3.6/"
+"3.7" 13.7) Swing "3.7/"
+
+
+===== RAW OCR FROM page_05.txt =====
+"4.1" system.out.prinIn (seats[i] + "you will tak seat" + i ) "4.1/"
+"4.2" Public int = Votes  "4.2/"
+
+
+===== RAW OCR FROM page_06.txt =====
+EMPTY
+
+
+===== RAW OCR FROM page_07.txt =====
+EMPTY
+
+
+===== RAW OCR FROM page_08.txt =====
+EMPTY
+
+
+===== RAW OCR FROM page_09.txt =====
+EMPTY
+
+
+===== RAW OCR FROM page_10.txt =====
+EMPTY
+
+
+EDITABLE LABEL BLOCKS
+================================================================================
+
+"1.1" 
+"1.1/"
+
+"1.2" 
+"1.2/"
+
+"1.3" 
+"1.3/"
+
+"1.4" 
+"1.4/"
+
+"1.5" 
+"1.5/"
+
+"1.6" 
+"1.6/"
+
+"1.7" 
+"1.7/"
+
+"1.8" 
+"1.8/"
+
+"1.9" 
+"1.9/"
+
+"1.10" 
+"1.10/"
+
+"2.1" 
+"2.1/"
+
+"2.2" 
+"2.2/"
+
+"2.3" 
+"2.3/"
+
+"2.4" 
+"2.4/"
+
+"2.5" 
+"2.5/"
+
+"2.6" 
+"2.6/"
+
+"2.7" 
+"2.7/"
+
+"3.1" 
+"3.1/"
+
+"3.2" 
+"3.2/"
+
+"3.3" 
+"3.3/"
+
+"3.4" 
+"3.4/"
+
+"3.5" 
+"3.5/"
+
+"3.6" 
+"3.6/"
+
+"3.7" 
+"3.7/"
+
+"4.1" 
+"4.1/"
+
+"4.2" 
+"4.2/"

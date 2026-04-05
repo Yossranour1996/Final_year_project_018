@@ -1,0 +1,22 @@
+Question (4) 1
+1 We mean that the JAVA is not restricted by a
+specific system architedure.
+2 They introduced Applets which exted extended whe
+functionality of the web, and dso servelt that extended
+functionaliay of the server
+3 The dit POP treats the code lines as instructions
+and emphasizes on the procedure, on the other hand
+OOP encapsulate the code and data it manipulates and
+emphasized on data
+4 JPE or JAVA Runtime Enviroment consists of library.
+and JVM to Run the code
+5 Inheritence = new classed inherits ahe attributes and
+methods of older classes, Poly morphis, Allow one
+interface to be used for genand use case, Inheritance keep
+the old classes methods while polymorphism might alter them.
+6 Encapsulations is ahe mechanism ahat binds the code
+and data in manipulates, and keep ahem safe from
+outside interference and misuse
+7 Class abstracts and interfaces.
+8 1 finished and completed ahe task normally
+2 termindted due to unusual events.

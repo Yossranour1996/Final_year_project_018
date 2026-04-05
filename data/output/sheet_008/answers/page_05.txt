@@ -1,0 +1,15 @@
+student (ⅰ)+", you will take seat" + (1)
+student(i)
+Print the letter of student. in string[] seat.
+!", you will take seat" 2.
+(11) for string print the specific sentence between
+them
+(1)8
+sabasic cateradora todacalate the
+everytime[i]) inter the for loop and beginning.
+with valve O and chechistic seat length/add
+one- so so it's begin with vame (O Juntil (4).
+public static int calculate Votes (total 'Votes)
+we use int to make the output an integer
+and use the function cakulate Votes to be execute
+on the total votes.

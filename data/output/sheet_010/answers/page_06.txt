@@ -1,0 +1,6 @@
+We added the missing statenented and Printed it on
+a new line-
+System.out.println("the amount of people who agrees with this lo
+Statement is
+System.out.print In ("Statement, if Jara was easy ahey would
+call it Python!");

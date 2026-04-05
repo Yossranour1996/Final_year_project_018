@@ -1,0 +1,17 @@
+There is one JDBC driver for all database sources
+each source has its own implementations for
+- True
+Question 35
+1] Enhancement is one of the reason that computer
+language innovation ocenred.
+2] C is an example of a POP language.
+instructions
+3] POP does not allow flow freely in the
+Program
+4] Applets are small programs that need a java
+enabled web browser to be executed
+5] a Frame is a component which can contain other
+elements like buttons.
+6] The model-view controler (MVC) architecture is used in swing
+7] JDBC is a Java API to connect and interact warich
+databases
