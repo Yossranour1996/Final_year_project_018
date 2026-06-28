@@ -1,0 +1,164 @@
+MANUAL LABELING FILE
+================================================================================
+
+Instructions:
+1) Put each answer between its opening and closing markers.
+2) Format must be exactly like: with number between quotes and then closed with number between quotes and slach
+3) Leave the block empty if there is no answer.
+4) Do NOT change the question keys.
+5) After editing this file, save it, then return to the terminal and press Enter.
+
+RAW OCR REFERENCE
+================================================================================
+===== RAW OCR FROM page_01.txt =====
+٨/١١/٢٢
+الهندسة
+الكهربائية والإلكترونيه
+Java programming
+منى عبدالغني علي يوسف
+١٤٩١٥٣
+
+
+===== RAW OCR FROM page_02.txt =====
+EMPTY
+
+
+===== RAW OCR FROM page_03.txt =====
+"1.1" 1.1 It means that Java isn't specified for specific machine
+or Operating system architecture. "1.1/" 
+"1.2" 1.2 The complexity increased so Java was made in labs and
+Java is ene enhancement in programming
+languages. "1.2/" 
+"1.3" 1.3 - While POP have a procedure to deal with data "Code"
+OOP uses classes and objects to encapsulate code and
+its data. "1.3/" 
+"1.4" 1.4 Java virtual machine JVM
+executing programmes "java"
+and compiling ones "javac" "1.4/" 
+"1.5" 1.5 inheritance: making new classes based on already existing
+ones but & polymorphism: mechanism of having many
+forms of each class. "1.5/" 
+"1.6" 1.6 Encapsulation is the mechanism of binding up data
+and its code together. "1.6/" 
+"1.7" 1.7 Interface, abstracted classes "1.7/" 
+"1.8" 1.8 (i) the program accomplished its goal.
+(ii) Oet Unusual events occure
+(iii) The program is dead or no longer available. "1.8/"
+"1.9" 1.9 (i) System.in
+(ii) System.out
+(iii) System.err
+"1.9/"
+
+===== RAW OCR FROM page_04.txt =====
+"1.10" 1.10 Java API  "1.10/"
+Question two 8
+"2.1" 2.1 True "2.1/" 
+"2.2" 2.2 True "2.2/" 
+"2.3"  2.3 True "2.3/" 
+"2.4"  2.4 False "2.4/" 
+"2.5"  2.5 True "2.5/" 
+"2.6"  2.6  True  "2.6/"
+"2.7" 2.7  False "2.7/"
+Question three 8
+"3.1" 3.1 To adapt to changing in Environments and users. "3.1/"
+"3.2" 3.2 C programming language "3.2/"
+"3.3"  3.3 data Code. "3.3/" 
+"3.4" 3.4 Applet "3.4/"
+"3.5" 3.5 Frame "as a container" "3.5/"
+"3.6" 3.6 Control "represents the interface between model and view" "3.6/"
+"3.7" 3.7 JDBE JDBC . "3.7/" 
+
+
+===== RAW OCR FROM page_05.txt =====
+"4.1"  4.1 set
+Seats [i] + "/" +
+Seats [i] + "/" , you will take seat" + i
+To get outputs as desiered.  "4.1/" 
+"4.2"  4.2 BreakLn
+to go to the next class. "4.2/"
+
+
+===== RAW OCR FROM page_06.txt =====
+EMPTY
+
+
+EDITABLE LABEL BLOCKS
+================================================================================
+
+"1.1" 
+"1.1/"
+
+"1.2" 
+"1.2/"
+
+"1.3" 
+"1.3/"
+
+"1.4" 
+"1.4/"
+
+"1.5" 
+"1.5/"
+
+"1.6" 
+"1.6/"
+
+"1.7" 
+"1.7/"
+
+"1.8" 
+"1.8/"
+
+"1.9" 
+"1.9/"
+
+"1.10" 
+"1.10/"
+
+"2.1" 
+"2.1/"
+
+"2.2" 
+"2.2/"
+
+"2.3" 
+"2.3/"
+
+"2.4" 
+"2.4/"
+
+"2.5" 
+"2.5/"
+
+"2.6" 
+"2.6/"
+
+"2.7" 
+"2.7/"
+
+"3.1" 
+"3.1/"
+
+"3.2" 
+"3.2/"
+
+"3.3" 
+"3.3/"
+
+"3.4" 
+"3.4/"
+
+"3.5" 
+"3.5/"
+
+"3.6" 
+"3.6/"
+
+"3.7" 
+"3.7/"
+
+"4.1" 
+"4.1/"
+
+"4.2" 
+"4.2/"

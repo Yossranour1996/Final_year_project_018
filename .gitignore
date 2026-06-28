@@ -10,7 +10,11 @@ venv/
 Thumbs.db
 
 # Outputs / Data (اختياري حسب رغبتكم)
+data/input/answers_sheets
+# Ignore raw OCR text files
+data/output/**/pages/
 
-
+# Ignore raw extraction json
+data/output/**/answers/sheet_identifiers.json
 # Logs
 *.log

@@ -1,7 +1,16 @@
-(3.1) adaptation, improvement.
-(3.2) C language.
-(3.) DATA
-(3.4) HTML
-(3-5) JADP
-(3-6) mobile
-13.7) Swing
+7] There is one JDBC driver for all database sources
+⊗ False each source has its own implementations for
+JDBC driver - True
+1] Enhancement is one of the reason that computer
+language innovation occurred
+2] C is an example of a POP language
+instructions
+3] POP does not allow [UNK] flow freely in the
+Program
+4] Applets are small programs that need a Java
+enabled web browser to be executed
+5] a frame is a component which can contain other
+elements like buttons
+6] The model-view controller (MVC) architecture is used in Swing.
+7] JDBC is a Java API to connect and interact with
+databases

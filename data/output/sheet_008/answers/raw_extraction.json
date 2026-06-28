@@ -1,27 +1,27 @@
 [
   {
     "page": "page_01.png",
-    "text": ""
+    "text": "EMPTY"
   },
   {
     "page": "page_02.png",
-    "text": "- It's meanthat Java is not nestricted dar\nspecific system archeticture.\n12- by using appletand serveet t\n3- pop procedure (code) Operate on dutato\nlet program reach youl\nand op uses classes and methods thate en\nencapsulate both code and data.\n14 - Java Virtual machine + libraries + files.\nInherite\n1.5 - In heretance create anew class that take a\nSuperor other class proberties, While polymorphism\nlet thep divide the program for two processes and\nletthem rum inparalled [concurrent]\nalso inheretan ce allow thonew class to take other\n1.6 - mean to gather data and code together\nand kemanaplate and Reep them sef prorected\nfrom outside.\n1.7 abstract classes + abstract methods.\n1.8\nmain() writed Main() with capital letter (M)\n1-9- Systemalh System.out System.err.\n1.10 - Java developement. JOBC"
+    "text": "1) Jave not restricted by specifaing machine or operating system\nArchitecture\n2) by using Web browser and Create Java Applets\n3) POP = procedural oriented language operates on data to achieve\nSome goal\nOOP = use objects and classes and instruction to encapsulated\nboth data and Code\ndata With\nCode encapsulate\n4) Java Runtime environment that has (JVM) = Java Virtual\nmachine\n5) inheritance = creat new classes based on existing ones and\na class inherit from anther class reuse all fields and methods of that class\nin addition new fields from\npolymorphism = having many forms in word or ability of\nmassege to be disably in more then one form\n6) machnism that bind together code and data it manipultes and\nKeep them safe from outside inter farance\n7) interfaces and abstract classes\n8) finisheel task normally —®\nterminet due to unusual events x —®\ndead or No longer avalible —®"
   },
   {
     "page": "page_03.png",
-    "text": "2.1\ntrue\n2.2 true.\n2.3 true.\n2.4 false\n2.5 false -\n2.6 True\n2.7 false."
+    "text": "9) System.in / System.out / system.err\n10) Java AWT (Abstract Window toolKit) we built API\nSwing on top of it"
   },
   {
     "page": "page_04.png",
-    "text": "develop Implement developement in\nthe art of programing.\nC Programing laby nage\ndata\napplet\nContainer\nSwinging de system\nJDBC"
+    "text": "1) True\n2) False = o other True\n3) True\n4) False = o by over overriding method or you can say compile time\n5) False = o could not\n6) True\n7) True"
   },
   {
     "page": "page_05.png",
-    "text": "student (ⅰ)+\", you will take seat\" + (1)\nstudent(i)\nPrint the letter of student. in string[] seat.\n!\", you will take seat\" 2.\n(11) for string print the specific sentence between\nthem\n(1)8\nsabasic cateradora todacalate the\neverytime[i]) inter the for loop and beginning.\nwith valve O and chechistic seat length/add\none- so so it's begin with vame (O Juntil (4).\npublic static int calculate Votes (total 'Votes)\nwe use int to make the output an integer\nand use the function cakulate Votes to be execute\non the total votes."
+    "text": "1) adapt changeing in environments and uses\n2) (C) language\n3) procedures (functions)\n4) Jave Applets\n5) [UNK] container\n6) model view controller\n7) JDBC = Jave data base conectivity"
   },
   {
     "page": "page_06.png",
-    "text": "EMPTY"
+    "text": "① Student\nstudent seats\nstudent [i] + \"you will take seat\" + stor seat.length [i]\nfirst you call choractor from list = seats and then goes through loop and\nafter that length of seats => like index [0] = [\"M\"] and less than length\nof list so + \"you will take seat\"\ndouble num Of Votes = total Votes;"
   },
   {
     "page": "page_07.png",
@@ -29,14 +29,14 @@
   },
   {
     "page": "page_08.png",
-    "text": "EMPTY"
+    "text": ""
   },
   {
     "page": "page_09.png",
-    "text": "EMPTY"
+    "text": ""
   },
   {
     "page": "page_10.png",
-    "text": "EMPTY"
+    "text": ""
   }
 ]

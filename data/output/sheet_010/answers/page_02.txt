@@ -1,22 +1,23 @@
-Question (4) 1
-1 We mean that the JAVA is not restricted by a
-specific system architedure.
-2 They introduced Applets which exted extended whe
-functionality of the web, and dso servelt that extended
-functionaliay of the server
-3 The dit POP treats the code lines as instructions
-and emphasizes on the procedure, on the other hand
-OOP encapsulate the code and data it manipulates and
-emphasized on data
-4 JPE or JAVA Runtime Enviroment consists of library.
-and JVM to Run the code
-5 Inheritence = new classed inherits ahe attributes and
-methods of older classes, Poly morphis, Allow one
-interface to be used for genand use case, Inheritance keep
-the old classes methods while polymorphism might alter them.
-6 Encapsulations is ahe mechanism ahat binds the code
-and data in manipulates, and keep ahem safe from
-outside interference and misuse
-7 Class abstracts and interfaces.
-8 1 finished and completed ahe task normally
-2 termindted due to unusual events.
+1.1) JAVA's motto is "write once, run anywhere", but meaning
+it could run in multiple environments and architecture.
+1.2) The internet required flexible languages to work
+on multiple platforms, it also required more complex
+programs which required more complex programming languages.
+1.3) OOP :- object oriented programming. the "object" or
+data are an integral part of the program and it's not
+for just free flowing, contains classes.
+POP :- procedural oriented programming, divides the program
+into smaller procedure's or "functions".
+1.4) JRE = contains Byte compiler and JVE (JAVA
+virtual Environment).
+(1.5) inheritance - is the idea that a parent class can inherit modifiers
+and functionality from another parent class.
+Polymorphism :- the using of interface to get around the
+multi inheritance problem (Diamond problem)
+(1.6) encapsulation :- the use of setters for read-only
+and getters for write-only.
+(1.7) abstract classes
+in interface
+(1.8) if you catch a threat or made an exception, finally
+(1.9) system. In , system.err, system.out
+(1.10) the JAVA language was an improvement of C and C++

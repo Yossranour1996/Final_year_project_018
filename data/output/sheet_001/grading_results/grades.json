@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1. That java is not tied to or restricted\nto specific machine or operating system\narchitecture.",
+    "1.2": "2. They increase the demand for application\nand programs that were set suitable to\nbe transferred over internet, to make\nshare of data easier.",
+    "1.3": "3. POP emphasize code rather than data and\ndivide the program into smaller processes\nparts each with set of instructions.\nOOP emphasize data and build functions\naround it. each class has its own variable\nwhich save them from accidental change.\npop code oop\ndata data\nGeneral\ndata",
+    "1.4": "4. Java Runtime Environment ⇒ environment to\nrun the java program only, It component are\n① Compiler ② Java virtual machine.",
+    "1.5": "5. inheritance is to creat class based on existed\nclass and the subclass can share all features of\nsuper class.\nPolymorphism is feature allow objects to\nbe used as general and can take different forms\naccording to required needs.",
+    "1.6": "1.6 - Mechanism to bind Code and data\nit's manipulate together and keep -them safe\nfrom interference and misuse\noutside",
+    "1.7": "1.7 - @ Interface\n- ® Abstraction classes",
+    "1.8": "1.8 - A Finished and achived goal\n® due to unusul events\n© dead and no longer anttable available.",
+    "1.9": "1.9 - A system.m\n® system.out\n© system err",
+    "1.10": "1.10 - Java swing was built over AWT\nwindows Interface (AWI) Application",
+    "2.1": "① True it is possible to inherit properties",
+    "2.2": "② True False overrid overriding",
+    "2.3": "③ True have abstract methods only with them",
+    "2.4": "④ False",
+    "2.5": "⑤ False",
+    "2.6": "⑥ True",
+    "2.7": "⑦ True",
+    "3.1": "① to adapt change in environment and use.",
+    "3.2": "② C",
+    "3.3": "③ data",
+    "3.4": "④ Applets",
+    "3.5": "⑤ Container",
+    "3.6": "⑥ Controller",
+    "3.7": "⑦ JDBC",
+    "4.1": "Q.4 4.1 show (seats [i],\" You will take seat \"+ (i+1)). Code\nExp the first part seats[i] call the elements of seat[i]\naccording to index then the text you will take\nseat \" then ? because count is from o to\nu same as the index.\ndouble",
+    "4.2": "4.2 CalculateVotes (totalVotes); Code\nexplain = we call method calculateVotes to be executed\nfor the total votes and then give out-put portions\nin form of integer, after the second statment."
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1. That java is not tied to or restricted\nto specific machine or operating system\narchitecture.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly explains that Java is not tied to or restricted to specific machine or operating system architectures, which conveys the idea of architecture-neutrality."
+      },
+      "1.2": {
+        "answer": "2. They increase the demand for application\nand programs that were set suitable to\nbe transferred over internet, to make\nshare of data easier.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student clearly states that the Internet increased the demand for applications suitable for transfer over the internet to facilitate data sharing, which aligns with the policy's criteria for why WWW/Internet created a need/demand for Java."
+      },
+      "1.3": {
+        "answer": "3. POP emphasize code rather than data and\ndivide the program into smaller processes\nparts each with set of instructions.\nOOP emphasize data and build functions\naround it. each class has its own variable\nwhich save them from accidental change.\npop code oop\ndata data\nGeneral\ndata",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student conveys that POP emphasizes code/instructions (procedures) and OOP emphasizes data and classes, aligning with the grading policy."
+      },
+      "1.4": {
+        "answer": "4. Java Runtime Environment ⇒ environment to\nrun the java program only, It component are\n① Compiler ② Java virtual machine.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'Java virtual machine' (JVM) as a component of the JRE, which satisfies the grading policy."
+      },
+      "1.5": {
+        "answer": "5. inheritance is to creat class based on existed\nclass and the subclass can share all features of\nsuper class.\nPolymorphism is feature allow objects to\nbe used as general and can take different forms\naccording to required needs.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance and polymorphism meanings are correctly described by the student."
+      },
+      "1.6": {
+        "answer": "1.6 - Mechanism to bind Code and data\nit's manipulate together and keep -them safe\nfrom interference and misuse\noutside",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student clearly states 'Mechanism to bind Code and data', which directly matches the core concept of binding/bundling code and data together as required by the rubric."
+      },
+      "1.7": {
+        "answer": "1.7 - @ Interface\n- ® Abstraction classes",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly mentioned both 'Interface' (interfaces) and 'Abstraction classes' (abstract classes), which are the two expected ways to achieve abstraction, aligning with the grading policy that allows for weak grammar/wording if the meaning is clear."
+      },
+      "1.8": {
+        "answer": "1.8 - A Finished and achived goal\n® due to unusul events\n© dead and no longer anttable available.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student provided three distinct and correct reasons for thread termination: finished goal, unusual events, and dead/no longer available. Each point maps directly to one of the accepted reasons in the rubric. Minor spelling errors did not obscure the meaning."
+      },
+      "1.9": {
+        "answer": "1.9 - A system.m\n® system.out\n© system err",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified System.out and System.err (1 mark each). 'System.m' is not clearly recoverable as System.in or any other default stream."
+      },
+      "1.10": {
+        "answer": "1.10 - Java swing was built over AWT\nwindows Interface (AWI) Application",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified AWT as the underlying technology for Swing."
+      },
+      "2.1": {
+        "answer": "① True it is possible to inherit properties",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.2": {
+        "answer": "② True False overrid overriding",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student did not clearly choose 'False'. They listed both 'True' and 'False', making their selection ambiguous. The policy states full marks only if 'False' is chosen."
+      },
+      "2.3": {
+        "answer": "③ True have abstract methods only with them",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True' as required by the policy."
+      },
+      "2.4": {
+        "answer": "④ False",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose False."
+      },
+      "2.5": {
+        "answer": "⑤ False",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student chose 'False', but the expected answer is 'True'. According to the grading policy, 3 marks are awarded only if the student chose 'True', otherwise 0."
+      },
+      "2.6": {
+        "answer": "⑥ True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly answered True."
+      },
+      "2.7": {
+        "answer": "⑦ True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose True, but the expected answer is False. According to the rubric, 3 is awarded only if the student chose False, otherwise 0."
+      },
+      "3.1": {
+        "answer": "① to adapt change in environment and use.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student mentioned 'adapt change in environment and use', which directly matches 'adapting to changing environments/uses' from the expected answer and grading policy."
+      },
+      "3.2": {
+        "answer": "② C",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly provided 'C' which is one of the accepted answers for a POP language."
+      },
+      "3.3": {
+        "answer": "③ data",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'data' directly matches the expected answer and satisfies the grading policy for full credit."
+      },
+      "3.4": {
+        "answer": "④ Applets",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Applets'."
+      },
+      "3.5": {
+        "answer": "⑤ Container",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'Container', which is one of the accepted answers."
+      },
+      "3.6": {
+        "answer": "⑥ Controller",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Controller'."
+      },
+      "3.7": {
+        "answer": "⑦ JDBC",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified JDBC."
+      },
+      "4.1": {
+        "answer": "Q.4 4.1 show (seats [i],\" You will take seat \"+ (i+1)). Code\nExp the first part seats[i] call the elements of seat[i]\naccording to index then the text you will take\nseat \" then ? because count is from o to\nu same as the index.\ndouble",
+        "score": 7.0,
+        "max_score": 14.0,
+        "reason": "The student provided '(i+1)' for the seat number, which is a very common and logical way to display 1-based seat numbers based on a 0-indexed loop. While not one of the three explicitly listed full model answers (i, 4-i, students.length-i-1), it is conceptually very close to '(i)' and thus qualifies for 'close but not one of the accepted full answers'."
+      },
+      "4.2": {
+        "answer": "4.2 CalculateVotes (totalVotes); Code\nexplain = we call method calculateVotes to be executed\nfor the total votes and then give out-put portions\nin form of integer, after the second statment.",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "The student clearly provides 'CalculateVotes (totalVotes);' which is a very clear equivalent of the expected answer 'calculateVotes(totalVotes);', despite a minor casing difference in the method name. The explanation further confirms the student's understanding."
+      }
+    },
+    "totals": {
+      "q1": 29.0,
+      "q2": 12.0,
+      "q3": 21.0,
+      "q4": 21.0,
+      "overall": 83.0
+    }
+  }
+}

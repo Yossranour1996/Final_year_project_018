@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1.1 Java is not tied to specific machine or operating\nSystem architecture.",
+    "1.2": "1.2 They help catapult Java to the forefront of programming, and\nThey will soon reach critical mass.",
+    "1.3": "1.3 POP: Process oriented model can be thought as code acting on\ndata & its major emphasize is on developing Procedures (Function)\nrather than data & can divide program into smaller part & each\npart consist of sequence of procedures & function. While\nOOP: object oriented programming can be thought as\ndata controlling access to code, it uses class & methods\nto manipulate data & code, it can divide problems into smaller\nentities called \"object\" & build function and data around\nthese objects.",
+    "1.4": "1.4 JRE: is Java runtime environment to only run (execute)\nnot develop the Java application Program.",
+    "1.5": "1.5 Inheritance is a process in which one object acquire the\nproperties of other objects (creating new class based on already\nexisting one. Subclass reuse all method & attributes of super\nclass. While polymorphism is a feature that allow one interface\nto be used for general class of action, and specific action is\ndetermined based on nature of the situation.",
+    "1.6": "1.6 encapsulation mean bind together data & code it manipulate\n& keep both safe from outside interference & misuse.",
+    "1.7": "1.7 achieve abstraction by : abstract classes & Interface\n(we can achieve 100% abstraction using interface-",
+    "1.8": "1.8 reasons are : normally finished the task . 2- Terminated due\nto un usual event . 3- Dead & no longer available.",
+    "1.9": "1.9 1-System.out 2-System.in 3.system.err",
+    "1.10": "1.10 model view controller AWT",
+    "2.1": "2-1 True",
+    "2.2": "2-2 True",
+    "2.3": "2-3 True",
+    "2.4": "2-4 False \nRun time polymer phism could be acheived by method overriding",
+    "2.5": "2-5 False\nabstract classes only could have abstract methods within them",
+    "2.6": "2-6 True",
+    "2.7": "2-7 True",
+    "3.1": "3-1 adapt to changing environment and uses is one of reasons.",
+    "3.2": "3-2 C is an example of a POP language.",
+    "3.3": "3-3 POP does not allow data",
+    "3.4": "3-4 Applet are small programs",
+    "3.5": "3-5 a From container is a component which",
+    "3.6": "3-6 The model view controlled architecture.",
+    "3.7": "3-7 JDBC is a Java API",
+    "4.1": "4.1\nCode = (Students E I ] + \"You will take seat\" + (i))",
+    "4.2": "4.2\nCode =\nCalculate Votes (total votes);"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1.1 Java is not tied to specific machine or operating\nSystem architecture.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student conveys the idea that Java is not restricted to one specific system architecture, aligning with the concept of being architecture-neutral."
+      },
+      "1.2": {
+        "answer": "1.2 They help catapult Java to the forefront of programming, and\nThey will soon reach critical mass.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student states that WWW/Internet helped 'catapult Java to the forefront,' which is a general statement about popularity, but does not explain *how* or *why* WWW/Internet created a *need* or *demand* for Java's specific capabilities (e.g., platform independence, distributed programming, applets) as required by the policy. The answer is too vague and does not address the core 'role' in terms of creating a necessity for Java."
+      },
+      "1.3": {
+        "answer": "1.3 POP: Process oriented model can be thought as code acting on\ndata & its major emphasize is on developing Procedures (Function)\nrather than data & can divide program into smaller part & each\npart consist of sequence of procedures & function. While\nOOP: object oriented programming can be thought as\ndata controlling access to code, it uses class & methods\nto manipulate data & code, it can divide problems into smaller\nentities called \"object\" & build function and data around\nthese objects.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identifies POP as procedure/function oriented ('developing Procedures (Function) rather than data') and OOP as object/class oriented ('uses class & methods', 'smaller entities called \"object\" & build function and data around these objects'). This aligns with the grading policy."
+      },
+      "1.4": {
+        "answer": "1.4 JRE: is Java runtime environment to only run (execute)\nnot develop the Java application Program.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student defined JRE's purpose but did not list any of its components (e.g., JVM, libraries)."
+      },
+      "1.5": {
+        "answer": "1.5 Inheritance is a process in which one object acquire the\nproperties of other objects (creating new class based on already\nexisting one. Subclass reuse all method & attributes of super\nclass. While polymorphism is a feature that allow one interface\nto be used for general class of action, and specific action is\ndetermined based on nature of the situation.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance and polymorphism are clearly and correctly defined by the student, matching the expected concepts."
+      },
+      "1.6": {
+        "answer": "1.6 encapsulation mean bind together data & code it manipulate\n& keep both safe from outside interference & misuse.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student clearly expresses the idea of 'bind together data & code', which matches the expected concept of binding/bundling code and data together."
+      },
+      "1.7": {
+        "answer": "1.7 achieve abstraction by : abstract classes & Interface\n(we can achieve 100% abstraction using interface-",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly mentioned 'abstract classes' and 'Interface', which are the two required concepts for full marks."
+      },
+      "1.8": {
+        "answer": "1.8 reasons are : normally finished the task . 2- Terminated due\nto un usual event . 3- Dead & no longer available.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided all three correct reasons for thread termination: finished normally, unusual event, and dead/no longer available."
+      },
+      "1.9": {
+        "answer": "1.9 1-System.out 2-System.in 3.system.err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified all three default streams: System.out, System.in, and System.err. Minor casing error for System.err is ignored per policy."
+      },
+      "1.10": {
+        "answer": "1.10 model view controller AWT",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified AWT as the technology Swing is built upon, which matches the expected answer."
+      },
+      "2.1": {
+        "answer": "2-1 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'True'."
+      },
+      "2.2": {
+        "answer": "2-2 True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose True, but the correct answer is False. Per policy, 3 marks are awarded only for choosing False."
+      },
+      "2.3": {
+        "answer": "2-3 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose True, matching the expected answer."
+      },
+      "2.4": {
+        "answer": "2-4 False \nRun time polymer phism could be acheived by method overriding",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'False' as required by the policy."
+      },
+      "2.5": {
+        "answer": "2-5 False\nabstract classes only could have abstract methods within them",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose False, but the expected answer was True. According to the policy, 3 points are given only if the student chose True, otherwise 0."
+      },
+      "2.6": {
+        "answer": "2-6 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose True."
+      },
+      "2.7": {
+        "answer": "2-7 True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True', but the expected answer is 'False'. According to policy, 3 points are awarded only if 'False' is chosen, otherwise 0."
+      },
+      "3.1": {
+        "answer": "3-1 adapt to changing environment and uses is one of reasons.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student explicitly mentions 'adapt to changing environment and uses', which directly matches the grading criteria."
+      },
+      "3.2": {
+        "answer": "3-2 C is an example of a POP language.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identifies 'C' as an example of a POP language, which aligns with the expected answer and grading policy."
+      },
+      "3.3": {
+        "answer": "3-3 POP does not allow data",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'data' directly matches the expected concept."
+      },
+      "3.4": {
+        "answer": "3-4 Applet are small programs",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Applet', which matches the expected answer for small programs executing in a web browser."
+      },
+      "3.5": {
+        "answer": "3-5 a From container is a component which",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'container' which is an accepted answer, even with additional text."
+      },
+      "3.6": {
+        "answer": "3-6 The model view controlled architecture.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student's answer 'controlled' clearly indicates the 'Controller' component of the MVC architecture, aligning with the intended meaning despite a slight difference in word form."
+      },
+      "3.7": {
+        "answer": "3-7 JDBC is a Java API",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified JDBC, which matches the expected answer."
+      },
+      "4.1": {
+        "answer": "4.1\nCode = (Students E I ] + \"You will take seat\" + (i))",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "The student's answer, despite minor OCR/spelling issues (interpreting 'Students E I ]' as 'students[i]'), correctly identifies one of the three accepted full model answers: '+ (i)' for the seat number. The surrounding text also closely matches the expected output structure."
+      },
+      "4.2": {
+        "answer": "4.2\nCode =\nCalculate Votes (total votes);",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "The student clearly provides 'Calculate Votes (total votes);' which is a very clear equivalent to the expected 'calculateVotes(totalVotes);', despite minor casing and spacing differences. The intended meaning is perfectly clear, warranting full marks according to the policy."
+      }
+    },
+    "totals": {
+      "q1": 24.0,
+      "q2": 12.0,
+      "q3": 21.0,
+      "q4": 28.0,
+      "overall": 85.0
+    }
+  }
+}

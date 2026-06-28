@@ -1,2 +1,0 @@
-system.out.prinIn (seats[i] + "you will tak seat" + i )
-Public int = Votes

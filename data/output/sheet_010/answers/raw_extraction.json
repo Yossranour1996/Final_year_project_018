@@ -1,42 +1,42 @@
 [
   {
     "page": "page_01.png",
-    "text": "EMPTY"
+    "text": ""
   },
   {
     "page": "page_02.png",
-    "text": "Question (4) 1\n1 We mean that the JAVA is not restricted by a\nspecific system architedure.\n2 They introduced Applets which exted extended whe\nfunctionality of the web, and dso servelt that extended\nfunctionaliay of the server\n3 The dit POP treats the code lines as instructions\nand emphasizes on the procedure, on the other hand\nOOP encapsulate the code and data it manipulates and\nemphasized on data\n4 JPE or JAVA Runtime Enviroment consists of library.\nand JVM to Run the code\n5 Inheritence = new classed inherits ahe attributes and\nmethods of older classes, Poly morphis, Allow one\ninterface to be used for genand use case, Inheritance keep\nthe old classes methods while polymorphism might alter them.\n6 Encapsulations is ahe mechanism ahat binds the code\nand data in manipulates, and keep ahem safe from\noutside interference and misuse\n7 Class abstracts and interfaces.\n8 1 finished and completed ahe task normally\n2 termindted due to unusual events."
+    "text": "1.1) JAVA's motto is \"write once, run anywhere\", but meaning\nit could run in multiple environments and architecture.\n1.2) The internet required flexible languages to work\non multiple platforms, it also required more complex\nprograms which required more complex programming languages.\n1.3) OOP :- object oriented programming. the \"object\" or\ndata are an integral part of the program and it's not\nfor just free flowing, contains classes.\nPOP :- procedural oriented programming, divides the program\ninto smaller procedure's or \"functions\".\n1.4) JRE = contains Byte compiler and JVE (JAVA\nvirtual Environment).\n(1.5) inheritance - is the idea that a parent class can inherit modifiers\nand functionality from another parent class.\nPolymorphism :- the using of interface to get around the\nmulti inheritance problem (Diamond problem)\n(1.6) encapsulation :- the use of setters for read-only\nand getters for write-only.\n(1.7) abstract classes\nin interface\n(1.8) if you catch a threat or made an exception, finally\n(1.9) system. In , system.err, system.out\n(1.10) the JAVA language was an improvement of C and C++"
   },
   {
     "page": "page_03.png",
-    "text": "Stopped due to runtime\nerror\nSystem In, System.out, System.err\nJAVA Swing was built on top of AWT\nQuestion (2):-\n1) The C++ language was called \"C with Classes\"\nTrue\n2) It is not possible for an interface to inherit another interfacers\nproperties\nTrue\n3) The Java byte code is a class file that is executed\nby the Java run-time system\nTrue\n4) Run time polymorphism could be achieved by method\nOverloading\nFalse, It's achieved by Overriding.\n5) Abstract classes could have non-abstract methods within them\nFalse, that would lead to the diamond problem,\nwhich causes the class to exted extend till ia errors out\n6) JAVA threds are light weigh ahreads\nTrue"
+    "text": "(2-1) T\n(2-2) F\n(2-3) T\n(2-4) F\n(2-5) T\n(2-6) T\n(2-7) F"
   },
   {
     "page": "page_04.png",
-    "text": "There is one JDBC driver for all database sources\neach source has its own implementations for\n- True\nQuestion 35\n1] Enhancement is one of the reason that computer\nlanguage innovation ocenred.\n2] C is an example of a POP language.\ninstructions\n3] POP does not allow flow freely in the\nProgram\n4] Applets are small programs that need a java\nenabled web browser to be executed\n5] a Frame is a component which can contain other\nelements like buttons.\n6] The model-view controler (MVC) architecture is used in swing\n7] JDBC is a Java API to connect and interact warich\ndatabases"
+    "text": "(3.1) adaptation, improvement\n(3.2) C language\n(3.3) DATA\n(3.4) HTML\n(3.5) JADP\n(3.6) mobile\n(3.7) swing"
   },
   {
     "page": "page_05.png",
-    "text": "for each block code, complete the CODE\nthe output and provide explanation for your.\n7 Students [:] (\"you\nbetween line [for(int\nfrom che output we\nyou will tak seat\"\") & (4-(ⅰ))\nto get\nanswer\nI and line (System.out.print(Code)\ncould see the printed statement\na long with the student identifier.\n(M,C,G, P.D) and their respected seats, which is\n\"Yoke will take beat\"\nekong enough information.\nto write the remaining code,\n2 Weine missing the equation that calentator add positive\nvotes so\nWeire\nmissing \" If Java was\neasy, they would call it python\"\nStatement\nPublic class Asree{\npublic static void\nint total votes\nmam (String[] args) {\n760\nSystem.out.println(\"Statement; It Java was easy, they would\nCall it Python!\");\nSystem.out.println(\"The number of people who agree wial this.\nSantement is 114\").\npublic static void Calculate Votes (double num Of Votes ) {\n// 15% of rotes do agree with the statement.\ndouble portion\nnum Of Votes\n* 0-15;\nSystem.out.println(\" the number of people who agree with this m\nStatement is\"\n+ (int) portion);"
+    "text": "(4.1) system.out.println(seats[i]+ \" you will tak seat \" + i )\n(4.2) Public int = votes"
   },
   {
     "page": "page_06.png",
-    "text": "We added the missing statenented and Printed it on\na new line-\nSystem.out.println(\"the amount of people who agrees with this lo\nStatement is\nSystem.out.print In (\"Statement, if Jara was easy ahey would\ncall it Python!\");"
+    "text": "EMPTY"
   },
   {
     "page": "page_07.png",
-    "text": "EMPTY"
+    "text": ""
   },
   {
     "page": "page_08.png",
-    "text": "EMPTY"
+    "text": ""
   },
   {
     "page": "page_09.png",
-    "text": "EMPTY"
+    "text": ""
   },
   {
     "page": "page_10.png",
-    "text": "EMPTY"
+    "text": ""
   }
 ]

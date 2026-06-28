@@ -10,88 +10,72 @@ Instructions:
 
 RAW OCR REFERENCE
 ================================================================================
+===== RAW OCR FROM page_01.txt =====
+EMPTY
+
+
 ===== RAW OCR FROM page_02.txt =====
-"1.1" 1- It's meanthat Java is not nestricted dar
-specific system archeticture. "1.1/"
-"1.2" 12- by using appletand serveet "1.2/"
-"1.3" pop procedure (code) Operate on dutato
-let program reach youl
-and op uses classes and methods thate en
-encapsulate both code and data. "1.3/"
-"1.4" Java Virtual machine + libraries + files. "1.4/"
-"1.5" Inherite
-In heretance create anew class that take a
-Superor other class proberties, While polymorphism.
-let thep divide the program for two processes and.
-letthem rum inparalled [concurrent]
-also inheretan ce allow thonew class to take other "1.5/"
-"1.6" 1.6 - mean to gather data and code together.
-and kemanaplate and Reep them sef prorected
-from outside. "1.6/"
-"1.7" 1.7 abstract classes + abstract methods. "1.7/"
-"1.8" main() writed Main() with capital letter (M) "1.8/"
-"1.9" 1-9- Systemalh System.out System.err. "1.9/"
-"1.10" 1.10 - Java developement.
-JOBC "1.10/"
+"1.1" 1) Jave not restricted by specifaing machine or operating system
+Architecture "1.1/" 
+"1.2" 2) by using Web browser and Create Java Applets "1.2/"
+"1.3" 3) POP = procedural oriented language operates on data to achieve
+Some goal
+OOP = use objects and classes and instruction to encapsulated
+both data and Code
+data With
+Code encapsulate "1.3/" 
+"1.4" 4) Java Runtime environment that has (JVM) = Java Virtual
+machine "1.4/" 
+"1.5"  5) inheritance = creat new classes based on existing ones and
+a class inherit from anther class reuse all fields and methods of that class
+in addition new fields from
+polymorphism = having many forms in word or ability of
+massege to be disably in more then one form "1.5/" 
+"1.6"  6) machnism that bind together code and data it manipultes and
+Keep them safe from outside inter farance "1.6/" 
+"1.7"  7) interfaces and abstract classes "1.7/" 
+"1.8" 8) finisheel task normally —®
+terminet due to unusual events x —®
+dead or No longer avalible —® "1.8/" 
 
 
 ===== RAW OCR FROM page_03.txt =====
-"2.1" 2.1
-true "2.1/"
-"2.2" 2.2 true. "2.2/"
-"2.3" 2.3 true. "2.3/"
-"2.4" 2.4 false "2.4/"
-"2.5" 2.5 false - "2.5/"
-"2.6" 2.6 True "2.6/"
-"2.7" 2.7 false. "2.7/"
+"1.9" 9) System.in / System.out / system.err "1.9/" 
+"1.10" 10) Java AWT (Abstract Window toolKit) we built API
+Swing on top of it "1.10/"
 
 
 ===== RAW OCR FROM page_04.txt =====
-"3.1" to devetop Implement developement in in
-the art of programing. "3.1/"
-"3.2" Programing laby nage "3.2/"
-"3.3" data "3.3/"
-"3.4" applet "3.4/"
-"3.5" Container "3.5/"
-"3.6" Swinging de system "3.6/"
-"3.7" JDBC "3.7/"
+"2.1" 1) True "2.1/"
+"2.2" 2) False = o other True "2.2/"
+"2.3" 3) True "2.3/"
+"2.4" 4) False = o by over overriding method or you can say compile time "2.4/"
+"2.5" 5) False = o could not "2.5/"
+"2.6" 6) True "2.6/"
+"2.7" 7) True "2.7/"
 
 
 ===== RAW OCR FROM page_05.txt =====
-"4.1" student (ⅰ)+", you will take seat" + (1)
-student(i)
-Print the letter of student. in string[] seat.
-!", you will take seat" 2.
-(11) for string print the specific sentence between
-them
-(1)8
-sabasic cateradora todacalate the
-everytime[i]) inter the for loop and beginning.
-with valve O and chechistic seat length/add
-one- so so it's begin with vame (O Juntil (4). "4.1/"
-"4.2" public static int calculate Votes (total 'Votes)
-we use int to make the output an integer
-and use the function cakulate Votes to be execute
-on the total votes. "4.2/"
+"3.1" 1) adapt changeing in environments and uses "3.1/"
+"3.2" 2) (C) language "3.2/"
+"3.3" 3) procedures (functions)  "3.3/" 
+"3.4"  4) Jave Applets "3.4/" 
+"3.5" 5) [UNK] container "3.5/"
+"3.6" 6) model view controller "3.6/"
+"3.7" 7) JDBC = Jave data base conectivity "3.7/"
 
 
 ===== RAW OCR FROM page_06.txt =====
-EMPTY
+① Student
+"4.1" student seats
+student [i] + "you will take seat" + stor seat.length [i]
+first you call choractor from list = seats and then goes through loop and
+after that length of seats => like index [0] = ["M"] and less than length
+of list so + "you will take seat" "4.1/"
+"4.2"  double num Of Votes = total Votes; "4.2/" 
 
 
 ===== RAW OCR FROM page_07.txt =====
-EMPTY
-
-
-===== RAW OCR FROM page_08.txt =====
-EMPTY
-
-
-===== RAW OCR FROM page_09.txt =====
-EMPTY
-
-
-===== RAW OCR FROM page_10.txt =====
 EMPTY
 
 

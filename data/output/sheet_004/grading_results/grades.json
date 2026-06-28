@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "(1) We mean that Java is not restricted to a specific\narchitechure of computer.",
+    "1.2": "(2) Java has taken a lot of instructions and Internet\nallowed and gave new features to the world of programing and Java\ncreated a special package simplified the internet.",
+    "1.3": "(3) POP deals more about procedures (methods or code) and\nthey are there major emphasis, on the other hand OOP uses\nthe concept of classes to combine and focus on both data\n(which is not much focused on on POP) and methods (codes)\nand uses the concept of classes and objects.",
+    "1.4": "(4) Compiler and implementation tools",
+    "1.5": "(5) Inheritance means to use create a class from initial\nclass. The new class can content the methods and dat attributes\nof the first class (created from), but polymorphism that inst.\nis taking instruction and features of a class and use it in general and can be.",
+    "1.6": "(6) Encapsulation is to combine together data and codes (methods)\nand secure them from outside (interfaces) the classes.",
+    "1.7": "(7) run time compile time class abstraction, function abstraction\nand unusual unusual.",
+    "1.8": "(8) @ Instructions executed normally. @ Execution stopped due to an event\n@ Could be dead and unavailable.",
+    "1.9": "(9) System. In\nSystem. out\nSystem. err",
+    "1.10": "(10) API Java swing was built on the top of JDBC\nto connet and interact to database.",
+    "2.1": "(1) True",
+    "2.2": "(2) True",
+    "2.3": "(3) True",
+    "2.4": "(4) False. It is achieved by method overriding.",
+    "2.5": "(5) False. It couldn't have a non-abstracted method inside it.",
+    "2.6": "(6) True",
+    "2.7": "(7) False There are more than one driver True",
+    "3.1": "(1) limitation",
+    "3.2": "(2) C",
+    "3.3": "(3) data",
+    "3.4": "(4) servlet and Applet",
+    "3.5": "(5) Frame",
+    "3.6": "(6) controller",
+    "3.7": "(7) JBDC",
+    "4.1": "(1) [UNK] You will take seat\nStudent's [UNK] # \"You will take seat\" (4-1):",
+    "4.2": "(2) Calculate [UNK] votes ():"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "(1) We mean that Java is not restricted to a specific\narchitechure of computer.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly conveys that Java is not restricted to a specific architecture, which aligns with the expected concept. Minor spelling error ('architechure') is ignored as per grading policy."
+      },
+      "1.2": {
+        "answer": "(2) Java has taken a lot of instructions and Internet\nallowed and gave new features to the world of programing and Java\ncreated a special package simplified the internet.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer, despite weak phrasing, conveys that Java simplified the internet (likely meaning internet programming or interaction) and that the internet influenced programming. The statement 'Java created a special package simplified the internet' aligns with Java serving WWW/Internet needs, which per policy, warrants full marks even with poor wording if the intended meaning is clear."
+      },
+      "1.3": {
+        "answer": "(3) POP deals more about procedures (methods or code) and\nthey are there major emphasis, on the other hand OOP uses\nthe concept of classes to combine and focus on both data\n(which is not much focused on on POP) and methods (codes)\nand uses the concept of classes and objects.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identifies POP as procedure-focused and OOP as class/object-focused, combining data and methods."
+      },
+      "1.4": {
+        "answer": "(4) Compiler and implementation tools",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student mentioned 'Compiler and implementation tools', which are components of the JDK, not the JRE. No valid JRE component was identified."
+      },
+      "1.5": {
+        "answer": "(5) Inheritance means to use create a class from initial\nclass. The new class can content the methods and dat attributes\nof the first class (created from), but polymorphism that inst.\nis taking instruction and features of a class and use it in general and can be.",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "Inheritance meaning is correct despite minor typos. Polymorphism explanation is too vague and unclear to be considered correct."
+      },
+      "1.6": {
+        "answer": "(6) Encapsulation is to combine together data and codes (methods)\nand secure them from outside (interfaces) the classes.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student clearly states 'combine together data and codes (methods)', which directly matches the expected concept of binding/bundling code and data together."
+      },
+      "1.7": {
+        "answer": "(7) run time compile time class abstraction, function abstraction\nand unusual unusual.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student did not mention both abstract classes and interfaces as required by the policy for full marks. 'function abstraction' is not equivalent to interfaces."
+      },
+      "1.8": {
+        "answer": "(8) @ Instructions executed normally. @ Execution stopped due to an event\n@ Could be dead and unavailable.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided three distinct reasons for thread termination that match the grading policy: normal execution completion, termination due to an event (exception/error), and being dead/unavailable."
+      },
+      "1.9": {
+        "answer": "(9) System. In\nSystem. out\nSystem. err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "All three default streams (System.in, System.out, System.err) are correctly identified, with System.in having a minor capitalization difference ('In' instead of 'in') which is ignored per policy."
+      },
+      "1.10": {
+        "answer": "(10) API Java swing was built on the top of JDBC\nto connet and interact to database.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student incorrectly stated JDBC instead of AWT/Abstract Window Toolkit. No credit can be awarded as it is not the correct concept or a clear equivalent."
+      },
+      "2.1": {
+        "answer": "(1) True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'True'."
+      },
+      "2.2": {
+        "answer": "(2) True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True', but the correct answer is 'False'. According to the policy, 3 is given only if 'False' is chosen; otherwise, 0."
+      },
+      "2.3": {
+        "answer": "(3) True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'True'."
+      },
+      "2.4": {
+        "answer": "(4) False. It is achieved by method overriding.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as False, aligning with the grading policy."
+      },
+      "2.5": {
+        "answer": "(5) False. It couldn't have a non-abstracted method inside it.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student chose False, but the correct answer is True. According to the grading policy, 3 marks are awarded only if the student chose True, otherwise 0."
+      },
+      "2.6": {
+        "answer": "(6) True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified the statement as True, matching the expected answer and the teacher's grading policy for full credit."
+      },
+      "2.7": {
+        "answer": "(7) False There are more than one driver True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the answer as False, which matches the expected answer."
+      },
+      "3.1": {
+        "answer": "(1) limitation",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'limitation' does not directly mention improvement in programming or adapting to changing environments/uses, which are the criteria for full marks according to the grading policy."
+      },
+      "3.2": {
+        "answer": "(2) C",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly provided 'C', which is an accepted example of a POP language according to the rubric."
+      },
+      "3.3": {
+        "answer": "(3) data",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'data' directly matches the expected concept, fulfilling the grading policy for full marks."
+      },
+      "3.4": {
+        "answer": "(4) servlet and Applet",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly mentioned 'Applet' which is the expected answer, despite also including an incorrect term. The policy awards full marks if 'Applet/Applets' is given."
+      },
+      "3.5": {
+        "answer": "(5) Frame",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Frame' which is an accepted answer according to the grading policy."
+      },
+      "3.6": {
+        "answer": "(6) controller",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'controller' which is the correct concept, matching 'Controller' as per grading policy allowing for minor case differences."
+      },
+      "3.7": {
+        "answer": "(7) JBDC",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'JBDC', which is a clear typo for 'JDBC'. The intended meaning is recoverable and aligns with the expected answer, meriting full credit per grading principles for minor spelling mistakes."
+      },
+      "4.1": {
+        "answer": "(1) [UNK] You will take seat\nStudent's [UNK] # \"You will take seat\" (4-1):",
+        "score": 7.0,
+        "max_score": 14.0,
+        "reason": "The student provides `(4-1)` as the seat assignment. This is structurally very close to one of the accepted full answers `(4 - i)`, using the number `4` and the subtraction operator. While `(4-1)` results in a constant `3` and thus does not dynamically assign seats based on `i`, it's considered 'close' to a correct formula rather than a completely weak or irrelevant attempt."
+      },
+      "4.2": {
+        "answer": "(2) Calculate [UNK] votes ():",
+        "score": 7.0,
+        "max_score": 14.0,
+        "reason": "Student attempts the answer in the correct direction by stating 'Calculate votes', which implies the intended function logic. While the specific function call `calculateVotes(totalVotes);` is not fully provided and the syntax `():` is incorrect, the core intent is clear, and 'votes' is mentioned, aligning with the criteria for 7 marks."
+      }
+    },
+    "totals": {
+      "q1": 20.0,
+      "q2": 15.0,
+      "q3": 18.0,
+      "q4": 14.0,
+      "overall": 67.0
+    }
+  }
+}

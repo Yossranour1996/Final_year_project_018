@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1.1 => That means java is not restricted to specific\narchitecture environment.",
+    "1.2": "1.2 => applications were shared over internet,",
+    "1.3": "1.3: POP use the code and operate it in the data,\nto achieve the program, while oop use objects\nand classes and encapsulate code and data to achieve\nthe program.",
+    "1.4": "1.4 Compiler - JVN",
+    "1.5": "1.5 inheritance means the process in which one object\ntake the properties of another object, while\npolymorphism means a feature that allows the interface\nto take general class of action",
+    "1.6": "1.6 encapsulation is the process in which both code\nand data are bind together and being protected\nfrom external interference",
+    "1.7": "1.7 Class, abstraction, interface, abstraction",
+    "1.8": "1.8: 1) the thread has been completed normally.\n2) The thread has stopped because of unusual event\n3) is dead or no longer available",
+    "1.9": "1.9: System.out, System.in, System.err",
+    "1.10": "1.10 = connect with the database\nAWI",
+    "2.1": "2.1 : True",
+    "2.2": "2.2 : True",
+    "2.3": "2.3 : True",
+    "2.4": "2.4 : False by method override",
+    "2.5": "2.5 : False. Could have abstract methods within them.",
+    "2.6": "2.6 : True",
+    "2.7": "2.7 : True",
+    "3.1": "3.1 => Implement improvements in the art of programming",
+    "3.2": "3.2 => C",
+    "3.3": "3.3 => data",
+    "3.4": "3.4 => Applet",
+    "3.5": "3.5 => Container",
+    "3.6": "3.6 => Controller",
+    "3.7": "3.7 => JDBC",
+    "4.1": "4.1 => Seats[i] + \"you will take seat\" + (i)\nbecause we need to define the printed output\nand it Contains the items of String[] Seats\nand their indexes.",
+    "4.2": "4.2 => Calculate Votes (total Votes);"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1.1 => That means java is not restricted to specific\narchitecture environment.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly states that Java is not restricted to a specific architecture."
+      },
+      "1.2": {
+        "answer": "1.2 => applications were shared over internet,",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student identifies that applications were shared over the internet, which directly relates to the kind of programming Java was designed to support (e.g., applets, distributed applications) and thus implies the role of the Internet in creating a need for Java. This aligns with the policy's acceptance of any valid meaning related to Java serving WWW/Internet needs."
+      },
+      "1.3": {
+        "answer": "1.3: POP use the code and operate it in the data,\nto achieve the program, while oop use objects\nand classes and encapsulate code and data to achieve\nthe program.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identifies POP with code/data operation and OOP with objects/classes."
+      },
+      "1.4": {
+        "answer": "1.4 Compiler - JVN",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student mentioned 'JVN', which is clearly a recoverable misspelling of 'JVM'. JVM is a valid component of JRE."
+      },
+      "1.5": {
+        "answer": "1.5 inheritance means the process in which one object\ntake the properties of another object, while\npolymorphism means a feature that allows the interface\nto take general class of action",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance and polymorphism explanations are correct. Inheritance is described as one object taking properties of another, which captures the essence of inheriting properties. Polymorphism is described as an interface taking a general class of action, which matches the expected concept of a 'general class of actions' for polymorphism."
+      },
+      "1.6": {
+        "answer": "1.6 encapsulation is the process in which both code\nand data are bind together and being protected\nfrom external interference",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student explicitly states that code and data are 'bind together', which directly matches the core concept of binding/bundling code and data together as required by the rubric."
+      },
+      "1.7": {
+        "answer": "1.7 Class, abstraction, interface, abstraction",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student mentions 'Class, abstraction' (interpretable as abstract class) and 'interface', fulfilling both requirements despite weak grammar, which is allowed by the rubric."
+      },
+      "1.8": {
+        "answer": "1.8: 1) the thread has been completed normally.\n2) The thread has stopped because of unusual event\n3) is dead or no longer available",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "All three points correctly identify reasons for thread termination: normal completion, unusual event, and being dead/no longer available, matching the grading policy."
+      },
+      "1.9": {
+        "answer": "1.9: System.out, System.in, System.err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified all three default streams: System.out, System.in, and System.err."
+      },
+      "1.10": {
+        "answer": "1.10 = connect with the database\nAWI",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student's 'AWI' is a clear misspelling of 'AWT', which is the correct answer. The intended meaning is recoverable."
+      },
+      "2.1": {
+        "answer": "2.1 : True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.2": {
+        "answer": "2.2 : True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose True, but the correct answer is False according to the expected answer and grading policy."
+      },
+      "2.3": {
+        "answer": "2.3 : True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True, matching the expected answer and grading policy."
+      },
+      "2.4": {
+        "answer": "2.4 : False by method override",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'False'."
+      },
+      "2.5": {
+        "answer": "2.5 : False. Could have abstract methods within them.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student chose False, but the expected answer is True. According to the policy, full marks are only awarded if the student chose True."
+      },
+      "2.6": {
+        "answer": "2.6 : True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'True', matching the expected answer and receiving full credit per the grading policy."
+      },
+      "2.7": {
+        "answer": "2.7 : True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student chose 'True', but the expected answer was 'False'. According to the teacher's policy, full marks (3) are awarded only if 'False' is chosen."
+      },
+      "3.1": {
+        "answer": "3.1 => Implement improvements in the art of programming",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student's answer explicitly mentions 'improvements in the art of programming', which aligns with the expected concept of 'Improvement in programming'."
+      },
+      "3.2": {
+        "answer": "3.2 => C",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified C as an example of a POP language."
+      },
+      "3.3": {
+        "answer": "3.3 => data",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'data' perfectly matches the expected answer and the grading policy for full marks."
+      },
+      "3.4": {
+        "answer": "3.4 => Applet",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Applet' which matches the expected answer and grading policy."
+      },
+      "3.5": {
+        "answer": "3.5 => Container",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Container', which is an accepted answer according to the grading policy."
+      },
+      "3.6": {
+        "answer": "3.6 => Controller",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Controller' as the missing part of the MVC architecture."
+      },
+      "3.7": {
+        "answer": "3.7 => JDBC",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified JDBC, which matches the expected answer."
+      },
+      "4.1": {
+        "answer": "4.1 => Seats[i] + \"you will take seat\" + (i)\nbecause we need to define the printed output\nand it Contains the items of String[] Seats\nand their indexes.",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "The student's answer 'Seats[i] + \"you will take seat\" + (i)' provides '(i)' as the seat number, which is one of the three explicitly accepted full model answers. Minor differences in variable name (Seats vs students) or string literal formatting (missing comma) are negligible according to grading principles."
+      },
+      "4.2": {
+        "answer": "4.2 => Calculate Votes (total Votes);",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Student clearly provides the intended function call 'Calculate Votes (total Votes);' which is a very clear equivalent of 'calculateVotes(totalVotes);' as per the grading policy's leniency on wording and minor syntax."
+      }
+    },
+    "totals": {
+      "q1": 30.0,
+      "q2": 12.0,
+      "q3": 21.0,
+      "q4": 28.0,
+      "overall": 91.0
+    }
+  }
+}

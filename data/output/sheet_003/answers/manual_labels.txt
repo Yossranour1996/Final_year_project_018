@@ -1,0 +1,194 @@
+MANUAL LABELING FILE
+================================================================================
+
+Instructions:
+1) Put each answer between its opening and closing markers.
+2) Format must be exactly like: with number between quotes and then closed with number between quotes and slach
+3) Leave the block empty if there is no answer.
+4) Do NOT change the question keys.
+5) After editing this file, save it, then return to the terminal and press Enter.
+
+RAW OCR REFERENCE
+================================================================================
+===== RAW OCR FROM page_02.txt =====
+EMPTY
+
+
+===== RAW OCR FROM page_03.txt =====
+"1.1" 
+1. it means that java is not restricted to any
+specific system architecture, and that it can
+run on almost all systems with its bytecode. "1.1/" 
+"1.2" 
+2. when the world wide web came to view, many
+new languages came such as Java, which
+had the revolutionary applets, temm and service,
+that can run java applications on browser."1.2/"  
+"1.3"  3. POP works on procedural code,
+the data is it focuses on code by making many
+functions and using them to work on data. but in
+OOP, the focus was at grouping all the data
+together in form of objects and interfaces so
+its data working on code. "1.3/" 
+4. Encapsulation can mean wrapping the data
+so that only the permissioned objects can have
+access to them, and that's by declaring it private. 
+5. polymorphism means using the same method for
+different data types (overloading) and its works on methods
+and parameters, while inheritance means
+making a new class from an existing one that
+inherit all the methods, so inheritance works on 
+classes and interfaces. 
+"1.4" 6. it consists of java development environment, and
+java virtual machine to interpret the
+bytecode, while the environment is for setting and
+running the code. "1.4/"
+
+
+===== RAW OCR FROM page_04.txt =====
+"1.5" 1.5 inheritance means making new class from
+an existing class, so it works on classes and interfaces
+and the inherited class can use methods of the other class.
+while polymorphism means methods having many
+forms such as overloading or overriding, so polymorphism
+works on methods. "1.5/"
+"1.6" 1.6 encapsulation can mean wrapping data together
+so that only commissioned classes or packages can have
+access to it and that's by declaring attributes private. "1.6/" 
+"1.7" 1.7 it can be made by declaring attributes private
+or classes, or making interface so its methods and
+attributes by default. "1.7/" 
+"1.8" 1.8 A when it has finished its assigned task.
+B unknown behaviours.
+C it reached dead end. "1.8/" 
+"1.9" 1.9 A system.in (input stream)
+B system.out (output stream)
+C system.err (error stream) "1.9/"
+"1.10" 1.10 it was built on top of AWTC application window
+(toolkit) "1.10/"
+
+
+===== RAW OCR FROM page_05.txt =====
+"2.1" 21. true "2.1/" 
+"2.2" 22. False - interfaces can inherit from each others. "2.2/" 
+"2.3" 23. true "2.3/"
+"2.4" 24. False - it can be achieved by overriding. "2.4/" 
+"2.5" 25. true. "2.5/"
+"2.6" 26. true. "2.6/"
+"2.7" 27. False - there are many drivens for all data base sources. "2.7/"
+
+
+===== RAW OCR FROM page_06.txt =====
+"3.1" 3.1- the need to improve in art of programming (like WWE or internet) "3.1/" 
+"3.2" 3.2- c "3.2/" 
+"3.3" 3.3- data "3.3/" 
+"3.4" 3.4- applets "3.4/" 
+"3.5" 3.5- Frame "3.5/"
+"3.6" 3.6- Web (widgets) "3.6/"
+"3.7"  3.7- JDBC (java database connectivity) "3.7/"
+
+
+===== RAW OCR FROM page_07.txt =====
+"4.1" 4.1 CODE = seats[i] + " you will take seat " + i
+CODE = seats[i] + " you will take seat " + i
+explanation: Consist
+we can observe the series that the letters are been
+printed for each line as the letters from empty string
+seats printed in ascending index order (starting from 0)
+compensate letters
+second: we read the string to string (you will take seats)
+and concatenate all the seats with (i) which is
+the index of the letters "4.1/"
+"4.2" 4.2
+CODE = calculateVotes(totalVotes);
+explanation:-
+we have an already defined Function (calculateVotes) and
+we have a parameter total Votes with a value 769.50
+we can pass the function and get the parameter
+and call to it to get the final output viewed. "4.2/" 
+
+
+===== RAW OCR FROM page_09.txt =====
+EMPTY
+
+
+EDITABLE LABEL BLOCKS
+================================================================================
+
+"1.1" 
+"1.1/"
+
+"1.2" 
+"1.2/"
+
+"1.3" 
+"1.3/"
+
+"1.4" 
+"1.4/"
+
+"1.5" 
+"1.5/"
+
+"1.6" 
+"1.6/"
+
+"1.7" 
+"1.7/"
+
+"1.8" 
+"1.8/"
+
+"1.9" 
+"1.9/"
+
+"1.10" 
+"1.10/"
+
+"2.1" 
+"2.1/"
+
+"2.2" 
+"2.2/"
+
+"2.3" 
+"2.3/"
+
+"2.4" 
+"2.4/"
+
+"2.5" 
+"2.5/"
+
+"2.6" 
+"2.6/"
+
+"2.7" 
+"2.7/"
+
+"3.1" 
+"3.1/"
+
+"3.2" 
+"3.2/"
+
+"3.3" 
+"3.3/"
+
+"3.4" 
+"3.4/"
+
+"3.5" 
+"3.5/"
+
+"3.6" 
+"3.6/"
+
+"3.7" 
+"3.7/"
+
+"4.1" 
+"4.1/"
+
+"4.2" 
+"4.2/"

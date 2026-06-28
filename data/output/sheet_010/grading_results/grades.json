@@ -1,197 +1,197 @@
 {
   "parsed_answers": {
-    "1.1": "1 We mean that the JAVA is not restricted by a specific system architedure.",
-    "1.2": "2 They introduced Applets which exted extended whe\nfunctionality of the web, and dso servelt that extended\nfunctionaliay of the server",
-    "1.3": "3 The dit POP treats the code lines as instructions\nand emphasizes on the procedure, on the other hand\nOOP encapsulate the code and data it manipulates and\nemphasized on data",
-    "1.4": "4 JPE or JAVA Runtime Enviroment consists of library.\nand JVM to Run the code",
-    "1.5": "5 Inheritence = new classed inherits ahe attributes and\nmethods of older classes, Poly morphis, Allow one\ninterface to be used for genand use case, Inheritance keep\nthe old classes methods while polymorphism might alter them.",
-    "1.6": "6 Encapsulations is ahe mechanism ahat binds the code\nand data in manipulates, and keep ahem safe from\noutside interference and misuse",
-    "1.7": "7 Class abstracts and interfaces.",
-    "1.8": "8 1 finished and completed ahe task normally \n2 termindted due to unusual events.\n\n\n===== RAW OCR FROM page_03.txt =====\nStopped due to runtime\nerror",
-    "1.9": "System In, System.out, System.err",
-    "1.10": "JAVA Swing was built on top of AWT",
-    "2.1": "1) The C++ language was called \"C with Classes\"\nTrue",
-    "2.2": "2) It is not possible for an interface to inherit another interfacers\nproperties\nTrue",
-    "2.3": "3) The Java byte code is a class file that is executed\nby the Java run-time system\nTrue",
-    "2.4": "4) Run time polymorphism could be achieved by method\nOverloading\nFalse, It's achieved by Overriding.",
-    "2.5": "5) Abstract classes could have non-abstract methods within them\nFalse, that would lead to the diamond problem,\nwhich causes the class to exted extend till ia errors out",
-    "2.6": "6) JAVA threds are light weigh ahreads\nTrue",
-    "2.7": "There is one JDBC driver for all database sources\neach source has its own implementations for\n- True",
-    "3.1": "1] Enhancement is one of the reason that computer\nlanguage innovation ocenred.",
-    "3.2": "2] C is an example of a POP language.\ninstructions",
-    "3.3": "3] POP does not allow flow freely in the\nProgram",
-    "3.4": "4] Applets are small programs that need a java\nenabled web browser to be executed",
-    "3.5": "5] a Frame is a component which can contain other\nelements like buttons.",
-    "3.6": "6] The model-view controler (MVC) architecture is used in swing",
-    "3.7": "7] JDBC is a Java API to connect and interact warich\ndatabases",
-    "4.1": "for each block code, complete the CODE\nthe output and provide explanation for your.\n7 Students [:] (\"you\nbetween line [for(int\nfrom che output we\nyou will tak seat\"\") & (4-(ⅰ))\nto get\nanswer\nI and line (System.out.print(Code)\ncould see the printed statement\na long with the student identifier.\n(M,C,G, P.D) and their respected seats, which is\n\"Yoke will take beat\" \nekong enough information.",
-    "4.2": "to write the remaining code, \n2 Weine missing the equation that calentator add positive\nvotes so\nWeire\nmissing \" If Java was\neasy, they would call it python\"\nStatement\nPublic class Asree{\npublic static void\nint total votes\nmam (String[] args) {\n760\nSystem.out.println(\"Statement; It Java was easy, they would\nCall it Python!\");\nSystem.out.println(\"The number of people who agree wial this.\nSantement is 114\").\npublic static void Calculate Votes (double num Of Votes ) {\n// 15% of rotes do agree with the statement.\ndouble portion\nnum Of Votes\n* 0-15;\nSystem.out.println(\" the number of people who agree with this m\nStatement is\"\n+ (int) portion); \n\n\n===== RAW OCR FROM page_06.txt =====\nWe added the missing statenented and Printed it on\na new line-\nSystem.out.println(\"the amount of people who agrees with this lo\nStatement is\nSystem.out.print In (\"Statement, if Jara was easy ahey would\ncall it Python!\");"
+    "1.1": "1.1) JAVA's motto is \"write once, run anywhere\", but meaning\nit could run in multiple environments and architecture.",
+    "1.2": "1.2) The internet required flexible languages to work\non multiple platforms, it also required more complex\nprograms which required more complex programming languages.",
+    "1.3": "1.3) OOP :- object oriented programming. the \"object\" or\ndata are an integral part of the program and it's not\nfor just free flowing, contains classes.\nPOP :- procedural oriented programming, divides the program\ninto smaller procedure's or \"functions\".",
+    "1.4": "1.4) JRE = contains Byte compiler and JVE (JAVA\nvirtual Environment).",
+    "1.5": "(1.5) inheritance - is the idea that a parent class can inherit modifiers\nand functionality from another parent class.\nPolymorphism :- the using of interface to get around the\nmulti inheritance problem (Diamond problem)",
+    "1.6": "(1.6) encapsulation :- the use of setters for read-only\nand getters for write-only.",
+    "1.7": "(1.7) abstract classes\nin interface",
+    "1.8": "(1.8) if you catch a threat or made an exception, finally",
+    "1.9": "(1.9) system. In , system.err, system.out",
+    "1.10": "(1.10) the JAVA language was an improvement of C and C++",
+    "2.1": "(2-1) T",
+    "2.2": "(2-2) F",
+    "2.3": "(2-3) T",
+    "2.4": "(2-4) F",
+    "2.5": "(2-5) T",
+    "2.6": "(2-6) T",
+    "2.7": "(2-7) F",
+    "3.1": "(3.1) adaptation, improvement",
+    "3.2": "(3.2) C language",
+    "3.3": "(3.3) DATA",
+    "3.4": "(3.4) HTML",
+    "3.5": "(3.5) JADP",
+    "3.6": "(3.6) mobile",
+    "3.7": "(3.7) swing",
+    "4.1": "(4.1) system.out.println(seats[i]+ \" you will tak seat \" + i )",
+    "4.2": "(4.2) Public int = votes"
   },
   "grading": {
     "questions": {
       "1.1": {
-        "answer": "1 We mean that the JAVA is not restricted by a specific system architedure.",
+        "answer": "1.1) JAVA's motto is \"write once, run anywhere\", but meaning\nit could run in multiple environments and architecture.",
         "score": 3.0,
         "max_score": 3.0,
-        "reason": "Mentions Java is not restricted by a specific system architecture."
+        "reason": "Student correctly conveys that Java can run in multiple environments and architectures, aligning with the 'architecture-neutral' concept and the 'write once, run anywhere' motto."
       },
       "1.2": {
-        "answer": "2 They introduced Applets which exted extended whe\nfunctionality of the web, and dso servelt that extended\nfunctionaliay of the server",
+        "answer": "1.2) The internet required flexible languages to work\non multiple platforms, it also required more complex\nprograms which required more complex programming languages.",
         "score": 3.0,
         "max_score": 3.0,
-        "reason": "Mentions Applets which is a valid point."
+        "reason": "The student correctly identifies that the internet created a need for flexible, platform-independent languages, which is a key reason for Java's emergence."
       },
       "1.3": {
-        "answer": "3 The dit POP treats the code lines as instructions\nand emphasizes on the procedure, on the other hand\nOOP encapsulate the code and data it manipulates and\nemphasized on data",
+        "answer": "1.3) OOP :- object oriented programming. the \"object\" or\ndata are an integral part of the program and it's not\nfor just free flowing, contains classes.\nPOP :- procedural oriented programming, divides the program\ninto smaller procedure's or \"functions\".",
         "score": 3.0,
         "max_score": 3.0,
-        "reason": "Mentions procedure for POP and data for OOP"
+        "reason": "Student correctly conveys that OOP relates to objects/classes and POP relates to procedures/functions, meeting the grading policy requirements."
       },
       "1.4": {
-        "answer": "4 JPE or JAVA Runtime Enviroment consists of library.\nand JVM to Run the code",
+        "answer": "1.4) JRE = contains Byte compiler and JVE (JAVA\nvirtual Environment).",
         "score": 3.0,
         "max_score": 3.0,
-        "reason": "Mentions JVM and libraries, both valid JRE components."
+        "reason": "The student mentioned 'JVE (JAVA virtual Environment)', which is clearly recoverable as JVM (Java Virtual Machine), a valid component of the JRE. Minor spelling/wording variations are allowed if the meaning is clear."
       },
       "1.5": {
-        "answer": "5 Inheritence = new classed inherits ahe attributes and\nmethods of older classes, Poly morphis, Allow one\ninterface to be used for genand use case, Inheritance keep\nthe old classes methods while polymorphism might alter them.",
-        "score": 3.0,
+        "answer": "(1.5) inheritance - is the idea that a parent class can inherit modifiers\nand functionality from another parent class.\nPolymorphism :- the using of interface to get around the\nmulti inheritance problem (Diamond problem)",
+        "score": 0.0,
         "max_score": 3.0,
-        "reason": "Inheritance and polymorphism are both correctly defined."
+        "reason": "Neither the definition of inheritance nor polymorphism is clearly correct. Inheritance definition incorrectly states a parent class inherits from another parent class. Polymorphism definition incorrectly describes a use case for interfaces related to multi-inheritance, rather than the core concept of polymorphism itself."
       },
       "1.6": {
-        "answer": "6 Encapsulations is ahe mechanism ahat binds the code\nand data in manipulates, and keep ahem safe from\noutside interference and misuse",
-        "score": 3.0,
+        "answer": "(1.6) encapsulation :- the use of setters for read-only\nand getters for write-only.",
+        "score": 0.0,
         "max_score": 3.0,
-        "reason": "The answer expresses binding code and data together."
+        "reason": "The student's answer describes the incorrect use of getters and setters, which is not the definition of encapsulation. It does not express binding/bundling code and data together."
       },
       "1.7": {
-        "answer": "7 Class abstracts and interfaces.",
+        "answer": "(1.7) abstract classes\nin interface",
         "score": 3.0,
         "max_score": 3.0,
-        "reason": "Mentions abstract class and interfaces."
+        "reason": "Student correctly mentioned 'abstract classes' and 'interfaces' (with minor recoverable spelling/grammar for 'in interface')."
       },
       "1.8": {
-        "answer": "8 1 finished and completed ahe task normally \n2 termindted due to unusual events.\n\n\n===== RAW OCR FROM page_03.txt =====\nStopped due to runtime\nerror",
-        "score": 2.0,
+        "answer": "(1.8) if you catch a threat or made an exception, finally",
+        "score": 1.0,
         "max_score": 3.0,
-        "reason": "Finished task normally, terminated due to unusual events."
+        "reason": "The student correctly identified that an exception can cause a thread to terminate, which aligns with 'unusual event/exception/error' from the rubric. 'Catch a threat' can be interpreted as handling an error or exception. 'Finally' is not a reason for termination."
       },
       "1.9": {
-        "answer": "System In, System.out, System.err",
+        "answer": "(1.9) system. In , system.err, system.out",
         "score": 3.0,
         "max_score": 3.0,
-        "reason": "All three streams are correctly identified (System.in, System.out, System.err)."
+        "reason": "Student correctly identified all three default streams: System.in, System.out, and System.err, awarding 1 mark for each as per policy."
       },
       "1.10": {
-        "answer": "JAVA Swing was built on top of AWT",
-        "score": 3.0,
+        "answer": "(1.10) the JAVA language was an improvement of C and C++",
+        "score": 0.0,
         "max_score": 3.0,
-        "reason": "Correct answer"
+        "reason": "The student's answer is completely irrelevant to the question asked. It does not mention AWT or Abstract Window Toolkit or any equivalent."
       },
       "2.1": {
-        "answer": "1) The C++ language was called \"C with Classes\"\nTrue",
+        "answer": "(2-1) T",
         "score": 3.0,
         "max_score": 3.0,
-        "reason": "Student chose True"
+        "reason": "Student correctly chose True."
       },
       "2.2": {
-        "answer": "2) It is not possible for an interface to inherit another interfacers\nproperties\nTrue",
-        "score": 0.0,
+        "answer": "(2-2) F",
+        "score": 3.0,
         "max_score": 3.0,
-        "reason": "Student chose True instead of False"
+        "reason": "Student correctly chose False."
       },
       "2.3": {
-        "answer": "3) The Java byte code is a class file that is executed\nby the Java run-time system\nTrue",
+        "answer": "(2-3) T",
         "score": 3.0,
         "max_score": 3.0,
-        "reason": "Student chose True."
+        "reason": "Student correctly chose 'T' for True, which matches the expected answer."
       },
       "2.4": {
-        "answer": "4) Run time polymorphism could be achieved by method\nOverloading\nFalse, It's achieved by Overriding.",
+        "answer": "(2-4) F",
         "score": 3.0,
         "max_score": 3.0,
-        "reason": "Student chose False."
+        "reason": "Student correctly chose 'F' (False) matching the expected answer and grading policy."
       },
       "2.5": {
-        "answer": "5) Abstract classes could have non-abstract methods within them\nFalse, that would lead to the diamond problem,\nwhich causes the class to exted extend till ia errors out",
-        "score": 0.0,
+        "answer": "(2-5) T",
+        "score": 3.0,
         "max_score": 3.0,
-        "reason": "Student chose False"
+        "reason": "The student clearly indicated 'T', which corresponds to True, matching the expected answer and the teacher's policy."
       },
       "2.6": {
-        "answer": "6) JAVA threds are light weigh ahreads\nTrue",
+        "answer": "(2-6) T",
         "score": 3.0,
         "max_score": 3.0,
-        "reason": "Student chose True."
+        "reason": "The student chose 'T' which correctly corresponds to 'True' as per the expected answer and grading policy."
       },
       "2.7": {
-        "answer": "There is one JDBC driver for all database sources\neach source has its own implementations for\n- True",
-        "score": 0.0,
+        "answer": "(2-7) F",
+        "score": 3.0,
         "max_score": 3.0,
-        "reason": "Student chose True"
+        "reason": "Student chose 'F' which means False, matching the expected answer."
       },
       "3.1": {
-        "answer": "1] Enhancement is one of the reason that computer\nlanguage innovation ocenred.",
+        "answer": "(3.1) adaptation, improvement",
         "score": 3.0,
         "max_score": 3.0,
-        "reason": "Mentions enhancement (improvement)."
+        "reason": "Student explicitly mentioned 'adaptation' and 'improvement', which align with the expected answers for full credit."
       },
       "3.2": {
-        "answer": "2] C is an example of a POP language.\ninstructions",
+        "answer": "(3.2) C language",
         "score": 3.0,
         "max_score": 3.0,
-        "reason": "Mentions C"
+        "reason": "Student correctly identified C as an example of a POP language."
       },
       "3.3": {
-        "answer": "3] POP does not allow flow freely in the\nProgram",
-        "score": 0.0,
+        "answer": "(3.3) DATA",
+        "score": 3.0,
         "max_score": 3.0,
-        "reason": "Missing the word 'data'."
+        "reason": "The student correctly identified 'DATA' as the missing word, matching the expected concept."
       },
       "3.4": {
-        "answer": "4] Applets are small programs that need a java\nenabled web browser to be executed",
-        "score": 3.0,
+        "answer": "(3.4) HTML",
+        "score": 0.0,
         "max_score": 3.0,
-        "reason": "Mentions applets and definition is correct."
+        "reason": "Student answered 'HTML', which is not 'Applet/Applets' or a clear equivalent."
       },
       "3.5": {
-        "answer": "5] a Frame is a component which can contain other\nelements like buttons.",
-        "score": 3.0,
+        "answer": "(3.5) JADP",
+        "score": 0.0,
         "max_score": 3.0,
-        "reason": "Mentions Frame"
+        "reason": "Student's answer 'JADP' does not match 'Container' or 'Frame'."
       },
       "3.6": {
-        "answer": "6] The model-view controler (MVC) architecture is used in swing",
-        "score": 3.0,
+        "answer": "(3.6) mobile",
+        "score": 0.0,
         "max_score": 3.0,
-        "reason": "Controller"
+        "reason": "The student's answer 'mobile' is incorrect. The expected answer is 'Controller'."
       },
       "3.7": {
-        "answer": "7] JDBC is a Java API to connect and interact warich\ndatabases",
-        "score": 3.0,
+        "answer": "(3.7) swing",
+        "score": 0.0,
         "max_score": 3.0,
-        "reason": "Mentions JDBC"
+        "reason": "Student's answer 'swing' is incorrect; the expected answer is JDBC or Java Database Connectivity."
       },
       "4.1": {
-        "answer": "for each block code, complete the CODE\nthe output and provide explanation for your.\n7 Students [:] (\"you\nbetween line [for(int\nfrom che output we\nyou will tak seat\"\") & (4-(ⅰ))\nto get\nanswer\nI and line (System.out.print(Code)\ncould see the printed statement\na long with the student identifier.\n(M,C,G, P.D) and their respected seats, which is\n\"Yoke will take beat\" \nekong enough information.",
+        "answer": "(4.1) system.out.println(seats[i]+ \" you will tak seat \" + i )",
         "score": 14.0,
         "max_score": 14.0,
-        "reason": "The student's answer clearly contains the accepted answer (4-i) even though the spelling is poor."
+        "reason": "The student's answer uses `+ i`, which is one of the three accepted full model answers for the seat assignment logic. Minor spelling error ('tak' instead of 'take') and array name ('seats' instead of 'students') do not detract from the intended meaning, as per grading policy."
       },
       "4.2": {
-        "answer": "to write the remaining code, \n2 Weine missing the equation that calentator add positive\nvotes so\nWeire\nmissing \" If Java was\neasy, they would call it python\"\nStatement\nPublic class Asree{\npublic static void\nint total votes\nmam (String[] args) {\n760\nSystem.out.println(\"Statement; It Java was easy, they would\nCall it Python!\");\nSystem.out.println(\"The number of people who agree wial this.\nSantement is 114\").\npublic static void Calculate Votes (double num Of Votes ) {\n// 15% of rotes do agree with the statement.\ndouble portion\nnum Of Votes\n* 0-15;\nSystem.out.println(\" the number of people who agree with this m\nStatement is\"\n+ (int) portion); \n\n\n===== RAW OCR FROM page_06.txt =====\nWe added the missing statenented and Printed it on\na new line-\nSystem.out.println(\"the amount of people who agrees with this lo\nStatement is\nSystem.out.print In (\"Statement, if Jara was easy ahey would\ncall it Python!\");",
-        "score": 7.0,
+        "answer": "(4.2) Public int = votes",
+        "score": 5.0,
         "max_score": 14.0,
-        "reason": "attempts the answer in the correct direction and mentions totalVotes or the intended function logic but the final function/code is wrong"
+        "reason": "The student's answer 'Public int = votes' mentions 'votes', which is relevant to the problem's context of vote calculation. However, it is not a function call or an attempt at the expected function logic, making it a weaker but still relevant attempt."
       }
     },
     "totals": {
-      "q1": 29.0,
-      "q2": 12.0,
-      "q3": 18.0,
-      "q4": 21.0,
-      "overall": 80.0
+      "q1": 19.0,
+      "q2": 21.0,
+      "q3": 9.0,
+      "q4": 19.0,
+      "overall": 68.0
     }
   }
 }

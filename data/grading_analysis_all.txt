@@ -1,0 +1,74 @@
+GRADING ANALYSIS REPORT
+================================================================================
+
+Total predicted rows found: 10
+Matched usable rows: 10
+
+OVERALL METRICS
+--------------------------------------------------------------------------------
+Mean Error (pred - true): -7.000
+Mean Absolute Error (MAE): 7.200
+Mean Squared Error (MSE): 84.600
+Root Mean Squared Error (RMSE): 9.198
+Within ±5 marks: 5/10 (50.00%)
+
+ERROR DIRECTION
+--------------------------------------------------------------------------------
+Overgraded cases  (system > true): 1
+Undergraded cases (system < true): 8
+Exact matches: 1
+
+WHERE THE SYSTEM FAILS MOST
+--------------------------------------------------------------------------------
+Large errors   (> 5): 5
+Moderate errors(> 2 and <= 5): 2
+Small errors   (<= 2): 3
+
+WORST CASES
+--------------------------------------------------------------------------------
+sheet_009 | sheet_num=009 | true=77.00 | pred=59.00 | error=-18.00 | abs_error=18.00
+sheet_004 | sheet_num=004 | true=81.00 | pred=67.00 | error=-14.00 | abs_error=14.00
+sheet_008 | sheet_num=008 | true=84.00 | pred=73.00 | error=-11.00 | abs_error=11.00
+sheet_001 | sheet_num=001 | true=92.00 | pred=83.00 | error=-9.00 | abs_error=9.00
+sheet_005 | sheet_num=005 | true=90.00 | pred=81.00 | error=-9.00 | abs_error=9.00
+sheet_007 | sheet_num=007 | true=82.00 | pred=77.00 | error=-5.00 | abs_error=5.00
+sheet_010 | sheet_num=010 | true=72.00 | pred=68.00 | error=-4.00 | abs_error=4.00
+sheet_006 | sheet_num=006 | true=90.00 | pred=91.00 | error=+1.00 | abs_error=1.00
+sheet_003 | sheet_num=003 | true=92.00 | pred=91.00 | error=-1.00 | abs_error=1.00
+sheet_002 | sheet_num=002 | true=85.00 | pred=85.00 | error=+0.00 | abs_error=0.00
+
+WHICH MAJOR QUESTION GROUP LOSES THE MOST MARKS
+--------------------------------------------------------------------------------
+Q4: average loss=9.700 out of 28.0, average score=18.300, count=10
+Q2: average loss=5.400 out of 21.0, average score=15.600, count=10
+Q1: average loss=4.700 out of 30.0, average score=25.300, count=10
+Q3: average loss=2.700 out of 21.0, average score=18.300, count=10
+
+Most deducted major section overall: Q4 (average loss = 9.700)
+
+WHICH SUB-QUESTIONS LOSE THE MOST MARKS
+--------------------------------------------------------------------------------
+4.2: average loss=6.000 out of 14.0, average score=8.000, count=10
+4.1: average loss=3.700 out of 14.0, average score=10.300, count=10
+2.5: average loss=1.800 out of 3.0, average score=1.200, count=10
+2.2: average loss=1.800 out of 3.0, average score=1.200, count=10
+2.7: average loss=1.500 out of 3.0, average score=1.500, count=10
+1.10: average loss=1.200 out of 3.0, average score=1.800, count=10
+1.7: average loss=0.600 out of 3.0, average score=2.400, count=10
+1.4: average loss=0.600 out of 3.0, average score=2.400, count=10
+1.6: average loss=0.600 out of 3.0, average score=2.400, count=10
+1.2: average loss=0.600 out of 3.0, average score=2.400, count=10
+3.6: average loss=0.600 out of 3.0, average score=2.400, count=10
+3.3: average loss=0.600 out of 3.0, average score=2.400, count=10
+3.1: average loss=0.600 out of 3.0, average score=2.400, count=10
+1.5: average loss=0.400 out of 3.0, average score=2.600, count=10
+3.4: average loss=0.300 out of 3.0, average score=2.700, count=10
+
+Most deducted sub-question overall: 4.2 (average loss = 6.000)
+
+MATCHING ISSUES
+--------------------------------------------------------------------------------
+Predicted rows with no matching true mark: 0
+Predicted rows with missing sheet_num: 0
+
+End of report

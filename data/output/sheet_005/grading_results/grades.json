@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1 It's mean Java is not restricted to\na spicific systems architecture",
+    "1.2": "2 by platforms independence based to distribution\nprogram interpreted. (Java allow that) (aplat)",
+    "1.3": "3 While POP has procedures (code) that operate\nin data to achieve the program good.\nbut OOP uses a classes and Objects that encapsulate\nboth Code and data.\nPOP OOP\ncode\ndata\ncode\ndata",
+    "1.4": "4 JRE (Java Running Engine)\nComponents =\n- JVM\n- Byte Code",
+    "1.5": "(5) Inheritance is anew classes based existing\non one's, and uses (methods and properties of that class\nPolymorphism features that allowed in one interface\nand used of a general.\n(Polymorphism is interface but inheritance is (create a new class))",
+    "1.6": "(6) encapsulation:\nis a mechanism to bind data and Code is\ntogether in manipulations, to be both safe for outside\nand misuse.",
+    "1.7": "(7) two ways to achieve abstractions\n① abstract classes\n② interface",
+    "1.8": "(8) terminated due to three reasons:\n① finished it's a task normally\n② terminated due to unusual events\n③ dead and no longer available",
+    "1.9": "(9) three default streams in Java:\n① system.in\n② system.out\n③ system.err",
+    "1.10": "(10) Wendows interface.",
+    "2.1": "2.1 -> true",
+    "2.2": "2.2 -> False -> It is possible for an interface to inherit another interface's properties",
+    "2.3": "2.3 -> true",
+    "2.4": "2.4 -> False \nRuntime polymorphism could be achieved by\nmethod Overriding",
+    "2.5": "2.5 -> true",
+    "2.6": "2.6 -> true False \nJava threads are heavy weight threads",
+    "2.7": "2.7 -> true",
+    "3.1": "3.1 (OOP)",
+    "3.2": "3.2: C programming language",
+    "3.3": "3.3: data",
+    "3.4": "3.4: aplet",
+    "3.5": "3.5: Container",
+    "3.6": "4.6: [UNK] controller",
+    "3.7": "3.7: (JDBC) Java Data Bases Connectly",
+    "4.1": "4.1\nCode: Seats[i]+\"You will take seat.\" + (4-i)",
+    "4.2": "4.2:\nCode: X = new calculate Votes (total Votes);\ncalculate Votes (780);"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1 It's mean Java is not restricted to\na spicific systems architecture",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student conveys the idea that Java is not restricted to a specific system architecture, aligning with the concept of architecture-neutrality, despite minor spelling and grammatical errors."
+      },
+      "1.2": {
+        "answer": "2 by platforms independence based to distribution\nprogram interpreted. (Java allow that) (aplat)",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student mentions 'platforms independence', 'distribution' (referring to distributed programs), and 'aplat' (clearly intended as 'applet'). All of these are explicitly listed in the teacher's grading policy as valid concepts related to how WWW/Internet created a need for Java, even with weak wording. The policy states that weak wording with clear intended meaning should get full marks, and minor spelling mistakes like 'aplat' for 'applet' should not reduce the score."
+      },
+      "1.3": {
+        "answer": "3 While POP has procedures (code) that operate\nin data to achieve the program good.\nbut OOP uses a classes and Objects that encapsulate\nboth Code and data.\nPOP OOP\ncode\ndata\ncode\ndata",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student clearly conveys that POP involves procedures/code operating on data, and OOP uses classes and objects that encapsulate code and data, which aligns with the grading policy."
+      },
+      "1.4": {
+        "answer": "4 JRE (Java Running Engine)\nComponents =\n- JVM\n- Byte Code",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified JVM as a component of JRE, which satisfies the grading policy requirement of mentioning ANY one valid JRE component."
+      },
+      "1.5": {
+        "answer": "(5) Inheritance is anew classes based existing\non one's, and uses (methods and properties of that class\nPolymorphism features that allowed in one interface\nand used of a general.\n(Polymorphism is interface but inheritance is (create a new class))",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance (new classes based on existing, using methods/properties) and polymorphism (one interface) are correctly identified by the student."
+      },
+      "1.6": {
+        "answer": "(6) encapsulation:\nis a mechanism to bind data and Code is\ntogether in manipulations, to be both safe for outside\nand misuse.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student expresses the core concept of 'bind data and code together', which matches the expected answer for full credit despite some grammatical issues."
+      },
+      "1.7": {
+        "answer": "(7) two ways to achieve abstractions\n① abstract classes\n② interface",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified both 'abstract classes' and 'interfaces' as ways to achieve abstraction."
+      },
+      "1.8": {
+        "answer": "(8) terminated due to three reasons:\n① finished it's a task normally\n② terminated due to unusual events\n③ dead and no longer available",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly listed three distinct reasons for thread termination: finished task normally, unusual events (exceptions/errors), and dead/no longer available, matching all points of the grading policy."
+      },
+      "1.9": {
+        "answer": "(9) three default streams in Java:\n① system.in\n② system.out\n③ system.err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly listed all three default streams: system.in, system.out, and system.err. Although 'system' is in lowercase, the intended meaning is clear, and the grading policy allows for minor spelling/case differences when the intent is obvious."
+      },
+      "1.10": {
+        "answer": "(10) Wendows interface.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student's answer 'Wendows interface' is not AWT, Abstract Window Toolkit, or a clear equivalent. It refers to a generic operating system interface, not the specific Java toolkit."
+      },
+      "2.1": {
+        "answer": "2.1 -> true",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the answer as True."
+      },
+      "2.2": {
+        "answer": "2.2 -> False -> It is possible for an interface to inherit another interface's properties",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as False."
+      },
+      "2.3": {
+        "answer": "2.3 -> true",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the answer as True."
+      },
+      "2.4": {
+        "answer": "2.4 -> False \nRuntime polymorphism could be achieved by\nmethod Overriding",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the answer as False."
+      },
+      "2.5": {
+        "answer": "2.5 -> true",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the answer as 'true'."
+      },
+      "2.6": {
+        "answer": "2.6 -> true False \nJava threads are heavy weight threads",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student did not clearly choose 'True' as the answer."
+      },
+      "2.7": {
+        "answer": "2.7 -> true",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose True, but the expected answer was False. According to policy, 3 is given only for False, otherwise 0."
+      },
+      "3.1": {
+        "answer": "3.1 (OOP)",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student mentioned 'OOP', which is a programming paradigm, but not a reason for computer language innovation such as 'improvement in programming' or 'adapting to changing environments/uses' as required by the rubric."
+      },
+      "3.2": {
+        "answer": "3.2: C programming language",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student provided 'C programming language', which includes 'C', matching the expected answer and rubric criteria for full marks."
+      },
+      "3.3": {
+        "answer": "3.3: data",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'data' as the missing word, matching the expected answer and grading policy."
+      },
+      "3.4": {
+        "answer": "3.4: aplet",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'aplet' is a clear misspelling of 'applet', which is the correct concept. Per grading policy, minor spelling mistakes do not reduce the score if the intended meaning is clear."
+      },
+      "3.5": {
+        "answer": "3.5: Container",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Container' which is an accepted answer."
+      },
+      "3.6": {
+        "answer": "4.6: [UNK] controller",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'controller' as the missing part of the Model-View-Controller architecture."
+      },
+      "3.7": {
+        "answer": "3.7: (JDBC) Java Data Bases Connectly",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'JDBC', which is one of the accepted answers."
+      },
+      "4.1": {
+        "answer": "4.1\nCode: Seats[i]+\"You will take seat.\" + (4-i)",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Student provided `(4-i)`, which is one of the explicitly accepted full model answers. Minor differences in surrounding text are not penalized as per grading principles."
+      },
+      "4.2": {
+        "answer": "4.2:\nCode: X = new calculate Votes (total Votes);\ncalculate Votes (780);",
+        "score": 7.0,
+        "max_score": 14.0,
+        "reason": "The student attempts to call the correct function 'calculateVotes' in the first line and mentions 'totalVotes', although the syntax for object creation is incorrect. The second line attempts a function call with the correct function name, but uses a literal argument instead of 'totalVotes'. This fits the criteria for 'attempts the answer in the correct direction and mentions totalVotes or the intended function logic but the final function/code is wrong'."
+      }
+    },
+    "totals": {
+      "q1": 27.0,
+      "q2": 15.0,
+      "q3": 18.0,
+      "q4": 21.0,
+      "overall": 81.0
+    }
+  }
+}
