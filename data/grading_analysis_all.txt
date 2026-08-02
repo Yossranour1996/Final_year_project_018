@@ -10,13 +10,7 @@ Mean Error (pred - true): -0.800
 Mean Absolute Error (MAE): 2.800
 Mean Squared Error (MSE): 9.800
 Root Mean Squared Error (RMSE): 3.130
-
-ERROR RANGE DISTRIBUTION
---------------------------------------------------------------------------------
-Exact matches (error = 0): 1/10 (10.00%)
-Within 3 marks (> 0 and <= 3): 6/10 (60.00%)
-Within 5 marks (> 3 and <= 5): 3/10 (30.00%)
-More than 5 marks (> 5): 0/10 (0.00%)
+Within ±5 marks: 10/10 (100.00%)
 
 ERROR DIRECTION
 --------------------------------------------------------------------------------
@@ -26,10 +20,9 @@ Exact matches: 1
 
 WHERE THE SYSTEM FAILS MOST
 --------------------------------------------------------------------------------
-Exact matches (= 0): 1
-Within 3 marks (> 0 and <= 3): 6
-Within 5 marks (> 3 and <= 5): 3
-More than 5 marks (> 5): 0
+Large errors   (> 5): 0
+Moderate errors(> 2 and <= 5): 7
+Small errors   (<= 2): 3
 
 WORST CASES
 --------------------------------------------------------------------------------
