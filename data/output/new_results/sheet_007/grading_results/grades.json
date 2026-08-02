@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1.01 It means that Java isn't specified for specific machine\nor Operating system architecture.",
+    "1.2": "1.02 The complexity increased so Java was made in labs and\nJava is the enc. enhancement in programming\nlanguages.",
+    "1.3": "1.03 - While POP have a procedure to deal with data \"code\"\nOOP uses classes and objects to encapsulate code and\nits data.",
+    "1.4": "1.04 Java virtual machine JVM\nexecuting programmes \"java\"\nand compiling ones \"javac\"",
+    "1.5": "1.05 Inheritance : making new classes based on already existing\nones but polymorphism : mechanism of having many\nforms of each class.",
+    "1.6": "1.06 Encapsulation is the mechanism of binding up data\nand its code together.",
+    "1.7": "1.07 Interface, abstracted classes",
+    "1.8": "1.08 (i) the program accomplished its goal.\n(ii) Or Unusual events occure\n(iii) The program is dead or no longer available.",
+    "1.9": "1.09 (i) System.in\n(ii) System.out\n(iii) System.err",
+    "1.10": "1.10 Java API",
+    "2.1": "2.1 True",
+    "2.2": "2.2 True",
+    "2.3": "2.3 True",
+    "2.4": "2.4 False",
+    "2.5": "2.5 True",
+    "2.6": "2.6 True",
+    "2.7": "2.7 False",
+    "3.1": "3.1 To adapt to changing in Environments and users.",
+    "3.2": "3.2 C programming Language",
+    "3.3": "3.3 data Code.",
+    "3.4": "3.4 Applet",
+    "3.5": "3.5 Frame \"as a container\"",
+    "3.6": "3.6 Control \"represents the interface between model and view\"",
+    "3.7": "3.7 JDBC JDBC.",
+    "4.1": "4.1 set\nSeats [ i ] + \"\"\nSeats [i] + \"\", you will take seat\" + i\nTo get outputs as desired.",
+    "4.2": "4.2 BreakLn\nto go to the next class."
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1.01 It means that Java isn't specified for specific machine\nor Operating system architecture.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly conveys that Java is not restricted to a specific machine or OS architecture, which means it can work across different architectures."
+      },
+      "1.2": {
+        "answer": "1.02 The complexity increased so Java was made in labs and\nJava is the enc. enhancement in programming\nlanguages.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Accepted nonblank answer without Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "1.03 - While POP have a procedure to deal with data \"code\"\nOOP uses classes and objects to encapsulate code and\nits data.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identifies that POP uses procedures to handle data and OOP uses classes and objects, directly aligning with the grading policy's requirements for full credit."
+      },
+      "1.4": {
+        "answer": "1.04 Java virtual machine JVM\nexecuting programmes \"java\"\nand compiling ones \"javac\"",
+        "score": 1.0,
+        "max_score": 3.0,
+        "reason": "Awarded 1/3 for: JVM"
+      },
+      "1.5": {
+        "answer": "1.05 Inheritance : making new classes based on already existing\nones but polymorphism : mechanism of having many\nforms of each class.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance ('making new classes based on already existing ones') and polymorphism ('mechanism of having many forms') are correctly defined."
+      },
+      "1.6": {
+        "answer": "1.06 Encapsulation is the mechanism of binding up data\nand its code together.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly defines encapsulation as binding data and its code together."
+      },
+      "1.7": {
+        "answer": "1.07 Interface, abstracted classes",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly mentioned both 'Interface' (interfaces) and 'abstracted classes' (abstract classes), fulfilling the requirements of the grading policy."
+      },
+      "1.8": {
+        "answer": "1.08 (i) the program accomplished its goal.\n(ii) Or Unusual events occure\n(iii) The program is dead or no longer available.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided three valid reasons for thread termination: 'accomplished its goal' (finished task), 'Unusual events occure' (unusual event/exception), and 'dead or no longer available' (dead/stopped/terminated). Each point earns 1 mark, maxing out at 3."
+      },
+      "1.9": {
+        "answer": "1.09 (i) System.in\n(ii) System.out\n(iii) System.err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly listed all three default Java streams: System.in, System.out, and System.err, receiving 1 mark for each."
+      },
+      "1.10": {
+        "answer": "1.10 Java API",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student answered 'Java API' which is too general. The correct answer is AWT (Abstract Window Toolkit), which Swing is specifically built upon, not the entire Java API."
+      },
+      "2.1": {
+        "answer": "2.1 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.2": {
+        "answer": "2.2 True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose True, but the expected answer is False. According to policy, score is 0 if False is not chosen."
+      },
+      "2.3": {
+        "answer": "2.3 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose True."
+      },
+      "2.4": {
+        "answer": "2.4 False",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as False."
+      },
+      "2.5": {
+        "answer": "2.5 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'True' as per the expected answer and grading policy."
+      },
+      "2.6": {
+        "answer": "2.6 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True', which matches the expected answer."
+      },
+      "2.7": {
+        "answer": "2.7 False",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as False."
+      },
+      "3.1": {
+        "answer": "3.1 To adapt to changing in Environments and users.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "3.2 C programming Language",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'C programming Language', which includes 'C' and matches the teacher's policy for full marks."
+      },
+      "3.3": {
+        "answer": "3.3 data Code.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer clearly states 'data', which matches the expected concept according to the grading policy."
+      },
+      "3.4": {
+        "answer": "3.4 Applet",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Applet'."
+      },
+      "3.5": {
+        "answer": "3.5 Frame \"as a container\"",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "3.6 Control \"represents the interface between model and view\"",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'Control' which is a clear and recoverable intended meaning of 'Controller', aligning with the policy of not using rigid keyword matching and allowing for weak spelling if the meaning is clear. The additional description reinforces understanding."
+      },
+      "3.7": {
+        "answer": "3.7 JDBC JDBC.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified JDBC, which matches the expected answer."
+      },
+      "4.1": {
+        "answer": "4.1 set\nSeats [ i ] + \"\"\nSeats [i] + \"\", you will take seat\" + i\nTo get outputs as desired.",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "4.2 BreakLn\nto go to the next class.",
+        "score": 7.0,
+        "max_score": 14.0,
+        "reason": "Nonblank answer unrelated to votes"
+      }
+    },
+    "totals": {
+      "q1": 25.0,
+      "q2": 18.0,
+      "q3": 21.0,
+      "q4": 21.0,
+      "overall": 85.0
+    }
+  }
+}

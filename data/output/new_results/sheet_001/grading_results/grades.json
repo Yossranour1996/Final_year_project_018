@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1. That java is not tied to or restricted\nto specific machine or operating system\narchitecture.",
+    "1.2": "2. They increase the demand for application\nand programs that were set suitable to\nbe transfered over internet, to make\nshare of data easier.",
+    "1.3": "3. POP emphasize code rather than data and\ndivide the program into smaller processes\nparts each with set of instructions.\nOOP emphasize data and build functions\naround it. each class has its own variable\nwhich save them from accidental change.\ncode\ndata\noop\ncode\ndata\nGeneral\ndata",
+    "1.4": "4. Java Runtime Environment = environment to\nrun the java program only, it component are\n① Compiler ② Java virtual machine",
+    "1.5": "5. Inheritance is to create class based on existed\nclass and the subclass can share all features of\nsuper-class.\nPolymorphism is feature allow objects to\nbe used as general and can take different forms\naccording to required needs.",
+    "1.6": "1.6 - Mechanism to bind Code and data\nit's manipulate together and keep -them safe\nfrom interference and misuse.\noutside",
+    "1.7": "1.7 - @Inter face\n- (B) Abstraction classes",
+    "1.8": "1.8- @ Finished and achived goal.\nB due to unsul events.\nC dead and no longer avritabe available.",
+    "1.9": "1.9 @ system.in\nB system. out\n© system err",
+    "1.10": "1.10 Java swing was built over AWI\nwindows Interface (AWI) Aplication",
+    "2.1": "① True it is possible to inherit properties",
+    "2.2": "② True False",
+    "2.3": "③ True",
+    "2.4": "④ False override overriding",
+    "2.5": "⑤ False have abstract methods only with them",
+    "2.6": "⑥ True",
+    "2.7": "⑦ True",
+    "3.1": "① to adapt change in environment and use.",
+    "3.2": "② C",
+    "3.3": "③ data",
+    "3.4": "④ Applets",
+    "3.5": "⑤ Container",
+    "3.6": "⑥ Controller",
+    "3.7": "⑦ JDBC",
+    "4.1": "Q4 4.1 seats [i] + \" you will take seat \" +(text)i) Code\nEx => the first part seats [i] call the elements of seat [i]\naccording to index then the text you will take\nseat \"i\" then ? because count is from o to\n\"i\" same as the index.\ndouble",
+    "4.2": "4.2 CalculateVotes (totalVotes) ; Code\nto be\nexplain = We call method CalculateVotes executed\nfor the total votes and then give output portion.\nin form of integer, after the second statment."
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1. That java is not tied to or restricted\nto specific machine or operating system\narchitecture.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly conveyed that Java is not tied to or restricted to specific machine or operating system architectures, which aligns with the concept of architecture-neutrality."
+      },
+      "1.2": {
+        "answer": "2. They increase the demand for application\nand programs that were set suitable to\nbe transfered over internet, to make\nshare of data easier.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Accepted nonblank answer without Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "3. POP emphasize code rather than data and\ndivide the program into smaller processes\nparts each with set of instructions.\nOOP emphasize data and build functions\naround it. each class has its own variable\nwhich save them from accidental change.\ncode\ndata\noop\ncode\ndata\nGeneral\ndata",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly conveys that POP is related to code/processes/instructions (procedures/functions) and OOP is related to data/classes/variables (objects/classes)."
+      },
+      "1.4": {
+        "answer": "4. Java Runtime Environment = environment to\nrun the java program only, it component are\n① Compiler ② Java virtual machine",
+        "score": 1.0,
+        "max_score": 3.0,
+        "reason": "Awarded 1/3 for: JVM"
+      },
+      "1.5": {
+        "answer": "5. Inheritance is to create class based on existed\nclass and the subclass can share all features of\nsuper-class.\nPolymorphism is feature allow objects to\nbe used as general and can take different forms\naccording to required needs.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance and polymorphism concepts are clearly and correctly described. Inheritance is defined as creating a class based on an existing one, allowing the subclass to share super-class features. Polymorphism is described as a feature allowing objects to be used generally and take different forms."
+      },
+      "1.6": {
+        "answer": "1.6 - Mechanism to bind Code and data\nit's manipulate together and keep -them safe\nfrom interference and misuse.\noutside",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student explicitly states 'Mechanism to bind Code and data', which directly matches the core concept required by the rubric for encapsulation."
+      },
+      "1.7": {
+        "answer": "1.7 - @Inter face\n- (B) Abstraction classes",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identifies both 'interfaces' (as '@Inter face') and 'abstract classes' (as 'Abstraction classes'), fulfilling the criteria for full marks despite minor wording variations as allowed by the rubric."
+      },
+      "1.8": {
+        "answer": "1.8- @ Finished and achived goal.\nB due to unsul events.\nC dead and no longer avritabe available.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student provided three correct reasons for thread termination, matching the criteria: (1) finished/completed task ('Finished and achived goal'), (2) unusual event/exception/error ('due to unsul events'), and (3) dead/stopped/terminated/no longer available ('dead and no longer avritabe available'). Minor spelling errors were disregarded as per policy."
+      },
+      "1.9": {
+        "answer": "1.9 @ system.in\nB system. out\n© system err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified all three default streams: System.in, System.out, and System.err. Minor formatting issues (space in 'system. out', missing dot in 'system err') do not obscure the intended meaning."
+      },
+      "1.10": {
+        "answer": "1.10 Java swing was built over AWI\nwindows Interface (AWI) Aplication",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student's answer 'AWI' is a clear recoverable misspelling of 'AWT', which is the correct concept. Minor spelling mistakes are not penalized if the meaning is clear."
+      },
+      "2.1": {
+        "answer": "① True it is possible to inherit properties",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.2": {
+        "answer": "② True False",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student did not choose 'False'; listed both options."
+      },
+      "2.3": {
+        "answer": "③ True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'True', which matches the expected answer and satisfies the grading policy."
+      },
+      "2.4": {
+        "answer": "④ False override overriding",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'False' as required by the grading policy."
+      },
+      "2.5": {
+        "answer": "⑤ False have abstract methods only with them",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student chose 'False', but the correct answer is 'True'. According to the grading policy, 3 marks are awarded only if 'True' is chosen, otherwise 0."
+      },
+      "2.6": {
+        "answer": "⑥ True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified the statement as True, matching the expected answer and teacher's policy."
+      },
+      "2.7": {
+        "answer": "⑦ True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True', but the expected answer is 'False'. According to policy, score is 0 if not 'False'."
+      },
+      "3.1": {
+        "answer": "① to adapt change in environment and use.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "② C",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'C', which is an accepted example of a POP language."
+      },
+      "3.3": {
+        "answer": "③ data",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student's answer 'data' directly matches the expected answer for the fill-in-the-blank question."
+      },
+      "3.4": {
+        "answer": "④ Applets",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'Applets' which matches the expected answer and teacher's grading policy for full marks."
+      },
+      "3.5": {
+        "answer": "⑤ Container",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "⑥ Controller",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Controller' as the missing part of the MVC architecture."
+      },
+      "3.7": {
+        "answer": "⑦ JDBC",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified JDBC."
+      },
+      "4.1": {
+        "answer": "Q4 4.1 seats [i] + \" you will take seat \" +(text)i) Code\nEx => the first part seats [i] call the elements of seat [i]\naccording to index then the text you will take\nseat \"i\" then ? because count is from o to\n\"i\" same as the index.\ndouble",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "4.2 CalculateVotes (totalVotes) ; Code\nto be\nexplain = We call method CalculateVotes executed\nfor the total votes and then give output portion.\nin form of integer, after the second statment.",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Both calculateVotes and totalVotes are present"
+      }
+    },
+    "totals": {
+      "q1": 28.0,
+      "q2": 12.0,
+      "q3": 21.0,
+      "q4": 28.0,
+      "overall": 89.0
+    }
+  }
+}

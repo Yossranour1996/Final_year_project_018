@@ -1,0 +1,42 @@
+[
+  {
+    "page": "page_01.png",
+    "text": "EMPTY"
+  },
+  {
+    "page": "page_02.png",
+    "text": ""
+  },
+  {
+    "page": "page_03.png",
+    "text": "1. That java is not tied to or restricted\nto specific machine or operating system\narchitecture.\n2. They increase the demand for application\nand programs that were set suitable to\nbe transfered over internet, to make\nshare of data easier.\n3. POP emphasize code rather than data and\ndivide the program into smaller processes\nparts each with set of instructions.\nOOP emphasize data and build functions\naround it. each class has its own variable\nwhich save them from accidental change.\ncode\ndata\noop\ncode\ndata\nGeneral\ndata\n4. Java Runtime Environment = environment to\nrun the java program only, it component are\n① Compiler ② Java virtual machine\n5. Inheritance is to create class based on existed\nclass and the subclass can share all features of\nsuper-class.\nPolymorphism is feature allow objects to\nbe used as general and can take different forms\naccording to required needs."
+  },
+  {
+    "page": "page_04.png",
+    "text": "1.6 - Mechanism to bind Code and data\nit's manipulate together and keep -them safe\nfrom interference and misuse.\noutside\n1.7 - @Inter face\n- (B) Abstraction classes\n1.8- @ Finished and achived goal.\nB due to unsul events.\nC dead and no longer avritabe available.\n1.9 @ system.in\nB system. out\n© system err\n1.10 Java swing was built over AWI\nwindows Interface (AWI) Aplication"
+  },
+  {
+    "page": "page_05.png",
+    "text": "Q3 + Q4\n① True it is possible to inherit properties\n② True False\n③ True\n④ False override overriding\n⑤ False have abstract methods only with them\n⑥ True\n⑦ True\n① to adapt change in environment and use.\n② C\n③ data\n④ Applets\n⑤ Container\n⑥ Controller\n⑦ JDBC\nQ4 4.1 seats [i] + \" you will take seat \" +(text)i) Code\nEx => the first part seats [i] call the elements of seat [i]\naccording to index then the text you will take\nseat \"i\" then ? because count is from o to\n\"i\" same as the index.\ndouble\n4.2 CalculateVotes (totalVotes) ; Code\nto be\nexplain = We call method CalculateVotes executed\nfor the total votes and then give output portion.\nin form of integer, after the second statment."
+  },
+  {
+    "page": "page_06.png",
+    "text": "EMPTY"
+  },
+  {
+    "page": "page_07.png",
+    "text": "EMPTY"
+  },
+  {
+    "page": "page_08.png",
+    "text": ""
+  },
+  {
+    "page": "page_09.png",
+    "text": ""
+  },
+  {
+    "page": "page_10.png",
+    "text": ""
+  }
+]

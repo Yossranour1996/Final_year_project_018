@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1- It's not restricted to a specific system architecture.",
+    "1.2": "2- By the wide spread of information that led to the need for\nnew improvement in programming to adopt to this new\nChanges and new thinking about programs and their design.",
+    "1.3": "3- OOP focuses mainly on data and keep the code closely tied to its\ndata, while POP focuses on procedure rather than data.",
+    "1.4": "4- a running tool (not development) and also the JVM",
+    "1.5": "5- Inheritance takes the methods and attributes of an existing class\nand inherit it to a new class, allowing it to reusit a add new things\nwhile polymorphism is basically means many forms and that\na message or a method can be defined differently many times.",
+    "1.6": "6- It is the process of binding together the code and the data it is\nmanipulate and protect them from outside interference and\nmisuse.",
+    "1.7": "7- Interfaces and abstract classes.",
+    "1.8": "8- (i) Completing the task normally.\n(ii) due to unusual event.\n(iii) It's no longer available or dead.",
+    "1.9": "9- System.in, System.out, System.err",
+    "1.10": "10- AWT API to add new feature",
+    "2.1": "1- True",
+    "2.2": "2- False\nCorrections:\nIt's possible\nIt's not possible for an interface to implement another",
+    "2.3": "3- True",
+    "2.4": "4- False\nCorrection:\nCould be achieved by method overriding.",
+    "2.5": "5- False\nCorrection:\nCould not have",
+    "2.6": "6- True",
+    "2.7": "7- False\nCorrection:\nmore than one JDBC driver.",
+    "3.1": "① adapting to the new environmental changes in the\nworld.",
+    "3.2": "② C Language",
+    "3.3": "③ Applet Data",
+    "3.4": "④ Applet",
+    "3.5": "⑤ Container",
+    "3.6": "⑥ Control Pantaler",
+    "3.7": "⑦ JDBC",
+    "4.1": "(1) System.out.println(\"Seats[i], you will take seat\"+i);\nExplanations The output is the members of Seats array followed\nby these indexes, So the (for loop) was used to print\ntheses members one by one.\nSeat[i] = gives the element of index (i).\nand the (i) at the end is printing the counter\nof the Loop, which goes from (0-4).",
+    "4.2": "(2) Agree Vote = new Agree(); initiate an object\nVote.CalculateVotes (76088); of class Agree\nExplanations The Basic idea that I tried to use \"Maybe the syntax\nlet me down\" is to use the method (CalculateVotes)\nto get the desired output. So I initiated/Created\na new object and used the function with the\nrequired parameter to get the correct number.\nWe can also pass to the fun."
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1- It's not restricted to a specific system architecture.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student clearly states that Java is 'not restricted to a specific system architecture,' which directly conveys the meaning of architecture-neutral as per the expected concept and grading policy."
+      },
+      "1.2": {
+        "answer": "2- By the wide spread of information that led to the need for\nnew improvement in programming to adopt to this new\nChanges and new thinking about programs and their design.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Accepted nonblank answer without Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "3- OOP focuses mainly on data and keep the code closely tied to its\ndata, while POP focuses on procedure rather than data.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identifies that OOP is data-focused/code-tied to data (object-oriented) and POP is procedure-focused."
+      },
+      "1.4": {
+        "answer": "4- a running tool (not development) and also the JVM",
+        "score": 1.0,
+        "max_score": 3.0,
+        "reason": "Awarded 1/3 for: JVM"
+      },
+      "1.5": {
+        "answer": "5- Inheritance takes the methods and attributes of an existing class\nand inherit it to a new class, allowing it to reusit a add new things\nwhile polymorphism is basically means many forms and that\na message or a method can be defined differently many times.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance and polymorphism meanings are clearly correct. Inheritance is defined as taking methods/attributes from an existing class to a new class for reuse, and polymorphism is defined as 'many forms' where a method can be defined differently multiple times."
+      },
+      "1.6": {
+        "answer": "6- It is the process of binding together the code and the data it is\nmanipulate and protect them from outside interference and\nmisuse.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student clearly expresses the concept of 'binding together the code and the data', which directly matches the expected answer and grading policy."
+      },
+      "1.7": {
+        "answer": "7- Interfaces and abstract classes.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly mentioned 'Interfaces' and 'abstract classes', fulfilling the requirement for full marks."
+      },
+      "1.8": {
+        "answer": "8- (i) Completing the task normally.\n(ii) due to unusual event.\n(iii) It's no longer available or dead.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student provided three correct reasons for thread termination, each matching a point in the grading policy: (i) Completing the task normally (matches 'finished/completed task'), (ii) due to unusual event (matches 'unusual event/exception/error'), and (iii) It's no longer available or dead (matches 'dead/stopped/terminated/no longer available'). Each point earns 1 mark."
+      },
+      "1.9": {
+        "answer": "9- System.in, System.out, System.err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly listed all three default Java streams: System.in, System.out, and System.err. Each correct stream is awarded 1 mark, totaling 3 marks."
+      },
+      "1.10": {
+        "answer": "10- AWT API to add new feature",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified AWT, which is a valid answer according to the rubric."
+      },
+      "2.1": {
+        "answer": "1- True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'True' as per the expected answer."
+      },
+      "2.2": {
+        "answer": "2- False\nCorrections:\nIt's possible\nIt's not possible for an interface to implement another",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly answered 'False'."
+      },
+      "2.3": {
+        "answer": "3- True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified the statement as True."
+      },
+      "2.4": {
+        "answer": "4- False\nCorrection:\nCould be achieved by method overriding.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose False."
+      },
+      "2.5": {
+        "answer": "5- False\nCorrection:\nCould not have",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose False, but the expected answer was True. According to policy, score is 0 if not True."
+      },
+      "2.6": {
+        "answer": "6- True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.7": {
+        "answer": "7- False\nCorrection:\nmore than one JDBC driver.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly answered False."
+      },
+      "3.1": {
+        "answer": "① adapting to the new environmental changes in the\nworld.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "② C Language",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'C' as an example of a POP language, which aligns with the expected answer and grading policy."
+      },
+      "3.3": {
+        "answer": "③ Applet Data",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer includes 'Data', which is the expected concept according to the grading policy."
+      },
+      "3.4": {
+        "answer": "④ Applet",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Applet' which matches the expected answer and grading policy."
+      },
+      "3.5": {
+        "answer": "⑤ Container",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "⑥ Control Pantaler",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student's answer 'Control Pantaler' is interpreted as a weak spelling attempt for 'Controller'. Given the context of 'Model-View-___ architecture' and the grading policy allowing for weak spelling if the intended meaning is recoverable, 'Controller' is clearly the intended answer."
+      },
+      "3.7": {
+        "answer": "⑦ JDBC",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified JDBC, which matches one of the expected answers according to the grading policy."
+      },
+      "4.1": {
+        "answer": "(1) System.out.println(\"Seats[i], you will take seat\"+i);\nExplanations The output is the members of Seats array followed\nby these indexes, So the (for loop) was used to print\ntheses members one by one.\nSeat[i] = gives the element of index (i).\nand the (i) at the end is printing the counter\nof the Loop, which goes from (0-4).",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "(2) Agree Vote = new Agree(); initiate an object\nVote.CalculateVotes (76088); of class Agree\nExplanations The Basic idea that I tried to use \"Maybe the syntax\nlet me down\" is to use the method (CalculateVotes)\nto get the desired output. So I initiated/Created\na new object and used the function with the\nrequired parameter to get the correct number.\nWe can also pass to the fun.",
+        "score": 11.0,
+        "max_score": 14.0,
+        "reason": "Only one of calculateVotes or totalVotes is present"
+      }
+    },
+    "totals": {
+      "q1": 28.0,
+      "q2": 18.0,
+      "q3": 21.0,
+      "q4": 25.0,
+      "overall": 92.0
+    }
+  }
+}

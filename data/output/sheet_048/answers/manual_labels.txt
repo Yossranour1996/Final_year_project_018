@@ -1,0 +1,211 @@
+MANUAL LABELING FILE
+================================================================================
+
+Instructions:
+1) Put each answer between its opening and closing markers.
+2) Format must be exactly like: with number between quotes and then closed with number between quotes and slach
+3) Leave the block empty if there is no answer.
+4) Do NOT change the question keys.
+5) After editing this file, save it, then return to the terminal and press Enter.
+
+RAW OCR REFERENCE
+================================================================================
+===== RAW OCR FROM page_02.txt =====
+1. [UNK]
+2. [UNK]
+3. [UNK]
+4. [UNK] المناخية
+5. [UNK] البيولوجية
+6. [UNK] الاجتماعية
+7. [UNK] الاقتصادية
+8. [UNK] البيئية
+
+
+===== RAW OCR FROM page_03.txt =====
+"1.1" 1-1 It mean the Java is not restricted by
+SPECIFIC opreation system . "1.1/"
+
+"1.2" 1.2 by Small Programe called APPLE
+has function the binds together Code and data
+that it manipulate and transmited by Internet
+and excuted them by Java applet browser web "1.2/"
+
+"1.3" 1.3 that
+while pop procedure (Code) oprating on
+Data the oop classes and object encapsulated
+Data and Code
+Class                  code
+                             data
+oop
+                       Code opration
+                       Code
+                             dat
+                       Pop "1.3/"
+
+
+===== RAW OCR FROM page_04.txt =====
+"1.4" 1.4 JVM (Java Virtual Machin)
+byt code "1.4/"
+
+"1.5" 1.5 inheritence is creatin new class From exesting one
+and allow the [UNK] for 'it' to used method and
+[UNK] Function of Super class when it need it [UNK]
+[UNK] plus Attribut
+and method defind For specialization used - while
+Polymorphism Class has many Form and [UNK]
+do not able to inhert - "1.5/"
+
+"1.6" 1.6 encapsulation = Es machanism Previde
+[UNK] to Protect
+Class [UNK] data and Code From
+oulsid intrFance & and misuse. its
+wrapper encapsulated Cade and data "1.6/"
+
+"1.7" 1.7 abstracted classes and InTer Face "1.7/"
+
+"1.8" 1.8 1. dead [UNK] or no longer avialable
+2. Finished their task normaly
+3. terminated due to unormal event "1.8/"
+
+"1.9" 1.9 Streams - in
+Streams - out
+Streams - err "1.9/"
+
+"1.10" 1.10 it Java API (Application Programing Interface)
+to connect and Interact with database
+connect "1.10/"
+
+
+===== RAW OCR FROM page_05.txt =====
+"2.1" 2.1 True "2.1/"
+
+"2.2" 2.2 True "2.2/"
+
+"2.3" 2.3 True "2.3/"
+
+"2.4" 2.4 False
+Run time ploy morphism could be
+achieved by method overriden - "2.4/"
+
+"2.5" 2.5 False
+Could have qbstract method within them
+achieved also by Interface - "2.5/"
+
+"2.6" 2.6 True "2.6/"
+
+"2.7" 2.7 False =
+There is many JDBC driver "2.7/"
+
+
+===== RAW OCR FROM page_06.txt =====
+"3.1" 3-1 environment "3.1/"
+
+"3.2" 3-2 C Language "3.2/"
+
+"3.3" 3-3 attributes "3.3/"
+
+"3.4" 3-4 Applet "3.4/"
+
+"3.5" 3-5 a container "3.5/"
+
+"3.6" 3-6 Controlling "3.6/"
+
+"3.7" 3-7 JDBC "3.7/"
+
+
+===== RAW OCR FROM page_07.txt =====
+"4.1" 4.1
+Seats [i] + ", you will take Seat " + (seats.length -i-1
+Seats [i] + ", you will take seat " + (4 - i) "4.1/"
+
+"4.2" 4 - 2
+if num of Votr
+int total Voters
+(int) portion = double portion
+(int) portion = int total Votes * 0.15 "4.2/"
+
+
+===== RAW OCR FROM page_08.txt =====
+EMPTY
+
+
+EDITABLE LABEL BLOCKS
+================================================================================
+
+"1.1" 
+"1.1/"
+
+"1.2" 
+"1.2/"
+
+"1.3" 
+"1.3/"
+
+"1.4" 
+"1.4/"
+
+"1.5" 
+"1.5/"
+
+"1.6" 
+"1.6/"
+
+"1.7" 
+"1.7/"
+
+"1.8" 
+"1.8/"
+
+"1.9" 
+"1.9/"
+
+"1.10" 
+"1.10/"
+
+"2.1" 
+"2.1/"
+
+"2.2" 
+"2.2/"
+
+"2.3" 
+"2.3/"
+
+"2.4" 
+"2.4/"
+
+"2.5" 
+"2.5/"
+
+"2.6" 
+"2.6/"
+
+"2.7" 
+"2.7/"
+
+"3.1" 
+"3.1/"
+
+"3.2" 
+"3.2/"
+
+"3.3" 
+"3.3/"
+
+"3.4" 
+"3.4/"
+
+"3.5" 
+"3.5/"
+
+"3.6" 
+"3.6/"
+
+"3.7" 
+"3.7/"
+
+"4.1" 
+"4.1/"
+
+"4.2" 
+"4.2/"

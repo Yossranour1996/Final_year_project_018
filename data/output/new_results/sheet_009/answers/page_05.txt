@@ -1,0 +1,25 @@
+Question ➃
+for each block code, complete the CODE to get
+the output and provide explanation for your answer
+1 Students [i] ("You will take seat," ) + ( (i)-1) . n
+between the (students-i) and the (System.out.print(code)).
+From the output we could see the printed statement
+"You will take seat" along with the student identifier
+[ M, C, G, P, D] and their respected seats, which is
+enog enough information to write the remaining code.
+2 we're missing the equation that calculates the positive
+votes. so
+we're missing "If Java was easy, they would call it Python"
+statement
+public class Agree{
+public static void main (String[] args){
+int totalVotes = 760
+System.out.println("Statement: If Java was easy, they would
+call it Python!");
+System.out.println("The number of people who agree with this
+statement is 114");
+public static void CalculateVotes (double num Of Votes) {
+// 15% of votes do agree with the statement.
+double portion = num Of Votes * 0.15;
+System.out.println("the number of people who agree with this
+statement is " + (int) portion);

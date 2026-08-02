@@ -1,0 +1,7 @@
+student
+seat B
+① student [i] + "you will take seat" + str seats length [i] [UNK]
+First you call charactor from list = seats and then goes through loop and
+after that length of seats => like index[0] = ["M"] and less that length
+of list so + "you will take seat" [UNK]
+double numOfVotes = total Votes ;

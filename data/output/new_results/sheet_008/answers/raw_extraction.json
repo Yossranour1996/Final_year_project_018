@@ -1,0 +1,42 @@
+[
+  {
+    "page": "page_01.png",
+    "text": "EMPTY"
+  },
+  {
+    "page": "page_02.png",
+    "text": "1) Jave not restricted by specifing machine or operating System\nArchitecture\n2) by using Web browser and Create Java Applets\n3) POP = procedural oriented language operates on data to achieve\nSome goal\nOOP = use objects and classed and instruction to encapsulated\nboth data and code\nPop\ncode\nOOP\ndata With\nCode encapsulate\ndata <-----\n4) Java Runtime environment that has (JVM) = Java virtual\nmachine\n5) inheritance = creat new classes based on exiting ones and\na class inherit from anther class reuse all fields and methods of that class\nin addition new fields & funcs\npolymorphism = having many forms in word. or ability of\nmassege to be disaply in more than one form\n6) machnism that bind together code and data it manipultes and\nKeep them safe from outside inter farance\n7) interfaces and abstract classes\n8) finisheel task normally —®\nterminet duo to unusual events x — ®\ndead or No longer avalible — ®"
+  },
+  {
+    "page": "page_03.png",
+    "text": "9) System.in / System.out / System.err\n10) Java API AWT (Abstract Window tool Kit) we built API\nSwing on top of it"
+  },
+  {
+    "page": "page_04.png",
+    "text": "1) True\n2) False = o [UNK] True\n3) True\n4) False = o by over overriding method or you can say compile time\n5) False = o could not\n6) True\n7) True"
+  },
+  {
+    "page": "page_05.png",
+    "text": "1) adapt changeing in environments and uses\n2) (C) language\n3) procedures (functions)\n4) Jave Applets\n5) [UNK] container\n6) model view controller\n7) JDPC = Jave data base conectivity"
+  },
+  {
+    "page": "page_06.png",
+    "text": "student\nseat B\n① student [i] + \"you will take seat\" + str seats length [i] [UNK]\nFirst you call charactor from list = seats and then goes through loop and\nafter that length of seats => like index[0] = [\"M\"] and less that length\nof list so + \"you will take seat\" [UNK]\ndouble numOfVotes = total Votes ;"
+  },
+  {
+    "page": "page_07.png",
+    "text": "EMPTY"
+  },
+  {
+    "page": "page_08.png",
+    "text": ""
+  },
+  {
+    "page": "page_09.png",
+    "text": ""
+  },
+  {
+    "page": "page_10.png",
+    "text": ""
+  }
+]

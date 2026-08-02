@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1-1 It mean the Java is not restricted by\nSPECIFIC opreation system .",
+    "1.2": "1.2 by Small Programe called APPLE\nhas function the binds together Code and data\nthat it manipulate and transmited by Internet\nand excuted them by Java applet browser web",
+    "1.3": "1.3 that\nwhile pop procedure (Code) oprating on\nData the oop classes and object encapsulated\nData and Code\nClass                  code\n                             data\noop\n                       Code opration\n                       Code\n                             dat\n                       Pop",
+    "1.4": "1.4 JVM (Java Virtual Machin)\nbyt code",
+    "1.5": "1.5 inheritence is creatin new class From exesting one\nand allow the [UNK] for 'it' to used method and\n[UNK] Function of Super class when it need it [UNK]\n[UNK] plus Attribut\nand method defind For specialization used - while\nPolymorphism Class has many Form and [UNK]\ndo not able to inhert -",
+    "1.6": "1.6 encapsulation = Es machanism Previde\n[UNK] to Protect\nClass [UNK] data and Code From\noulsid intrFance & and misuse. its\nwrapper encapsulated Cade and data",
+    "1.7": "1.7 abstracted classes and InTer Face",
+    "1.8": "1.8 1. dead [UNK] or no longer avialable\n2. Finished their task normaly\n3. terminated due to unormal event",
+    "1.9": "1.9 Streams - in\nStreams - out\nStreams - err",
+    "1.10": "1.10 it Java API (Application Programing Interface)\nto connect and Interact with database\nconnect",
+    "2.1": "2.1 True",
+    "2.2": "2.2 True",
+    "2.3": "2.3 True",
+    "2.4": "2.4 False\nRun time ploy morphism could be\nachieved by method overriden -",
+    "2.5": "2.5 False\nCould have qbstract method within them\nachieved also by Interface -",
+    "2.6": "2.6 True",
+    "2.7": "2.7 False =\nThere is many JDBC driver",
+    "3.1": "3-1 environment",
+    "3.2": "3-2 C Language",
+    "3.3": "3-3 attributes",
+    "3.4": "3-4 Applet",
+    "3.5": "3-5 a container",
+    "3.6": "3-6 Controlling",
+    "3.7": "3-7 JDBC",
+    "4.1": "4.1\nSeats [i] + \", you will take Seat \" + (seats.length -i-1\nSeats [i] + \", you will take seat \" + (4 - i)",
+    "4.2": "4 - 2\nif num of Votr\nint total Voters\n(int) portion = double portion\n(int) portion = int total Votes * 0.15"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1-1 It mean the Java is not restricted by\nSPECIFIC opreation system .",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student conveys that Java is not restricted by a specific operating system, which aligns with the concept of working across different systems/architectures."
+      },
+      "1.2": {
+        "answer": "1.2 by Small Programe called APPLE\nhas function the binds together Code and data\nthat it manipulate and transmited by Internet\nand excuted them by Java applet browser web",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Mentions Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "1.3 that\nwhile pop procedure (Code) oprating on\nData the oop classes and object encapsulated\nData and Code\nClass                  code\n                             data\noop\n                       Code opration\n                       Code\n                             dat\n                       Pop",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly conveys that POP is procedure/code operating on data, and OOP involves classes and objects encapsulating data and code, aligning with the core concepts required by the rubric."
+      },
+      "1.4": {
+        "answer": "1.4 JVM (Java Virtual Machin)\nbyt code",
+        "score": 1.0,
+        "max_score": 3.0,
+        "reason": "Awarded 1/3 for: JVM"
+      },
+      "1.5": {
+        "answer": "1.5 inheritence is creatin new class From exesting one\nand allow the [UNK] for 'it' to used method and\n[UNK] Function of Super class when it need it [UNK]\n[UNK] plus Attribut\nand method defind For specialization used - while\nPolymorphism Class has many Form and [UNK]\ndo not able to inhert -",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance and polymorphism meanings are clearly correct. Inheritance is described as creating a new class from an existing one and reusing superclass methods/attributes. Polymorphism is described as a class having 'many Form', which aligns with the expected concept of 'many forms'."
+      },
+      "1.6": {
+        "answer": "1.6 encapsulation = Es machanism Previde\n[UNK] to Protect\nClass [UNK] data and Code From\noulsid intrFance & and misuse. its\nwrapper encapsulated Cade and data",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student expresses the idea of a 'wrapper' encapsulating 'code and data', which is an equivalent meaning to binding/bundling code and data together."
+      },
+      "1.7": {
+        "answer": "1.7 abstracted classes and InTer Face",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identifies 'abstracted classes' (abstract classes) and 'InTer Face' (interfaces), fulfilling both requirements despite minor spelling/grammar issues."
+      },
+      "1.8": {
+        "answer": "1.8 1. dead [UNK] or no longer avialable\n2. Finished their task normaly\n3. terminated due to unormal event",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided three correct reasons for thread termination, matching points (1) finished/completed task, (2) unusual event/exception/error, and (3) dead/stopped/terminated/no longer available, despite minor spelling issues."
+      },
+      "1.9": {
+        "answer": "1.9 Streams - in\nStreams - out\nStreams - err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified all three default streams (in, out, err) by intended meaning, aligning with System.in, System.out, and System.err."
+      },
+      "1.10": {
+        "answer": "1.10 it Java API (Application Programing Interface)\nto connect and Interact with database\nconnect",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'Java API to connect and interact with database' is not AWT, Abstract Window Toolkit, or a clear equivalent. It is irrelevant to the question."
+      },
+      "2.1": {
+        "answer": "2.1 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified the statement as True."
+      },
+      "2.2": {
+        "answer": "2.2 True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True', but the expected answer is 'False'. According to policy, 3 marks are awarded only if 'False' is chosen."
+      },
+      "2.3": {
+        "answer": "2.3 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.4": {
+        "answer": "2.4 False\nRun time ploy morphism could be\nachieved by method overriden -",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'False', aligning with the teacher's grading policy for this True/False question."
+      },
+      "2.5": {
+        "answer": "2.5 False\nCould have qbstract method within them\nachieved also by Interface -",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'False', but the correct answer is 'True'. According to policy, give 3 only if 'True' is chosen, otherwise 0."
+      },
+      "2.6": {
+        "answer": "2.6 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'True', matching the expected answer and grading policy."
+      },
+      "2.7": {
+        "answer": "2.7 False =\nThere is many JDBC driver",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'False' as required by the grading policy."
+      },
+      "3.1": {
+        "answer": "3-1 environment",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "3-2 C Language",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'C' as an example of a POP language, which matches the expected answer and grading policy."
+      },
+      "3.3": {
+        "answer": "3-3 attributes",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student answered 'attributes', which is not the expected concept 'data' for the free flow issue in POP."
+      },
+      "3.4": {
+        "answer": "3-4 Applet",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Applet' which matches the expected answer and grading policy."
+      },
+      "3.5": {
+        "answer": "3-5 a container",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "3-6 Controlling",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'Controlling' clearly refers to the 'Controller' concept, which is the correct component in the Model-View-Controller architecture. Minor grammatical variation is overlooked as per grading principles."
+      },
+      "3.7": {
+        "answer": "3-7 JDBC",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified JDBC, matching the expected answer and rubric."
+      },
+      "4.1": {
+        "answer": "4.1\nSeats [i] + \", you will take Seat \" + (seats.length -i-1\nSeats [i] + \", you will take seat \" + (4 - i)",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "4 - 2\nif num of Votr\nint total Voters\n(int) portion = double portion\n(int) portion = int total Votes * 0.15",
+        "score": 11.0,
+        "max_score": 14.0,
+        "reason": "Only one of calculateVotes or totalVotes is present"
+      }
+    },
+    "totals": {
+      "q1": 22.0,
+      "q2": 15.0,
+      "q3": 18.0,
+      "q4": 25.0,
+      "overall": 80.0
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1) We mean by that is Java is not restricted to certain\ntype of a computer architecture.",
+    "1.2": "2) The World Wide Web and internet participate in\nthe programming revolution because the users mass\nfor reaching of them led to development & the\n(Java) to connect between different platforms.",
+    "1.3": "3) The main difference is that procedure oriented programming\n(pop) uses the process (code) as a core, while\nobject oriented programming uses the object (data) as core\nwhich binds the code and the data.",
+    "1.4": "4 The components of the JRE are getter, classes, interfaces, etc.",
+    "1.5": "4) The inheritance the creating of new class on top of\nexisting one which can uses its methods and fields, while\npolymorphism allow the multithreading of programs.",
+    "1.6": "5) We mean by encapsulation is binding the data and\nthe code together and restrict the accesses to it, only\nif its allowed.",
+    "1.7": "7) The two ways to achieve abstraction is by default\nlike interface or by defining the abstraction itself.",
+    "1.8": "8 A thread could by terminated due to:\n1- achieving its normal task\n2- due to unusual event.\n3- dead and no longer available.",
+    "1.9": "9 The three default streams are:\n1- system.out (output stream)\n2- system.in (input stream)\n3- system.err (error stream)",
+    "1.10": "10 The API Javaswing was built on top of AWT\n(application windows)",
+    "2.1": "1 The C++ language was called \"C with class).\n((True))",
+    "2.2": "2 It is not possible for an interface to inherit another\ninterface's properties -\n((False))\n- It's possible for interface to inherit multiple interfaces.",
+    "2.3": "3 The Java byte code is a class file that is executed\nby the Java runtime system.\n((False))\n- It is executed by JVM (Java virtual machine).",
+    "2.4": "4 Run time polymorphism could be achieved by method\noverloading.\n((False)).\n- It is achieved by method overriding.",
+    "2.5": "5 Abstract classes could have non-abstract methods\nwithin them.\n((True))",
+    "2.6": "6 Java threads are lightweight threads.\n((True))",
+    "2.7": "7 There is one JDBC driver for all database sources.\n((False)).\n- Two drivers:\n1- manager driver (to manage the server level)\n2- native driver : (to connect database)",
+    "3.1": "1 To deal with even environmental changes is one\nof the reasons that computer language innovation\noccurred.",
+    "3.2": "2 C is an example of a POP Language.",
+    "3.3": "3 POP does not allow data\nto flow freely in\nthe program.",
+    "3.4": "4 JDK → JRE, JVM are small programs that need\na java enabled webbrowser to be executed.",
+    "3.5": "5 a container (frame) is a component which\ncan contain other elements like buttons.",
+    "3.6": "6 The model-view-controller architecture is\nused in Swing.",
+    "3.7": "7 JDBC is a java API to connect and interact\nwith databases.",
+    "4.1": "1) student s[i]. \" you will take seat\" \"student length -it)\"\nOh:-\nstudent [i]. you will take seat', i\n* for the student [i] (for example) will have the seat\n* (i-1) => [UNK] will be seated up to and G = 2\nFor seat student[i] when i=0 the seat will be 0\ni = 1\ni = 4 the seat will be 4",
+    "4.2": "2] Private String U:"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1) We mean by that is Java is not restricted to certain\ntype of a computer architecture.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly states that Java is not restricted to a certain type of computer architecture, which aligns with the concept of architecture-neutrality."
+      },
+      "1.2": {
+        "answer": "2) The World Wide Web and internet participate in\nthe programming revolution because the users mass\nfor reaching of them led to development & the\n(Java) to connect between different platforms.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Accepted nonblank answer without Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "3) The main difference is that procedure oriented programming\n(pop) uses the process (code) as a core, while\nobject oriented programming uses the object (data) as core\nwhich binds the code and the data.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identifies that POP uses 'process'/'code' as its core, relating it to procedures, and OOP uses 'object'/'data' as its core, relating it to objects, which directly matches the grading policy."
+      },
+      "1.4": {
+        "answer": "4 The components of the JRE are getter, classes, interfaces, etc.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "No required JRE component mentioned"
+      },
+      "1.5": {
+        "answer": "4) The inheritance the creating of new class on top of\nexisting one which can uses its methods and fields, while\npolymorphism allow the multithreading of programs.",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "Inheritance explanation is correct; polymorphism explanation is incorrect."
+      },
+      "1.6": {
+        "answer": "5) We mean by encapsulation is binding the data and\nthe code together and restrict the accesses to it, only\nif its allowed.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly describes encapsulation as binding the data and the code together, which matches the expected concept."
+      },
+      "1.7": {
+        "answer": "7) The two ways to achieve abstraction is by default\nlike interface or by defining the abstraction itself.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student mentioned 'interface' but did not clearly mention 'abstract class' or a recoverable synonym. The phrase 'defining the abstraction itself' is too vague to be interpreted as 'abstract class'."
+      },
+      "1.8": {
+        "answer": "8 A thread could by terminated due to:\n1- achieving its normal task\n2- due to unusual event.\n3- dead and no longer available.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified all three reasons for thread termination: achieving its normal task, an unusual event, and being dead/no longer available, matching the grading policy."
+      },
+      "1.9": {
+        "answer": "9 The three default streams are:\n1- system.out (output stream)\n2- system.in (input stream)\n3- system.err (error stream)",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "All three default streams (System.out, System.in, System.err) are correctly identified, despite minor case differences, which are allowed by the policy."
+      },
+      "1.10": {
+        "answer": "10 The API Javaswing was built on top of AWT\n(application windows)",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student explicitly states 'AWT', which directly matches the expected answer and satisfies the grading policy for full credit."
+      },
+      "2.1": {
+        "answer": "1 The C++ language was called \"C with class).\n((True))",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.2": {
+        "answer": "2 It is not possible for an interface to inherit another\ninterface's properties -\n((False))\n- It's possible for interface to inherit multiple interfaces.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'False'. The explanation also supports the correct answer."
+      },
+      "2.3": {
+        "answer": "3 The Java byte code is a class file that is executed\nby the Java runtime system.\n((False))\n- It is executed by JVM (Java virtual machine).",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student chose 'False', but the expected answer is 'True'. According to the policy, 'Give 3 only if the student chose True. Otherwise 0.'"
+      },
+      "2.4": {
+        "answer": "4 Run time polymorphism could be achieved by method\noverloading.\n((False)).\n- It is achieved by method overriding.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose False, which aligns with the expected answer and the grading policy."
+      },
+      "2.5": {
+        "answer": "5 Abstract classes could have non-abstract methods\nwithin them.\n((True))",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'True'."
+      },
+      "2.6": {
+        "answer": "6 Java threads are lightweight threads.\n((True))",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student explicitly chose 'True', matching the expected answer and teacher's grading policy."
+      },
+      "2.7": {
+        "answer": "7 There is one JDBC driver for all database sources.\n((False)).\n- Two drivers:\n1- manager driver (to manage the server level)\n2- native driver : (to connect database)",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'False' as required by the grading policy."
+      },
+      "3.1": {
+        "answer": "1 To deal with even environmental changes is one\nof the reasons that computer language innovation\noccurred.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "2 C is an example of a POP Language.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'C', which is one of the accepted examples for a POP language."
+      },
+      "3.3": {
+        "answer": "3 POP does not allow data\nto flow freely in\nthe program.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer directly provides 'data', which perfectly matches the expected answer and the teacher's grading policy."
+      },
+      "3.4": {
+        "answer": "4 JDK → JRE, JVM are small programs that need\na java enabled webbrowser to be executed.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student's answer mentions JDK, JRE, and JVM, which are not equivalent to 'Applets' as required by the question and grading policy."
+      },
+      "3.5": {
+        "answer": "5 a container (frame) is a component which\ncan contain other elements like buttons.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "6 The model-view-controller architecture is\nused in Swing.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identifies 'Controller' as the missing part of the Model-View-Controller architecture."
+      },
+      "3.7": {
+        "answer": "7 JDBC is a java API to connect and interact\nwith databases.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'JDBC' as the Java API for database interaction."
+      },
+      "4.1": {
+        "answer": "1) student s[i]. \" you will take seat\" \"student length -it)\"\nOh:-\nstudent [i]. you will take seat', i\n* for the student [i] (for example) will have the seat\n* (i-1) => [UNK] will be seated up to and G = 2\nFor seat student[i] when i=0 the seat will be 0\ni = 1\ni = 4 the seat will be 4",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "2] Private String U:",
+        "score": 7.0,
+        "max_score": 14.0,
+        "reason": "Nonblank answer unrelated to votes"
+      }
+    },
+    "totals": {
+      "q1": 23.0,
+      "q2": 18.0,
+      "q3": 18.0,
+      "q4": 21.0,
+      "overall": 80.0
+    }
+  }
+}

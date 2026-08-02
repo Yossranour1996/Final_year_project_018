@@ -12,14 +12,14 @@ import pandas as pd
 # =========================
 
 # ملف الدرجات الحقيقية
-TRUE_MARKS_FILE = r"C:\Users\hp\Desktop\018_Final\data\output\sheet_marks.csv"
+TRUE_MARKS_FILE = r"C:\Users\hp\Desktop\sheet_marks.csv"
 # أو xlsx
 
 # المجلد الذي يحتوي ملفات النتائج
 OUTPUT_ROOT = Path(r"C:\Users\hp\Desktop\018_Final\data\output")
 
 # ملف التقرير النهائي
-OUTPUT_TXT = r"C:\Users\hp\Desktop\\018_Final\data\grading_analysis_all.txt"
+OUTPUT_TXT = r"C:\Users\hp\Desktop\018_Final\data\grading_analysis_all.txt"
 
 # أسماء الأعمدة في ملفك الحقيقي
 TRUE_ID_COL = "sheet_num"
@@ -216,14 +216,32 @@ def build_report(merged: pd.DataFrame, question_df: pd.DataFrame, section_df: pd
     usable["error"] = usable["pred_mark"] - usable["true_mark"]
     usable["abs_error"] = usable["error"].abs()
     usable["sq_error"] = usable["error"] ** 2
-    usable["within_5"] = usable["abs_error"] <= 5
+    usable["exact_match"] = usable["abs_error"] == 0
+    usable["within_3"] = (
+        (usable["abs_error"] > 0)
+        & (usable["abs_error"] <= 3)
+    )
+    usable["within_5"] = (
+        (usable["abs_error"] > 3)
+        & (usable["abs_error"] <= 5)
+    )
+    usable["more_than_5"] = usable["abs_error"] > 5
 
     mean_error = usable["error"].mean()
     mae = usable["abs_error"].mean()
     mse = usable["sq_error"].mean()
     rmse = math.sqrt(mse)
+
+    total_usable = len(usable)
+    exact_count = int(usable["exact_match"].sum())
+    within_3_count = int(usable["within_3"].sum())
     within_5_count = int(usable["within_5"].sum())
-    within_5_pct = (within_5_count / len(usable)) * 100.0
+    more_than_5_count = int(usable["more_than_5"].sum())
+
+    exact_pct = (exact_count / total_usable) * 100.0
+    within_3_pct = (within_3_count / total_usable) * 100.0
+    within_5_pct = (within_5_count / total_usable) * 100.0
+    more_than_5_pct = (more_than_5_count / total_usable) * 100.0
 
     lines.append("OVERALL METRICS")
     lines.append("-" * 80)
@@ -231,7 +249,13 @@ def build_report(merged: pd.DataFrame, question_df: pd.DataFrame, section_df: pd
     lines.append(f"Mean Absolute Error (MAE): {mae:.3f}")
     lines.append(f"Mean Squared Error (MSE): {mse:.3f}")
     lines.append(f"Root Mean Squared Error (RMSE): {rmse:.3f}")
-    lines.append(f"Within ±5 marks: {within_5_count}/{len(usable)} ({within_5_pct:.2f}%)")
+    lines.append("")
+    lines.append("ERROR RANGE DISTRIBUTION")
+    lines.append("-" * 80)
+    lines.append(f"Exact matches (error = 0): {exact_count}/{total_usable} ({exact_pct:.2f}%)")
+    lines.append(f"Within 3 marks (> 0 and <= 3): {within_3_count}/{total_usable} ({within_3_pct:.2f}%)")
+    lines.append(f"Within 5 marks (> 3 and <= 5): {within_5_count}/{total_usable} ({within_5_pct:.2f}%)")
+    lines.append(f"More than 5 marks (> 5): {more_than_5_count}/{total_usable} ({more_than_5_pct:.2f}%)")
     lines.append("")
 
     over_df = usable[usable["error"] > 0]
@@ -245,15 +269,23 @@ def build_report(merged: pd.DataFrame, question_df: pd.DataFrame, section_df: pd
     lines.append(f"Exact matches: {len(exact_df)}")
     lines.append("")
 
-    big_fail = usable[usable["abs_error"] > 5]
-    moderate_fail = usable[(usable["abs_error"] > 2) & (usable["abs_error"] <= 5)]
-    small_fail = usable[usable["abs_error"] <= 2]
+    exact_cases = usable[usable["abs_error"] == 0]
+    within_3_cases = usable[
+        (usable["abs_error"] > 0)
+        & (usable["abs_error"] <= 3)
+    ]
+    within_5_cases = usable[
+        (usable["abs_error"] > 3)
+        & (usable["abs_error"] <= 5)
+    ]
+    more_than_5_cases = usable[usable["abs_error"] > 5]
 
     lines.append("WHERE THE SYSTEM FAILS MOST")
     lines.append("-" * 80)
-    lines.append(f"Large errors   (> 5): {len(big_fail)}")
-    lines.append(f"Moderate errors(> 2 and <= 5): {len(moderate_fail)}")
-    lines.append(f"Small errors   (<= 2): {len(small_fail)}")
+    lines.append(f"Exact matches (= 0): {len(exact_cases)}")
+    lines.append(f"Within 3 marks (> 0 and <= 3): {len(within_3_cases)}")
+    lines.append(f"Within 5 marks (> 3 and <= 5): {len(within_5_cases)}")
+    lines.append(f"More than 5 marks (> 5): {len(more_than_5_cases)}")
     lines.append("")
 
     worst_cases = usable.sort_values("abs_error", ascending=False).head(20)

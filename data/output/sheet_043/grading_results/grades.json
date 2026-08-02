@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1.1 That it's a language that don't depend\non an architecture system.",
+    "1.2": "1.2 The world wide web participate in\nimproving the programming language to deal\nwith servers after being only for local\nData transfer between computers.",
+    "1.3": "1.3 POP is a language that handels the functions\nmore than organising data.\nbut oop focus on data and how to axioss\nit more than functions.",
+    "1.4": "1.4 Java Run-time Environment\nis to contain of a Laibraries\nand JVM (Java virtual machin) the handle\nthe run prod of the program process.",
+    "1.5": "1.5 inhepitence is used to implement a\nclasses from the main class &\npolymorphism that you can't inherets don't depend\non the small inherited classes but focus to\nget instructions from the main class directly.",
+    "1.6": "1.6 encapsulation : is the privet room\nthat contains All of the data but-on and\nkeep it praivet.",
+    "1.7": "1.7 abstract classes and interface .",
+    "1.8": "1.8 when the Program is fully finished.\nwhen it intrrupts due to unisuad actions\nwhen it's dead (loong run without results)",
+    "1.9": "1.9 1. system.in 2. system.out\n3. system.err",
+    "1.10": "",
+    "2.1": "2.1 True.",
+    "2.2": "2.2 False, & possible for an interface\nto inherit from another main class prob.",
+    "2.3": "2.3 True.",
+    "2.4": "2.4 False, by method override.",
+    "2.5": "2.5 True.",
+    "2.6": "2.6 False, heavyweight and tight",
+    "2.7": "2.7 True.",
+    "3.1": "internet.",
+    "3.2": "the Language C",
+    "3.3": "dose does not allow functions",
+    "3.4": "interface",
+    "3.5": "controller.",
+    "3.6": "interface",
+    "3.7": "JDBC\n(Java Database connector)",
+    "4.1": "4.1\nsystem.out.println(\nSystem[i] + \"You will take seat \" + (i+1));\nfrom that we read (i) and let it read (i)\nthen print our statment in addition of\n(i) after every seat written.",
+    "4.2": "4.2\nPrivet int [UNK] Votes;\nwe don't need the program to edit in the\nnumber of votes."
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1.1 That it's a language that don't depend\non an architecture system.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly conveys the idea that Java does not depend on a specific architecture system, aligning with the concept of architecture-neutrality, despite minor grammatical errors."
+      },
+      "1.2": {
+        "answer": "1.2 The world wide web participate in\nimproving the programming language to deal\nwith servers after being only for local\nData transfer between computers.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Accepted nonblank answer without Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "1.3 POP is a language that handels the functions\nmore than organising data.\nbut oop focus on data and how to axioss\nit more than functions.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identifies POP as function-focused and OOP as data-focused (and how to access it), which accurately conveys the core difference regarding procedures/functions and data/objects, despite minor spelling errors."
+      },
+      "1.4": {
+        "answer": "1.4 Java Run-time Environment\nis to contain of a Laibraries\nand JVM (Java virtual machin) the handle\nthe run prod of the program process.",
+        "score": 1.0,
+        "max_score": 3.0,
+        "reason": "Awarded 1/3 for: JVM"
+      },
+      "1.5": {
+        "answer": "1.5 inhepitence is used to implement a\nclasses from the main class &\npolymorphism that you can't inherets don't depend\non the small inherited classes but focus to\nget instructions from the main class directly.",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "The student's explanation for inheritance (despite weak spelling and phrasing) is recoverable as 'classes derive/implement from a main/super class', which points to the correct concept. However, the explanation for polymorphism is incorrect and confused, stating 'you can't inherets don't depend on the small inherited classes', which misrepresents the concept. Since one concept is considered correct and the other is not, a score of 2 is awarded."
+      },
+      "1.6": {
+        "answer": "1.6 encapsulation : is the privet room\nthat contains All of the data but-on and\nkeep it praivet.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student's answer describes information hiding ('privet room', 'keep it praivet'), which is an aspect often achieved with encapsulation, but does not define encapsulation as the binding or bundling of code and data together."
+      },
+      "1.7": {
+        "answer": "1.7 abstract classes and interface .",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly mentioned 'abstract classes' and 'interface' (interfaces), matching the expected answer according to the rubric."
+      },
+      "1.8": {
+        "answer": "1.8 when the Program is fully finished.\nwhen it intrrupts due to unisuad actions\nwhen it's dead (loong run without results)",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "Student identified two distinct reasons for thread termination: an unusual event/exception ('intrrupts due to unisuad actions') and the thread being dead/terminated ('when it's dead' and implicitly 'when the Program is fully finished' falls under this category). The reason for a thread completing its task normally was not distinctly identified."
+      },
+      "1.9": {
+        "answer": "1.9 1. system.in 2. system.out\n3. system.err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly listed all three default Java streams: System.in, System.out, and System.err."
+      },
+      "1.10": {
+        "answer": "",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Blank answer"
+      },
+      "2.1": {
+        "answer": "2.1 True.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'True' as per the expected answer and grading policy."
+      },
+      "2.2": {
+        "answer": "2.2 False, & possible for an interface\nto inherit from another main class prob.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as False."
+      },
+      "2.3": {
+        "answer": "2.3 True.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'True', which aligns with the expected answer and the teacher's grading policy."
+      },
+      "2.4": {
+        "answer": "2.4 False, by method override.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the answer as False, which earns full marks according to the teacher's policy."
+      },
+      "2.5": {
+        "answer": "2.5 True.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True', matching the expected answer and teacher's policy for full credit."
+      },
+      "2.6": {
+        "answer": "2.6 False, heavyweight and tight",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'False'. According to the grading policy, full marks (3) are only awarded if the student chose 'True'. Otherwise, the score is 0."
+      },
+      "2.7": {
+        "answer": "2.7 True.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student chose 'True', but the correct answer is 'False'. According to the rubric, full marks (3) are only awarded if the student chose 'False'."
+      },
+      "3.1": {
+        "answer": "internet.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "the Language C",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'C', which is one of the accepted examples for a POP language."
+      },
+      "3.3": {
+        "answer": "dose does not allow functions",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'functions' does not match the expected concept 'data'."
+      },
+      "3.4": {
+        "answer": "interface",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student answered 'interface' which is not 'Applets' or a clear equivalent. The policy awards 0 for answers not matching 'Applets'."
+      },
+      "3.5": {
+        "answer": "controller.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Neither Container nor Frame identified"
+      },
+      "3.6": {
+        "answer": "interface",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student did not provide 'Controller' as the missing part of the MVC architecture."
+      },
+      "3.7": {
+        "answer": "JDBC\n(Java Database connector)",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly mentioned 'JDBC', which is one of the accepted answers for full marks as per the grading policy."
+      },
+      "4.1": {
+        "answer": "4.1\nsystem.out.println(\nSystem[i] + \"You will take seat \" + (i+1));\nfrom that we read (i) and let it read (i)\nthen print our statment in addition of\n(i) after every seat written.",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "4.2\nPrivet int [UNK] Votes;\nwe don't need the program to edit in the\nnumber of votes.",
+        "score": 9.0,
+        "max_score": 14.0,
+        "reason": "Incorrect but vote-related answer"
+      }
+    },
+    "totals": {
+      "q1": 20.0,
+      "q2": 15.0,
+      "q3": 9.0,
+      "q4": 23.0,
+      "overall": 67.0
+    }
+  }
+}

@@ -1,0 +1,21 @@
+(5) In heritance: is existing
+on one, and uses (methods and properties of that Class)
+Polymorphism features that allowed in one interface
+and used of a general.
+(Polymorphism is interface but in heritance is [UNK] a new class)
+(6) encapsulation:
+is a mechanism to brid data and Code is
+together in manipulations to be both safe for outside
+and misuse.
+(7) two ways to achieve abstractions
+(1) abstrac classes
+(2) interface
+(8) terminated due to three reasons:
+(1) finished It's a task harmally
+(2) terminated due to unusual events
+(3) dead and no longer avarible
+(9) three default strems in Java:
+(1) System.in
+(2) System.out
+(3) System.err
+(10) Wendows & interface.

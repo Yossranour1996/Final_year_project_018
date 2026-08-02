@@ -1,0 +1,26 @@
+1) Jave not restricted by specifing machine or operating System
+Architecture
+2) by using Web browser and Create Java Applets
+3) POP = procedural oriented language operates on data to achieve
+Some goal
+OOP = use objects and classed and instruction to encapsulated
+both data and code
+Pop
+code
+OOP
+data With
+Code encapsulate
+data <-----
+4) Java Runtime environment that has (JVM) = Java virtual
+machine
+5) inheritance = creat new classes based on exiting ones and
+a class inherit from anther class reuse all fields and methods of that class
+in addition new fields & funcs
+polymorphism = having many forms in word. or ability of
+massege to be disaply in more than one form
+6) machnism that bind together code and data it manipultes and
+Keep them safe from outside inter farance
+7) interfaces and abstract classes
+8) finisheel task normally —®
+terminet duo to unusual events x — ®
+dead or No longer avalible — ®

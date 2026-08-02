@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1) We mean that the JAVA is not restricted by a specific system architecture.",
+    "1.2": "2) They introduced Applets which extended the functionality of the web, and also servlet that extended functionality of the server",
+    "1.3": "3) The dot POP treats the code lines as instructions and emphasizes on the procedure, on the other hand OOP encapsulate the code and data it manipulates and emphasized on data",
+    "1.4": "4) JRE or JAVA Runtime Environment consists of library and JVM to Run the code",
+    "1.5": "5) Inheritance = new classed inherits the attributes and methods of older classes. Polymorphism: Allow one interface to be used for general use case, Inheritance keep the old classes methods while polymorphism might alter them",
+    "1.6": "6) Encapsulation is the mechanism that binds the code and data it manipulates and Keep them safe from outside interference and misuse.",
+    "1.7": "7) Class abstracts and interfaces",
+    "1.8": "8) 1) finished and completed the task normally.\n   2) terminated due to unusual events.\n\n\n===== RAW OCR FROM page_03.txt =====\n3) Stopped due to runtime error",
+    "1.9": "a) System.In System.out System.err",
+    "1.10": "10) JAVA swing was built on top of AWT",
+    "2.1": "1) The C++ language was called \"C with Classes\"\nTrue",
+    "2.2": "2) It is not possible for an interface to inherit another interfaces\nproperties\nTrue",
+    "2.3": "3) The Java byte code is a .class file that is executed\nby the Java run-time system\nTrue",
+    "2.4": "4) Run time polymorphism could be achieved by method\nOverloading\nFalse, It is achieved by Overriding",
+    "2.5": "5) Abstract classes could have non-abstract methods within them\nFalse, that would lead to the diamond problem,\nwhich causes the class to extend extend till is errors out",
+    "2.6": "6) JAVA threads are light weigh threads\nTrue",
+    "2.7": "7] There is one JDBC driver for all database sources\nX False each source has its own implementations for\nJDBC driver - True",
+    "3.1": "1] Enhancement is one of the reason that computer\nlanguage innovation occurred",
+    "3.2": "2] C is an example of a POP language\ninstructions",
+    "3.3": "3] POP does not allow data flow freely in the\nProgram",
+    "3.4": "4] Applets are small programs that need a Java\nenabled web browser to be executed",
+    "3.5": "5] a frame is a component which can contain other\nelements like buttons",
+    "3.6": "6] The model-view controller (MVC) architecture is used in Swing",
+    "3.7": "7] JDBC is a Java API to connect and interact with\ndatabases",
+    "4.1": "1 Students [i] (\"You will take seat,\" ) + ( (i)-1) . n\nbetween the (students-i) and the (System.out.print(code)).\nFrom the output we could see the printed statement\n\"You will take seat\" along with the student identifier\n[ M, C, G, P, D] and their respected seats, which is\nenog enough information to write the remaining code.",
+    "4.2": "2 we're missing the equation that calculates the positive\nvotes. so\nwe're missing \"If Java was easy, they would call it Python\"\nstatement\npublic class Agree{\npublic static void main (String[] args){\nint totalVotes = 760\nSystem.out.println(\"Statement: If Java was easy, they would\ncall it Python!\");\nSystem.out.println(\"The number of people who agree with this\nstatement is 114\");\npublic static void CalculateVotes (double num Of Votes) {\n// 15% of votes do agree with the statement.\ndouble portion = num Of Votes * 0.15;\nSystem.out.println(\"the number of people who agree with this\nstatement is \" + (int) portion);\n\n\n===== RAW OCR FROM page_06.txt =====\nWe added the missing statemented and printed it on\na new line -\nSystem.out.println(\"the amount of people who agrees with this to\nstatement is\nSystem.out.println(\"Statements. If Java was easy, they would\ncall it Python ! \");"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1) We mean that the JAVA is not restricted by a specific system architecture.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student clearly states that Java is not restricted by a specific system architecture, which aligns with the core concept of architecture-neutrality."
+      },
+      "1.2": {
+        "answer": "2) They introduced Applets which extended the functionality of the web, and also servlet that extended functionality of the server",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Mentions Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "3) The dot POP treats the code lines as instructions and emphasizes on the procedure, on the other hand OOP encapsulate the code and data it manipulates and emphasized on data",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identifies POP as procedure-oriented and OOP as emphasizing encapsulation of code and data, which is related to objects/classes."
+      },
+      "1.4": {
+        "answer": "4) JRE or JAVA Runtime Environment consists of library and JVM to Run the code",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "Awarded 2/3 for: JVM, libraries"
+      },
+      "1.5": {
+        "answer": "5) Inheritance = new classed inherits the attributes and methods of older classes. Polymorphism: Allow one interface to be used for general use case, Inheritance keep the old classes methods while polymorphism might alter them",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance ('new class inherits attributes and methods of older classes') and polymorphism ('one interface to be used for general use case') are defined correctly according to the expected concepts."
+      },
+      "1.6": {
+        "answer": "6) Encapsulation is the mechanism that binds the code and data it manipulates and Keep them safe from outside interference and misuse.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer explicitly states 'binds the code and data it manipulates', which directly matches the core concept of binding/bundling code and data together as required by the rubric."
+      },
+      "1.7": {
+        "answer": "7) Class abstracts and interfaces",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student mentioned 'Class abstracts' (referring to abstract classes) and 'interfaces', which matches the expected answer for full credit according to the grading policy despite weak grammar."
+      },
+      "1.8": {
+        "answer": "8) 1) finished and completed the task normally.\n   2) terminated due to unusual events.\n\n\n===== RAW OCR FROM page_03.txt =====\n3) Stopped due to runtime error",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "Student provided two distinct reasons for thread termination: (1) finished normally, and (2) terminated due to unusual events/errors. The third point 'Stopped due to runtime error' is a specific instance of an unusual event/error, not a separate category from 'terminated due to unusual events'."
+      },
+      "1.9": {
+        "answer": "a) System.In System.out System.err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified all three default streams: System.in (despite capitalization error, it's clearly intended as per policy), System.out, and System.err."
+      },
+      "1.10": {
+        "answer": "10) JAVA swing was built on top of AWT",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified AWT, which is one of the accepted answers."
+      },
+      "2.1": {
+        "answer": "1) The C++ language was called \"C with Classes\"\nTrue",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose True, which matches the expected answer."
+      },
+      "2.2": {
+        "answer": "2) It is not possible for an interface to inherit another interfaces\nproperties\nTrue",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student chose 'True', but the correct answer is 'False'. According to the policy, 3 marks are awarded only if 'False' is chosen."
+      },
+      "2.3": {
+        "answer": "3) The Java byte code is a .class file that is executed\nby the Java run-time system\nTrue",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'True', which aligns with the expected answer and grading policy for full marks."
+      },
+      "2.4": {
+        "answer": "4) Run time polymorphism could be achieved by method\nOverloading\nFalse, It is achieved by Overriding",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as False."
+      },
+      "2.5": {
+        "answer": "5) Abstract classes could have non-abstract methods within them\nFalse, that would lead to the diamond problem,\nwhich causes the class to extend extend till is errors out",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student chose 'False' but the correct answer is 'True'. According to the grading policy, score is 0 if not 'True'."
+      },
+      "2.6": {
+        "answer": "6) JAVA threads are light weigh threads\nTrue",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True, which matches the expected answer."
+      },
+      "2.7": {
+        "answer": "7] There is one JDBC driver for all database sources\nX False each source has its own implementations for\nJDBC driver - True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student explicitly marked 'X False' for the question and provided a correct explanation ('each source has its own implementations for JDBC driver'). The trailing '- True' is ambiguous but does not negate the clear initial choice of 'False'."
+      },
+      "3.1": {
+        "answer": "1] Enhancement is one of the reason that computer\nlanguage innovation occurred",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "2] C is an example of a POP language\ninstructions",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'C' as an example of a POP language, which matches an accepted answer."
+      },
+      "3.3": {
+        "answer": "3] POP does not allow data flow freely in the\nProgram",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'data' as the missing concept, which aligns with the expected answer and the grading policy."
+      },
+      "3.4": {
+        "answer": "4] Applets are small programs that need a Java\nenabled web browser to be executed",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'Applets', matching the expected answer and satisfying the grading policy for full marks."
+      },
+      "3.5": {
+        "answer": "5] a frame is a component which can contain other\nelements like buttons",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "6] The model-view controller (MVC) architecture is used in Swing",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'Controller' as the missing part of the Model-View-Controller architecture."
+      },
+      "3.7": {
+        "answer": "7] JDBC is a Java API to connect and interact with\ndatabases",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified JDBC, which is the expected answer."
+      },
+      "4.1": {
+        "answer": "1 Students [i] (\"You will take seat,\" ) + ( (i)-1) . n\nbetween the (students-i) and the (System.out.print(code)).\nFrom the output we could see the printed statement\n\"You will take seat\" along with the student identifier\n[ M, C, G, P, D] and their respected seats, which is\nenog enough information to write the remaining code.",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "2 we're missing the equation that calculates the positive\nvotes. so\nwe're missing \"If Java was easy, they would call it Python\"\nstatement\npublic class Agree{\npublic static void main (String[] args){\nint totalVotes = 760\nSystem.out.println(\"Statement: If Java was easy, they would\ncall it Python!\");\nSystem.out.println(\"The number of people who agree with this\nstatement is 114\");\npublic static void CalculateVotes (double num Of Votes) {\n// 15% of votes do agree with the statement.\ndouble portion = num Of Votes * 0.15;\nSystem.out.println(\"the number of people who agree with this\nstatement is \" + (int) portion);\n\n\n===== RAW OCR FROM page_06.txt =====\nWe added the missing statemented and printed it on\na new line -\nSystem.out.println(\"the amount of people who agrees with this to\nstatement is\nSystem.out.println(\"Statements. If Java was easy, they would\ncall it Python ! \");",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Both calculateVotes and totalVotes are present"
+      }
+    },
+    "totals": {
+      "q1": 25.0,
+      "q2": 15.0,
+      "q3": 21.0,
+      "q4": 28.0,
+      "overall": 89.0
+    }
+  }
+}

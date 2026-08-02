@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1) Jave not restricted by specifing machine or operating System\nArchitecture",
+    "1.2": "2) by using Web browser and Create Java Applets",
+    "1.3": "3) POP = procedural oriented language operates on data to achieve\nSome goal\nOOP = use objects and classed and instruction to encapsulated\nboth data and code\nPop\ncode\nOOP\ndata With\nCode encapsulate\ndata <-----",
+    "1.4": "4) Java Runtime environment that has (JVM) = Java virtual\nmachine",
+    "1.5": "5) inheritance = creat new classes based on exiting ones and\na class inherit from anther class reuse all fields and methods of that class\nin addition new fields & funcs\npolymorphism = having many forms in word. or ability of\nmassege to be disaply in more than one form",
+    "1.6": "6) machnism that bind together code and data it manipultes and\nKeep them safe from outside inter farance",
+    "1.7": "7) interfaces and abstract classes",
+    "1.8": "8) finisheel task normally —®\nterminet duo to unusual events x — ®\ndead or No longer avalible — ®",
+    "1.9": "9) System.in / System.out / System.err",
+    "1.10": "10) Java API AWT (Abstract Window tool Kit) we built API\nSwing on top of it",
+    "2.1": "1) True",
+    "2.2": "2)  True",
+    "2.3": "3) True",
+    "2.4": "4) False = o by over overriding method or you can say compile time",
+    "2.5": "5) False = o could not",
+    "2.6": "6) True",
+    "2.7": "7) True",
+    "3.1": "1) adapt changeing in environments and uses",
+    "3.2": "2) (C) language",
+    "3.3": "3) procedures (functions)",
+    "3.4": "4) Jave Applets",
+    "3.5": "5) [UNK] container",
+    "3.6": "6) model view controller",
+    "3.7": "7) JDPC = Jave data base conectivity",
+    "4.1": "student\nseat B\n① student [i] + \"you will take seat\" + str seats length [i] [UNK]\nFirst you call charactor from list = seats and then goes through loop and\nafter that length of seats => like index[0] = [\"M\"] and less that length\nof list so + \"you will take seat\" [UNK]",
+    "4.2": "double numOfVotes = total Votes ;"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1) Jave not restricted by specifing machine or operating System\nArchitecture",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly conveys that Java is not restricted by a specific machine or operating system architecture, which aligns with the concept of architecture-neutrality. Spelling mistakes are minor and do not obscure the meaning."
+      },
+      "1.2": {
+        "answer": "2) by using Web browser and Create Java Applets",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Mentions Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "3) POP = procedural oriented language operates on data to achieve\nSome goal\nOOP = use objects and classed and instruction to encapsulated\nboth data and code\nPop\ncode\nOOP\ndata With\nCode encapsulate\ndata <-----",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identifies POP as 'procedural oriented' and operating on 'data', and OOP as using 'objects and classes' and encapsulating 'data and code'. This aligns with the grading policy."
+      },
+      "1.4": {
+        "answer": "4) Java Runtime environment that has (JVM) = Java virtual\nmachine",
+        "score": 1.0,
+        "max_score": 3.0,
+        "reason": "Awarded 1/3 for: JVM"
+      },
+      "1.5": {
+        "answer": "5) inheritance = creat new classes based on exiting ones and\na class inherit from anther class reuse all fields and methods of that class\nin addition new fields & funcs\npolymorphism = having many forms in word. or ability of\nmassege to be disaply in more than one form",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance ('creat new classes based on exiting ones and reuse all fields and methods') and polymorphism ('having many forms' and 'ability of message to be displayed in more than one form') are correctly defined, despite minor spelling errors."
+      },
+      "1.6": {
+        "answer": "6) machnism that bind together code and data it manipultes and\nKeep them safe from outside inter farance",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identifies encapsulation as binding code and data together, despite minor spelling errors."
+      },
+      "1.7": {
+        "answer": "7) interfaces and abstract classes",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly mentioned both 'interfaces' and 'abstract classes' as ways to achieve abstraction, fulfilling the grading policy."
+      },
+      "1.8": {
+        "answer": "8) finisheel task normally —®\nterminet duo to unusual events x — ®\ndead or No longer avalible — ®",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified three distinct reasons for thread termination: finishing task normally, termination due to unusual events, and being dead/no longer available. Each point matches the grading policy, despite minor spelling errors which do not obscure the meaning."
+      },
+      "1.9": {
+        "answer": "9) System.in / System.out / System.err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified all three default streams: System.in, System.out, and System.err. Each correct stream is worth 1 mark, for a total of 3 marks."
+      },
+      "1.10": {
+        "answer": "10) Java API AWT (Abstract Window tool Kit) we built API\nSwing on top of it",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student explicitly mentioned 'AWT (Abstract Window tool Kit)', which clearly identifies Abstract Window Toolkit despite a minor spelling error ('tool Kit' instead of 'Toolkit'). This directly matches the expected answer."
+      },
+      "2.1": {
+        "answer": "1) True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose True."
+      },
+      "2.2": {
+        "answer": "2)  True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True', but the correct answer is 'False'. According to policy, score is 0 if not 'False'."
+      },
+      "2.3": {
+        "answer": "3) True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.4": {
+        "answer": "4) False = o by over overriding method or you can say compile time",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'False' as required by the grading policy."
+      },
+      "2.5": {
+        "answer": "5) False = o could not",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'False' for a question where 'True' was the correct answer. According to policy, score is 0 if not 'True'."
+      },
+      "2.6": {
+        "answer": "6) True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True' as required by the policy."
+      },
+      "2.7": {
+        "answer": "7) True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True', but the correct answer is 'False'. According to the policy, score 0 if not 'False'."
+      },
+      "3.1": {
+        "answer": "1) adapt changeing in environments and uses",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "2) (C) language",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'C' as an example of a POP language, matching the expected answer and grading policy."
+      },
+      "3.3": {
+        "answer": "3) procedures (functions)",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'procedures (functions)' does not match the expected concept 'data' for the blank. According to the policy, full marks are given only if the intended answer is 'data'."
+      },
+      "3.4": {
+        "answer": "4) Jave Applets",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student clearly identifies 'Applets' despite a minor spelling error ('Jave' instead of 'Java'), which is fully recoverable according to grading principles."
+      },
+      "3.5": {
+        "answer": "5) [UNK] container",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "6) model view controller",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'Controller' as the missing word in the Model-View-Controller architecture."
+      },
+      "3.7": {
+        "answer": "7) JDPC = Jave data base conectivity",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'JDPC = Jave data base conectivity' is a clear, albeit misspelled, attempt to write 'JDBC = Java Database Connectivity'. As per policy, minor spelling mistakes do not reduce the score if the intended meaning is clear."
+      },
+      "4.1": {
+        "answer": "student\nseat B\n① student [i] + \"you will take seat\" + str seats length [i] [UNK]\nFirst you call charactor from list = seats and then goes through loop and\nafter that length of seats => like index[0] = [\"M\"] and less that length\nof list so + \"you will take seat\" [UNK]",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "double numOfVotes = total Votes ;",
+        "score": 11.0,
+        "max_score": 14.0,
+        "reason": "Only one of calculateVotes or totalVotes is present"
+      }
+    },
+    "totals": {
+      "q1": 25.0,
+      "q2": 12.0,
+      "q3": 18.0,
+      "q4": 25.0,
+      "overall": 80.0
+    }
+  }
+}

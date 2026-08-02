@@ -13,7 +13,7 @@ import pdfplumber
 # GRADES_PDF = r"C:\Users\hp\Desktop\final_marks.pdf"
 # OUTPUT_CSV = r"C:\Users\hp\Desktop\sheet_marks.csv"
 # # =====================================
-SHEETS_FOLDER = r"C:\Users\hp\Downloads\drive-download-20260627T142559Z-3-001"
+SHEETS_FOLDER = r"C:\Users\hp\Desktop\tr_evl"
 GRADES_PDF = r"C:/Users/hp/Downloads/Java_exam_final_marks.pdf"
 OUTPUT_CSV = r"C:/Users/hp/Desktop/sheet_marks.csv"
 

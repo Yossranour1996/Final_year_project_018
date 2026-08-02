@@ -1,0 +1,42 @@
+[
+  {
+    "page": "page_01.png",
+    "text": "EMPTY"
+  },
+  {
+    "page": "page_02.png",
+    "text": "1- [UNK]\n2- [UNK]\n3- [UNK]\n4- [UNK]\n5- [UNK]\n6- [UNK]\n7- [UNK]\n8- [UNK]"
+  },
+  {
+    "page": "page_03.png",
+    "text": "① We mean that Java is not restricted to a specific\narchitecture of Computer.\n② Java has taken a lot of [UNK] and Internet\nallowed and gave new features to the world of programing and Java\ncreated a special package simplified the internet.\n③ POP deals more about procedures (methods or code) and\nthey are there major emphasis, on the other hand OOP uses\nthe concept of classes to combine and focus on both data\n(which is not much focused on on POP) and methods (codes)\nand uses the concept of classes and objects.\n④ Compiler and implementation tools\n⑤ Inheritance means to use create a class from initial\nclass. The new class can content the methods and attributes\nof the first class (created from) but polymorphism that inst\nis taking instruction and features of a class and use it in general and can be\n⑥ Encapsulation is to combine together data and codes (methods)\nand secure them from outside (interfaces) classes.\n⑦ runtime compile-time class abstraction, function abstraction\nunusual unusual\n⑧ @ Instructions excuted normally @ Excutian stopped due to an event\n@ Could be dead or unavailable\n⑨ System. In\nSystem. out\nSystem. err\n⑩ API Java swing was built on the top of JDBC\nto connect and interact bet to data base."
+  },
+  {
+    "page": "page_04.png",
+    "text": "(1) True\n(2) True\n(3) True\n(4) False. It is achieved by method overriding.\n(5) False. It couldn't have a non-abstracted method inside it.\n(6) True\n(7) False There are more than one driver True"
+  },
+  {
+    "page": "page_05.png",
+    "text": "(1) limitation\n(2) C\n(3) data\n(4) servlet and Applet\n(5) Frame\n(6) controller\n(7) JBDC"
+  },
+  {
+    "page": "page_06.png",
+    "text": "① You will take seat\nStudent's IT # You will take seat\" (4-1):\n(2) Calculate votes votes ( ) :"
+  },
+  {
+    "page": "page_07.png",
+    "text": ""
+  },
+  {
+    "page": "page_08.png",
+    "text": "EMPTY"
+  },
+  {
+    "page": "page_09.png",
+    "text": ""
+  },
+  {
+    "page": "page_10.png",
+    "text": "EMPTY"
+  }
+]

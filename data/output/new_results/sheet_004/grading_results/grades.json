@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "① We mean that Java is not restricted to a specific\narchitecture of Computer.",
+    "1.2": "② Java has taken a lot of [UNK] and Internet\nallowed and gave new features to the world of programing and Java\ncreated a special package simplified the internet.",
+    "1.3": "③ POP deals more about procedures (methods or code) and\nthey are there major emphasis, on the other hand OOP uses\nthe concept of classes to combine and focus on both data\n(which is not much focused on on POP) and methods (codes)\nand uses the concept of classes and objects.",
+    "1.4": "④ Compiler and implementation tools",
+    "1.5": "⑤ Inheritance means to use create a class from initial\nclass. The new class can content the methods and attributes\nof the first class (created from) but polymorphism that inst\nis taking instruction and features of a class and use it in general and can be",
+    "1.6": "⑥ Encapsulation is to combine together data and codes (methods)\nand secure them from outside (interfaces) classes.",
+    "1.7": "⑦ runtime compile-time class abstraction, function abstraction\nunusual unusual",
+    "1.8": "⑧ @ Instructions excuted normally @ Excutian stopped due to an event\n@ Could be dead or unavailable",
+    "1.9": "⑨ System. In\nSystem. out\nSystem. err",
+    "1.10": "⑩ API Java swing was built on the top of JDBC\nto connect and interact bet to data base.",
+    "2.1": "(1) True",
+    "2.2": "(2) True",
+    "2.3": "(3) True",
+    "2.4": "(4) False. It is achieved by method overriding.",
+    "2.5": "(5) False. It couldn't have a non-abstracted method inside it.",
+    "2.6": "(6) True",
+    "2.7": "(7) False There are more than one driver True",
+    "3.1": "(1) limitation",
+    "3.2": "(2) C",
+    "3.3": "(3) data",
+    "3.4": "(4) servlet and Applet",
+    "3.5": "(5) Frame",
+    "3.6": "(6) controller",
+    "3.7": "(7) JBDC",
+    "4.1": "① You will take seat\nStudent's IT # You will take seat\" (4-1):",
+    "4.2": "(2) Calculate votes votes ( ) :"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "① We mean that Java is not restricted to a specific\narchitecture of Computer.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student clearly conveys that Java is not restricted to a specific architecture, which matches the expected concept."
+      },
+      "1.2": {
+        "answer": "② Java has taken a lot of [UNK] and Internet\nallowed and gave new features to the world of programing and Java\ncreated a special package simplified the internet.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Accepted nonblank answer without Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "③ POP deals more about procedures (methods or code) and\nthey are there major emphasis, on the other hand OOP uses\nthe concept of classes to combine and focus on both data\n(which is not much focused on on POP) and methods (codes)\nand uses the concept of classes and objects.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identifies that POP focuses on procedures/methods/code and that OOP uses the concept of classes and objects to combine data and methods, aligning with the grading policy."
+      },
+      "1.4": {
+        "answer": "④ Compiler and implementation tools",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "No required JRE component mentioned"
+      },
+      "1.5": {
+        "answer": "⑤ Inheritance means to use create a class from initial\nclass. The new class can content the methods and attributes\nof the first class (created from) but polymorphism that inst\nis taking instruction and features of a class and use it in general and can be",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "Student's explanation for inheritance is correct, mentioning creating a class from an initial one and inheriting methods/attributes. However, the explanation for polymorphism is unclear and incomplete, not conveying the correct concept."
+      },
+      "1.6": {
+        "answer": "⑥ Encapsulation is to combine together data and codes (methods)\nand secure them from outside (interfaces) classes.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly states that encapsulation is to 'combine together data and codes (methods)', which is equivalent to 'binding/bundling code and data together' as per the rubric."
+      },
+      "1.7": {
+        "answer": "⑦ runtime compile-time class abstraction, function abstraction\nunusual unusual",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student mentioned 'class abstraction' which is an attempt at 'abstract class', but 'function abstraction' does not correspond to 'interfaces'. The grading policy requires mentioning both abstract classes and interfaces for full marks."
+      },
+      "1.8": {
+        "answer": "⑧ @ Instructions excuted normally @ Excutian stopped due to an event\n@ Could be dead or unavailable",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided three distinct and correct reasons for thread termination: normal execution (completed task), an event (unusual event/exception), and being dead/unavailable."
+      },
+      "1.9": {
+        "answer": "⑨ System. In\nSystem. out\nSystem. err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "All three default streams (System.in, System.out, System.err) were correctly identified, including System.In which was clearly intended as System.in."
+      },
+      "1.10": {
+        "answer": "⑩ API Java swing was built on the top of JDBC\nto connect and interact bet to data base.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student stated JDBC, which is incorrect. The correct answer is AWT/Abstract Window Toolkit."
+      },
+      "2.1": {
+        "answer": "(1) True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the answer as True."
+      },
+      "2.2": {
+        "answer": "(2) True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True', but the correct answer is 'False'."
+      },
+      "2.3": {
+        "answer": "(3) True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.4": {
+        "answer": "(4) False. It is achieved by method overriding.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'False'."
+      },
+      "2.5": {
+        "answer": "(5) False. It couldn't have a non-abstracted method inside it.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose False, but the expected answer is True. According to the grading policy, score is 3 only if True is chosen, otherwise 0."
+      },
+      "2.6": {
+        "answer": "(6) True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.7": {
+        "answer": "(7) False There are more than one driver True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student explicitly chose 'False', which matches the expected answer for full credit according to the teacher's grading policy."
+      },
+      "3.1": {
+        "answer": "(1) limitation",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "(2) C",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'C' as an example of a POP language."
+      },
+      "3.3": {
+        "answer": "(3) data",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'data' exactly matches the expected answer."
+      },
+      "3.4": {
+        "answer": "(4) servlet and Applet",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'Applet' as part of their answer, which directly matches the expected concept according to the rubric."
+      },
+      "3.5": {
+        "answer": "(5) Frame",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "(6) controller",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'controller' as the missing part of the Model-View-Controller architecture."
+      },
+      "3.7": {
+        "answer": "(7) JBDC",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student's answer 'JBDC' is a clear misspelling of 'JDBC', but the intended meaning is perfectly recoverable as per grading principles for minor spelling mistakes."
+      },
+      "4.1": {
+        "answer": "① You will take seat\nStudent's IT # You will take seat\" (4-1):",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "(2) Calculate votes votes ( ) :",
+        "score": 11.0,
+        "max_score": 14.0,
+        "reason": "Only one of calculateVotes or totalVotes is present"
+      }
+    },
+    "totals": {
+      "q1": 20.0,
+      "q2": 15.0,
+      "q3": 21.0,
+      "q4": 25.0,
+      "overall": 81.0
+    }
+  }
+}

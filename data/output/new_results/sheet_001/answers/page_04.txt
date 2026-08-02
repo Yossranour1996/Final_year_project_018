@@ -1,0 +1,14 @@
+1.6 - Mechanism to bind Code and data
+it's manipulate together and keep -them safe
+from interference and misuse.
+outside
+1.7 - @Inter face
+- (B) Abstraction classes
+1.8- @ Finished and achived goal.
+B due to unsul events.
+C dead and no longer avritabe available.
+1.9 @ system.in
+B system. out
+© system err
+1.10 Java swing was built over AWI
+windows Interface (AWI) Aplication

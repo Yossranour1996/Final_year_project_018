@@ -1,0 +1,42 @@
+[
+  {
+    "page": "page_01.png",
+    "text": "EMPTY"
+  },
+  {
+    "page": "page_02.png",
+    "text": ""
+  },
+  {
+    "page": "page_03.png",
+    "text": "(1) It's mean Java is not restricted to\na specific systems architecture.\n(2) by [UNK] platforms independene [UNK] to distribution\nprogram interpreted. (Java allow that) (applet)\n(3) While POP has procedures (code) that operate\nin data to achivec the program good.\nbut OOP uses a classes and Objgads that encapsulate\nboth code and data.\nPOP                         OOP\ncode                        code\ndata                        data\n(4) JRE (Java RinnFhe Engie)\nComponents =\n- JVM\n- byte code"
+  },
+  {
+    "page": "page_04.png",
+    "text": "(5) In heritance: is existing\non one, and uses (methods and properties of that Class)\nPolymorphism features that allowed in one interface\nand used of a general.\n(Polymorphism is interface but in heritance is [UNK] a new class)\n(6) encapsulation:\nis a mechanism to brid data and Code is\ntogether in manipulations to be both safe for outside\nand misuse.\n(7) two ways to achieve abstractions\n(1) abstrac classes\n(2) interface\n(8) terminated due to three reasons:\n(1) finished It's a task harmally\n(2) terminated due to unusual events\n(3) dead and no longer avarible\n(9) three default strems in Java:\n(1) System.in\n(2) System.out\n(3) System.err\n(10) Wendows & interface."
+  },
+  {
+    "page": "page_05.png",
+    "text": "2.1 -> true\n2.2 -> False -> It is possible for an interface to inherit another interface's properties.\n2.3 -> true\n2.4 -> False\nRuntime polymorphism could be achieved by method Overriding.\n2.5 -> true\n2.6 -> true False\nJava threads are heverweight threads\n2.7 -> true"
+  },
+  {
+    "page": "page_06.png",
+    "text": "P3 :\n3.1 (OOP)\n3.2 : C programming language\n3.3 : data\n3.4 : aplet\n3.5 : Container\n4.6 : [UNK] Controller\n3.7 : (JDBC) Java Data Bases Connectly"
+  },
+  {
+    "page": "page_07.png",
+    "text": "Q4:\n4.1\nCode: seats [i] + \",You will take seat \" + (4-i)\nSeats [i] + [UNK] take seat [UNK]\n4.2:\nCode: X = new calculate Votes (total Votes);\ncalculate Votes (760) ;"
+  },
+  {
+    "page": "page_08.png",
+    "text": ""
+  },
+  {
+    "page": "page_09.png",
+    "text": ""
+  },
+  {
+    "page": "page_10.png",
+    "text": ""
+  }
+]

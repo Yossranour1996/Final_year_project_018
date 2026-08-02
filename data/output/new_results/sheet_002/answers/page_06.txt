@@ -1,0 +1,5 @@
+4.1
+Code = (Students EIJ + " you will take seat" + ( [UNK] ))
+4.2
+Code =
+CalculateVotes (total votes);

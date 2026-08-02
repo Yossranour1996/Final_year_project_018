@@ -1,0 +1,15 @@
+(1) It's mean Java is not restricted to
+a specific systems architecture.
+(2) by [UNK] platforms independene [UNK] to distribution
+program interpreted. (Java allow that) (applet)
+(3) While POP has procedures (code) that operate
+in data to achivec the program good.
+but OOP uses a classes and Objgads that encapsulate
+both code and data.
+POP                         OOP
+code                        code
+data                        data
+(4) JRE (Java RinnFhe Engie)
+Components =
+- JVM
+- byte code
