@@ -1,0 +1,191 @@
+MANUAL LABELING FILE
+================================================================================
+
+Instructions:
+1) Put each answer between its opening and closing markers.
+2) Format must be exactly like: with number between quotes and then closed with number between quotes and slach
+3) Leave the block empty if there is no answer.
+4) Do NOT change the question keys.
+5) After editing this file, save it, then return to the terminal and press Enter.
+
+RAW OCR REFERENCE
+================================================================================
+===== RAW OCR FROM page_04.txt =====
+"4.1" 4). 1)
+Student [i] t", You
+Student [i] t", you will take seat" + [UNK] length
+(student.length)
+Student [i] t", you will take seat" + i [UNK] the output String.
+- You will take seat is the output String.
+- i (Student.length), because the Counting
+Started from i=0. "4.1/"
+
+"4.2" 4.2)
+private S&r
+Agree. Calculate Votes (total Votes)
+Calculate Votes (total Votes)
+no. Of Votes = total Votes.
+We have to define the function
+firstly. "4.2/"
+
+
+===== RAW OCR FROM page_05.txt =====
+"3.1" 3.1) Adapt to change in environments
+and uses. 3.1) Internet. "3.1/"
+
+"3.2" 3.2) C programming language. "3.2/"
+
+"3.3" 3.3) Data. "3.3/"
+
+"3.4" 3.4) Applet. Servlet. "3.4/"
+
+"3.5" 3.5) Containers. "3.5/"
+
+"3.6" 3.6) Controller. "3.6/"
+
+"3.7" 3.7) JDBC. "3.7/"
+
+"3.1" 3.1) Adapt to change in environments and
+uses. "3.1/"
+
+
+===== RAW OCR FROM page_06.txt =====
+"2.1" 2.1) True. "2.1/"
+
+"2.2" 2.2) False
+" It's not possible for an interface
+to implement another interface properties. "2.2/"
+
+"2.3" 2.3) True. "2.3/"
+
+"2.4" 2.4) False
+" Could be achieved by
+method overridden. "2.4/"
+
+"2.5" 2.5) True "2.5/"
+
+"2.6" 2.6) True "2.6/"
+
+"2.7" 2.7) False
+" The is Drive manager and
+Drivers." "2.7/"
+
+
+===== RAW OCR FROM page_07.txt =====
+"1.9" 1.9) - System.in
+- System.err
+- System.Out "1.9/"
+
+"1.10" 1.10) Java AWT. "1.10/"
+
+
+===== RAW OCR FROM page_08.txt =====
+"1.1" 1.1) It doesn't depend on a specific
+machine or operating system architectura. "1.1/"
+
+"1.2" 1.2) There was a need for more effecient
+programming language to handle more "1.2/"
+
+"1.3" 1.3) P.O.P uses procedure applied on
+data to achieve some goal.
+O.O.P uses Classes and Objects
+and binding data and codes. "1.3/"
+
+"1.4" 1.4) Java Virtual machine and many
+other running tools. "1.4/"
+
+"1.5" 1.5) -Inheritance is to Create a new class
+from excisted one.
+- polymorphism is an object that can
+take many forms. "1.5/"
+
+"1.6" 1.6) The mechanism that binds data
+and codes. "1.6/"
+
+"1.7" 1.7) Abstract class and Interface. "1.7/"
+
+"1.8" 1.8) 1) It reaches it's terminal.
+2) unusual events.
+3) Dead and no longer available. "1.8/"
+
+
+EDITABLE LABEL BLOCKS
+================================================================================
+
+"1.1" 
+"1.1/"
+
+"1.2" 
+"1.2/"
+
+"1.3" 
+"1.3/"
+
+"1.4" 
+"1.4/"
+
+"1.5" 
+"1.5/"
+
+"1.6" 
+"1.6/"
+
+"1.7" 
+"1.7/"
+
+"1.8" 
+"1.8/"
+
+"1.9" 
+"1.9/"
+
+"1.10" 
+"1.10/"
+
+"2.1" 
+"2.1/"
+
+"2.2" 
+"2.2/"
+
+"2.3" 
+"2.3/"
+
+"2.4" 
+"2.4/"
+
+"2.5" 
+"2.5/"
+
+"2.6" 
+"2.6/"
+
+"2.7" 
+"2.7/"
+
+"3.1" 
+"3.1/"
+
+"3.2" 
+"3.2/"
+
+"3.3" 
+"3.3/"
+
+"3.4" 
+"3.4/"
+
+"3.5" 
+"3.5/"
+
+"3.6" 
+"3.6/"
+
+"3.7" 
+"3.7/"
+
+"4.1" 
+"4.1/"
+
+"4.2" 
+"4.2/"

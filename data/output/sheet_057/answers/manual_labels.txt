@@ -1,0 +1,195 @@
+MANUAL LABELING FILE
+================================================================================
+
+Instructions:
+1) Put each answer between its opening and closing markers.
+2) Format must be exactly like: with number between quotes and then closed with number between quotes and slach
+3) Leave the block empty if there is no answer.
+4) Do NOT change the question keys.
+5) After editing this file, save it, then return to the terminal and press Enter.
+
+RAW OCR REFERENCE
+================================================================================
+===== RAW OCR FROM page_02.txt =====
+[UNK] the [UNK]
+[UNK] the [UNK]
+[UNK] the [UNK]
+[UNK] the [UNK]
+[UNK] the [UNK]
+[UNK] the [UNK]
+[UNK] the [UNK]
+1. [UNK] the [UNK] the [UNK]
+2. [UNK] the [UNK] the [UNK]
+3. [UNK] the [UNK] the [UNK]
+4. [UNK] the [UNK]
+5. [UNK] the [UNK] the [UNK]
+6. [UNK] and [UNK] the [UNK]
+7. [UNK] the [UNK]
+8. [UNK] the [UNK]
+
+
+===== RAW OCR FROM page_03.txt =====
+"1.3" 1-3 OOP is encapsulate code and data togther
+pop is procedure the code over data "1.3/"
+
+"1.5" 1-5 Inheritance is the feature that allows a class
+to take any other class field attributes objects
+polymorphism is the feature that allows to reuse
+the particular code in different data type.
+without any modifing. "1.5/"
+
+"1.6" 1-6 Encapsulation is to compain data and code
+togthe to keep them away from interterence and
+misuses. "1.6/"
+
+"1.8" 1-8 ① done its work
+② Unsual event
+③ dead or not found "1.8/"
+
+"1.9" 1-9 ① System.in
+② System.out
+③ System.err "1.9/"
+
+"1.1" 1-1 It doesn't need any external archdeeture
+System. "1.1/"
+
+"1.2" 1-2 It needs to be used in differnt devices with
+different characteristics, so there was a deep
+need to find a language that is secure and
+could be use in web in differnt devices. "1.2/"
+
+"1.7" 1-7 ① Class Abstraction classes
+② Abstraction interfaces "1.7/"
+
+
+===== RAW OCR FROM page_04.txt =====
+"2.1" 2.1 true "2.1/"
+
+"2.2" 2.2 true "2.2/"
+
+"2.3" 2-3 true "2.3/"
+
+"2.4" 2-4 false / could be achieved by method overriding "2.4/"
+
+"2.5" 2.5 false / should have abstract methods within the "2.5/"
+
+"2.6" 2-6 true "2.6/"
+
+"2.7" 2-7 true "2.7/"
+
+
+===== RAW OCR FROM page_05.txt =====
+"3.1" 3.1 Adapting to changing [UNK] and uses. "3.1/"
+
+"3.2" 3.2 C "3.2/"
+
+"3.3" 3.3 Compiler "3.3/"
+
+"3.4" 3.4 Servlet "3.4/"
+
+"3.5" 3.5 Java Api "3.5/"
+
+"3.6" 3.6 Read "3.6/"
+
+"3.7" 3.7 Servlet "3.7/"
+
+
+===== RAW OCR FROM page_06.txt =====
+"4.1" 4.1
+System.out.println(Seats[i] + ", You will take Seat" + i);
+The code will print each element in the Seats
+array one by one, starting from 0 to seats.length-1 "4.1/"
+
+"4.2" 4.2
+CalculateVotes (totalVotes)
+CalculateVotes ((double) totalVotes);
+The execute ( CalculateVotes (1)) Eatss class
+we must call it in the main section and
+passing the value of (num of votes) between its
+parenthis. "4.2/"
+
+
+===== RAW OCR FROM page_10.txt =====
+EMPTY
+
+
+EDITABLE LABEL BLOCKS
+================================================================================
+
+"1.1" 
+"1.1/"
+
+"1.2" 
+"1.2/"
+
+"1.3" 
+"1.3/"
+
+"1.4" 
+"1.4/"
+
+"1.5" 
+"1.5/"
+
+"1.6" 
+"1.6/"
+
+"1.7" 
+"1.7/"
+
+"1.8" 
+"1.8/"
+
+"1.9" 
+"1.9/"
+
+"1.10" 
+"1.10/"
+
+"2.1" 
+"2.1/"
+
+"2.2" 
+"2.2/"
+
+"2.3" 
+"2.3/"
+
+"2.4" 
+"2.4/"
+
+"2.5" 
+"2.5/"
+
+"2.6" 
+"2.6/"
+
+"2.7" 
+"2.7/"
+
+"3.1" 
+"3.1/"
+
+"3.2" 
+"3.2/"
+
+"3.3" 
+"3.3/"
+
+"3.4" 
+"3.4/"
+
+"3.5" 
+"3.5/"
+
+"3.6" 
+"3.6/"
+
+"3.7" 
+"3.7/"
+
+"4.1" 
+"4.1/"
+
+"4.2" 
+"4.2/"

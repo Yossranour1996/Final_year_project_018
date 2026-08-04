@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1. Java has no restriction on the destined\nSystem architecture so it can work on different\nOperating System and platforms .",
+    "1.2": "2. World wide web + Internet at that time with\nweb 1 technology and the creation of web\napplications -> contribute to the appearness\nof \"Applet\" -> which is a special Java program\ndesigned to be transmitted over the Internet and\nautomatically being executed by Java compatible\nweb browsers .",
+    "1.3": "3. \"OOP\" -> Object oriented Programming is\nworking with (Data having access over code) principle.\nBeside (code + data + attributes + methods) are all\nencapsulated together into the same package .\n\n\n===== RAW OCR FROM page_04.txt =====\n\"Pop\" -> Procedure Oriented Programming is working\nwith \"Code\" acts on Data principle \"\n\"operate\"",
+    "1.4": "4. JRE -> Java Run-Time Environment Ps\nincluding \"JVM\" Java Virtual Machine.\nbeside other packages and libraries.",
+    "1.5": "(A) Inheritance -> is when a new class inherit new\nfeatures \"attributes + methods\" from an existing class,\nor it's when an object acquires new features from\na new existing object.\n(B) Polymorphism -> Comes from the Greek words\n\"Poly\" -> many + \"morph\" -> form = many forms\nIt's when a message could be delivered in more than\none forms.\nPS: Both of them are from \"OOP\" main features.",
+    "1.6": "6. Encapsulation -> it's a Java mechanism binds\nboth code and the data it manipulates into the\nSame Package \"hidden data\".",
+    "1.7": "7. (A) Abstraction classes (B) Interface",
+    "1.8": "8. (A) When it finishs it's normal task Procedure.\n(B) Terminated due to unusual events.\n(C) When it becomes dead or unavailable.",
+    "1.9": "9. (A) System.in -> (Input)\n(B) System.out -> (Output)\n(C) System.err -> (Error)",
+    "1.10": "10. AWT\nAbstraction Window Toolkit.",
+    "2.1": "1. True => it was renamed at \"1985\".",
+    "2.2": "2. False => Interface ✔️ Class ❌",
+    "2.3": "3. True => Specificly => Java Virtual Machine\n\"JVM\"",
+    "2.4": "4. False => Overridding",
+    "2.5": "5. False => Must be defined.",
+    "2.6": "6. True",
+    "2.7": "7. False => There is another Driver Manager\nTrue =>\nJava Application\nJDBC\nthus, it's just one => JDBC Drive\nDriver Manager\nOracle MySQL MS Access",
+    "3.1": "1.- Adapt to changes.\n- Implement improvements on the art of programming.",
+    "3.2": "2. C Language \"1970\"",
+    "3.3": "3. Data Information.",
+    "3.4": "4. Applet",
+    "3.5": "5. Frame",
+    "3.6": "6. Model view controlled \"MVC\"",
+    "3.7": "7. Java Data Base connectivity \"JDBC\"",
+    "4.1": "1- \" seat [i], \" you will take seat\" + (i)\nSystem.out.println( // this line will take seat index\nfrom the seat list and substitute its value\non the pointer place, repeat this until it reaches\nseat[i] + \" , you will take seat\" + (i) i=5 then it will\n// space stop\n// space",
+    "4.2": "2. num Of Votes = total Votes\n// we will notice 740 * 0.15 = 114 #"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1. Java has no restriction on the destined\nSystem architecture so it can work on different\nOperating System and platforms .",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student clearly conveys that Java is not restricted to a specific system architecture and can work on different operating systems and platforms, which directly matches the expected concept for 'architecture-neutral'."
+      },
+      "1.2": {
+        "answer": "2. World wide web + Internet at that time with\nweb 1 technology and the creation of web\napplications -> contribute to the appearness\nof \"Applet\" -> which is a special Java program\ndesigned to be transmitted over the Internet and\nautomatically being executed by Java compatible\nweb browsers .",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Mentions Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "3. \"OOP\" -> Object oriented Programming is\nworking with (Data having access over code) principle.\nBeside (code + data + attributes + methods) are all\nencapsulated together into the same package .\n\n\n===== RAW OCR FROM page_04.txt =====\n\"Pop\" -> Procedure Oriented Programming is working\nwith \"Code\" acts on Data principle \"\n\"operate\"",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identifies POP as procedure-oriented with 'code acts on data' and OOP as object-oriented with 'code + data + attributes + methods encapsulated'."
+      },
+      "1.4": {
+        "answer": "4. JRE -> Java Run-Time Environment Ps\nincluding \"JVM\" Java Virtual Machine.\nbeside other packages and libraries.",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "Awarded 2/3 for: JVM, libraries"
+      },
+      "1.5": {
+        "answer": "(A) Inheritance -> is when a new class inherit new\nfeatures \"attributes + methods\" from an existing class,\nor it's when an object acquires new features from\na new existing object.\n(B) Polymorphism -> Comes from the Greek words\n\"Poly\" -> many + \"morph\" -> form = many forms\nIt's when a message could be delivered in more than\none forms.\nPS: Both of them are from \"OOP\" main features.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance and polymorphism meanings are correctly defined by the student."
+      },
+      "1.6": {
+        "answer": "6. Encapsulation -> it's a Java mechanism binds\nboth code and the data it manipulates into the\nSame Package \"hidden data\".",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student expresses the core concept of binding code and data together, which aligns with the expected answer. While they mention 'Same Package' which is not entirely accurate for the definition of encapsulation itself, the primary concept of binding code and data is clearly stated."
+      },
+      "1.7": {
+        "answer": "7. (A) Abstraction classes (B) Interface",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Abstraction classes' (understood as Abstract classes) and 'Interface' (understood as Interfaces), fulfilling both requirements for full credit despite minor grammatical differences."
+      },
+      "1.8": {
+        "answer": "8. (A) When it finishs it's normal task Procedure.\n(B) Terminated due to unusual events.\n(C) When it becomes dead or unavailable.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student provided three distinct and correct reasons for thread termination: completion of its normal task, termination due to unusual events, and becoming dead or unavailable. Each point aligns with the teacher's grading policy, and minor grammatical errors did not hinder clarity."
+      },
+      "1.9": {
+        "answer": "9. (A) System.in -> (Input)\n(B) System.out -> (Output)\n(C) System.err -> (Error)",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified all three default streams: System.in, System.out, and System.err. Each correct stream earns 1 mark, for a total of 3 marks."
+      },
+      "1.10": {
+        "answer": "10. AWT\nAbstraction Window Toolkit.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'AWT' which is a direct match, and 'Abstraction Window Toolkit' which is a clearly recoverable spelling of 'Abstract Window Toolkit'."
+      },
+      "2.1": {
+        "answer": "1. True => it was renamed at \"1985\".",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True', which matches the expected answer and the grading policy."
+      },
+      "2.2": {
+        "answer": "2. False => Interface ✔️ Class ❌",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'False'."
+      },
+      "2.3": {
+        "answer": "3. True => Specificly => Java Virtual Machine\n\"JVM\"",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the answer as True."
+      },
+      "2.4": {
+        "answer": "4. False => Overridding",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'False' as required by the grading policy."
+      },
+      "2.5": {
+        "answer": "5. False => Must be defined.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student answered 'False', but the expected answer is 'True'. According to the policy, 3 marks are awarded only if 'True' is chosen, otherwise 0."
+      },
+      "2.6": {
+        "answer": "6. True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.7": {
+        "answer": "7. False => There is another Driver Manager\nTrue =>\nJava Application\nJDBC\nthus, it's just one => JDBC Drive\nDriver Manager\nOracle MySQL MS Access",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'False' as required by the teacher's grading policy for full marks."
+      },
+      "3.1": {
+        "answer": "1.- Adapt to changes.\n- Implement improvements on the art of programming.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "2. C Language \"1970\"",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly mentioned 'C Language', which is an accepted example of a POP language according to the rubric."
+      },
+      "3.3": {
+        "answer": "3. Data Information.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'Data Information' clearly includes 'Data', which is the expected concept according to the rubric. The policy allows for additional words as long as 'data' is present and intended."
+      },
+      "3.4": {
+        "answer": "4. Applet",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'Applet', which matches the expected answer and the teacher's grading policy."
+      },
+      "3.5": {
+        "answer": "5. Frame",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "6. Model view controlled \"MVC\"",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'controlled' and 'MVC', which clearly indicates an understanding of 'Controller' in the Model-View-Controller architecture. The intended meaning is recoverable despite the slight wording difference."
+      },
+      "3.7": {
+        "answer": "7. Java Data Base connectivity \"JDBC\"",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided both 'Java Data Base connectivity' (which is sufficiently close to 'Java Database Connectivity' given the grading principles) and 'JDBC', matching the expected answer."
+      },
+      "4.1": {
+        "answer": "1- \" seat [i], \" you will take seat\" + (i)\nSystem.out.println( // this line will take seat index\nfrom the seat list and substitute its value\non the pointer place, repeat this until it reaches\nseat[i] + \" , you will take seat\" + (i) i=5 then it will\n// space stop\n// space",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "2. num Of Votes = total Votes\n// we will notice 740 * 0.15 = 114 #",
+        "score": 11.0,
+        "max_score": 14.0,
+        "reason": "Only one of calculateVotes or totalVotes is present"
+      }
+    },
+    "totals": {
+      "q1": 26.0,
+      "q2": 18.0,
+      "q3": 21.0,
+      "q4": 25.0,
+      "overall": 90.0
+    }
+  }
+}

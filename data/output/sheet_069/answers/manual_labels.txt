@@ -1,0 +1,240 @@
+MANUAL LABELING FILE
+================================================================================
+
+Instructions:
+1) Put each answer between its opening and closing markers.
+2) Format must be exactly like: with number between quotes and then closed with number between quotes and slach
+3) Leave the block empty if there is no answer.
+4) Do NOT change the question keys.
+5) After editing this file, save it, then return to the terminal and press Enter.
+
+RAW OCR REFERENCE
+================================================================================
+===== RAW OCR FROM page_01.txt =====
+EMPTY
+
+
+===== RAW OCR FROM page_03.txt =====
+It mean that
+Question 1.
+"1.1" 1.1. It means the execution of java program does
+nor depend on the Environment it runs on it [The
+architecture of the Hardware and Operating system
+of this environment J. "1.1/"
+
+"1.2" 1.2 WWW and internet necessitated Cross-Platform
+Programs to be distributed over many platform
+Which consisted WWW and internet. This necessity
+derived inventions and development of architecture-
+neutral languages. "1.2/"
+
+"1.3" 1.3
+POP :-
+1- Its code is a sequence of functions acting on data.
+2- The concentration is on functions not data.
+3- In a multifunction program, it defines some data be global
+in order to be used by multiple functions. That makes
+absolute no restrictions on using data which increases
+the possibility of being corrupted by misusing.
+4- When the program becomes much larger it is
+very difficult to determine for data used by
+those functions.
+4- They are described as code acting on data.
+
+
+===== RAW OCR FROM page_04.txt =====
+OOP:-
+1- The code is ex messages between objects
+which hold data and defining functions called
+on that data.
+2- The conception is on data rather than
+functions
+3- The data are grouped into objects which
+define the functions called on this data and make
+restrictions on access and modifying this data.
+4- The code can be described as data controlling
+functions. "1.3/"
+
+"1.4" 1.4 :-
+1- JVM
+2- Built-in packages
+3- programs for compiling, running Java code "1.4/"
+
+"1.5" 1.5 :-
+1- Polymorphism is a design concept or
+design method of making single object acts on many
+forms and inheritance is the actual implementation
+of that Paradigms by making multiple objects
+of a given on different manner inherits a single
+object.
+2- Polymorphism is a design Paradigm, but
+its inheritance is implementation provided by Code.
+3- Inheritance is done used in class definition,
+Polymorphism is used in calling of objects' functions.
+4- Inheritance enables a programmer design a class
+by concentrate on only specific details of the class,
+and Transfer but polymorphism also enables programmer
+in calling methods to concentrate on the function of
+
+
+===== RAW OCR FROM page_05.txt =====
+action of the method regardless of the specific object
+object calls it. "1.5/"
+
+"1.6" 1.6 :-
+Wrapping up code and data into a single
+entity. "1.6/"
+
+"1.7" 1.7
+1- Abstract classes 2- Interfaces. "1.7/"
+
+"1.8" 1.8.
+1- finishes their task normally and terminate
+2- It is clean and becomes not available.
+3- It terminates before finishing task due to
+unusual events. "1.8/"
+
+"1.9" 1.9 :-
+1- Standard Input Stream [System.in]
+2- Standard Output Stream [System.out]
+3- Standard Error Stream [System.err] "1.9/"
+
+"1.10" 1.10 :-
+JFC API "1.10/"
+
+
+===== RAW OCR FROM page_06.txt =====
+Question TWO :-
+"2.1" 2.1 True "2.1/"
+
+"2.2" 2.2 : Flase ; It is possible for an interface to inherits
+from multiple other interfaces. Properties, "2.2/"
+
+"2.3" 2.3 : True "2.3/"
+
+"2.4" 2.4 : Flase ; Runtime polymorphism could
+beachieved by method overwidding "2.4/"
+
+"2.5" 2.5 : flase ; abstract classes could Have
+abstract methods within them "2.5/"
+
+"2.6" 2.6 : True "2.6/"
+
+"2.7" 2.7 : True "2.7/"
+
+Question 3 :-
+"3.1" 3.1- Implementing new innovations and features
+in the art of programming. "3.1/"
+
+"3.2" 3.2 : C language "3.2/"
+
+"3.3" 3.3 : The execution order of functions' definition "3.3/"
+
+"3.4" 3.4: applets "3.4/"
+
+"3.5" 3.5: a container "3.5/"
+
+"3.6" 3.6: The model-view-controller "3.6/"
+
+"3.7" 3.7) DBC "3.7/"
+
+Question 4 :-
+"4.1" 4.1 :-
+System.out.println (seats[i] + ", you will take
+seat " + number i + " );
+// Because this code will print the name of the seat
+and its index in the list [seats] Which is equal
+to the seat seat's number. So the code will print
+the desired output "4.1/"
+
+
+===== RAW OCR FROM page_07.txt =====
+"4.2" L.2 :-
+Calculate Votes (760,0);
+CalculateVotes(totalVotes);
+Because when calling calculateVotes method
+with argument (760). The value of portion becomes
+760 x 0.15 = 114. Then, the method will print
+the desired output according to these circumstances. "4.2/"
+
+
+EDITABLE LABEL BLOCKS
+================================================================================
+
+"1.1" 
+"1.1/"
+
+"1.2" 
+"1.2/"
+
+"1.3" 
+"1.3/"
+
+"1.4" 
+"1.4/"
+
+"1.5" 
+"1.5/"
+
+"1.6" 
+"1.6/"
+
+"1.7" 
+"1.7/"
+
+"1.8" 
+"1.8/"
+
+"1.9" 
+"1.9/"
+
+"1.10" 
+"1.10/"
+
+"2.1" 
+"2.1/"
+
+"2.2" 
+"2.2/"
+
+"2.3" 
+"2.3/"
+
+"2.4" 
+"2.4/"
+
+"2.5" 
+"2.5/"
+
+"2.6" 
+"2.6/"
+
+"2.7" 
+"2.7/"
+
+"3.1" 
+"3.1/"
+
+"3.2" 
+"3.2/"
+
+"3.3" 
+"3.3/"
+
+"3.4" 
+"3.4/"
+
+"3.5" 
+"3.5/"
+
+"3.6" 
+"3.6/"
+
+"3.7" 
+"3.7/"
+
+"4.1" 
+"4.1/"
+
+"4.2" 
+"4.2/"

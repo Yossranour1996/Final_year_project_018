@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1.1. It means the execution of java program does\nnor depend on the Environment it runs on it [The\narchitecture of the Hardware and Operating system\nof this environment J.",
+    "1.2": "1.2 WWW and internet necessitated Cross-Platform\nPrograms to be distributed over many platform\nWhich consisted WWW and internet. This necessity\nderived inventions and development of architecture-\nneutral languages.",
+    "1.3": "1.3\nPOP :-\n1- Its code is a sequence of functions acting on data.\n2- The concentration is on functions not data.\n3- In a multifunction program, it defines some data be global\nin order to be used by multiple functions. That makes\nabsolute no restrictions on using data which increases\nthe possibility of being corrupted by misusing.\n4- When the program becomes much larger it is\nvery difficult to determine for data used by\nthose functions.\n4- They are described as code acting on data.\n\n\n===== RAW OCR FROM page_04.txt =====\nOOP:-\n1- The code is ex messages between objects\nwhich hold data and defining functions called\non that data.\n2- The conception is on data rather than\nfunctions\n3- The data are grouped into objects which\ndefine the functions called on this data and make\nrestrictions on access and modifying this data.\n4- The code can be described as data controlling\nfunctions.",
+    "1.4": "1.4 :-\n1- JVM\n2- Built-in packages\n3- programs for compiling, running Java code",
+    "1.5": "1.5 :-\n1- Polymorphism is a design concept or\ndesign method of making single object acts on many\nforms and inheritance is the actual implementation\nof that Paradigms by making multiple objects\nof a given on different manner inherits a single\nobject.\n2- Polymorphism is a design Paradigm, but\nits inheritance is implementation provided by Code.\n3- Inheritance is done used in class definition,\nPolymorphism is used in calling of objects' functions.\n4- Inheritance enables a programmer design a class\nby concentrate on only specific details of the class,\nand Transfer but polymorphism also enables programmer\nin calling methods to concentrate on the function of\n\n\n===== RAW OCR FROM page_05.txt =====\naction of the method regardless of the specific object\nobject calls it.",
+    "1.6": "1.6 :-\nWrapping up code and data into a single\nentity.",
+    "1.7": "1.7\n1- Abstract classes 2- Interfaces.",
+    "1.8": "1.8.\n1- finishes their task normally and terminate\n2- It is clean and becomes not available.\n3- It terminates before finishing task due to\nunusual events.",
+    "1.9": "1.9 :-\n1- Standard Input Stream [System.in]\n2- Standard Output Stream [System.out]\n3- Standard Error Stream [System.err]",
+    "1.10": "1.10 :-\nJFC API",
+    "2.1": "2.1 True",
+    "2.2": "2.2 : Flase ; It is possible for an interface to inherits\nfrom multiple other interfaces. Properties,",
+    "2.3": "2.3 : True",
+    "2.4": "2.4 : Flase ; Runtime polymorphism could\nbeachieved by method overwidding",
+    "2.5": "2.5 : flase ; abstract classes could Have\nabstract methods within them",
+    "2.6": "2.6 : True",
+    "2.7": "2.7 : True",
+    "3.1": "3.1- Implementing new innovations and features\nin the art of programming.",
+    "3.2": "3.2 : C language",
+    "3.3": "3.3 : The execution order of functions' definition",
+    "3.4": "3.4: applets",
+    "3.5": "3.5: a container",
+    "3.6": "3.6: The model-view-controller",
+    "3.7": "3.7) DBC",
+    "4.1": "4.1 :-\nSystem.out.println (seats[i] + \", you will take\nseat \" + number i + \" );\n// Because this code will print the name of the seat\nand its index in the list [seats] Which is equal\nto the seat seat's number. So the code will print\nthe desired output",
+    "4.2": "L.2 :-\nCalculate Votes (760,0);\nCalculateVotes(totalVotes);\nBecause when calling calculateVotes method\nwith argument (760). The value of portion becomes\n760 x 0.15 = 114. Then, the method will print\nthe desired output according to these circumstances."
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1.1. It means the execution of java program does\nnor depend on the Environment it runs on it [The\narchitecture of the Hardware and Operating system\nof this environment J.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly conveys that Java program execution does not depend on the specific hardware and operating system architecture, which aligns with the concept of architecture-neutrality."
+      },
+      "1.2": {
+        "answer": "1.2 WWW and internet necessitated Cross-Platform\nPrograms to be distributed over many platform\nWhich consisted WWW and internet. This necessity\nderived inventions and development of architecture-\nneutral languages.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Accepted nonblank answer without Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "1.3\nPOP :-\n1- Its code is a sequence of functions acting on data.\n2- The concentration is on functions not data.\n3- In a multifunction program, it defines some data be global\nin order to be used by multiple functions. That makes\nabsolute no restrictions on using data which increases\nthe possibility of being corrupted by misusing.\n4- When the program becomes much larger it is\nvery difficult to determine for data used by\nthose functions.\n4- They are described as code acting on data.\n\n\n===== RAW OCR FROM page_04.txt =====\nOOP:-\n1- The code is ex messages between objects\nwhich hold data and defining functions called\non that data.\n2- The conception is on data rather than\nfunctions\n3- The data are grouped into objects which\ndefine the functions called on this data and make\nrestrictions on access and modifying this data.\n4- The code can be described as data controlling\nfunctions.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student conveys that POP focuses on functions acting on data, and OOP focuses on objects which group data and functions. This aligns with the teacher's policy."
+      },
+      "1.4": {
+        "answer": "1.4 :-\n1- JVM\n2- Built-in packages\n3- programs for compiling, running Java code",
+        "score": 1.0,
+        "max_score": 3.0,
+        "reason": "Awarded 1/3 for: JVM"
+      },
+      "1.5": {
+        "answer": "1.5 :-\n1- Polymorphism is a design concept or\ndesign method of making single object acts on many\nforms and inheritance is the actual implementation\nof that Paradigms by making multiple objects\nof a given on different manner inherits a single\nobject.\n2- Polymorphism is a design Paradigm, but\nits inheritance is implementation provided by Code.\n3- Inheritance is done used in class definition,\nPolymorphism is used in calling of objects' functions.\n4- Inheritance enables a programmer design a class\nby concentrate on only specific details of the class,\nand Transfer but polymorphism also enables programmer\nin calling methods to concentrate on the function of\n\n\n===== RAW OCR FROM page_05.txt =====\naction of the method regardless of the specific object\nobject calls it.",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "Polymorphism is correctly defined as a single object acting in many forms, and its role in method calling/abstraction is well-described. However, the definition of inheritance is convoluted and does not clearly state that a class acquires properties or behaviors from another existing class."
+      },
+      "1.6": {
+        "answer": "1.6 :-\nWrapping up code and data into a single\nentity.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'Wrapping up code and data into a single entity' directly conveys the concept of binding/bundling code and data, which is an equivalent meaning to the expected answer."
+      },
+      "1.7": {
+        "answer": "1.7\n1- Abstract classes 2- Interfaces.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified both 'Abstract classes' and 'Interfaces' as ways to achieve abstraction, fulfilling the grading policy for full marks."
+      },
+      "1.8": {
+        "answer": "1.8.\n1- finishes their task normally and terminate\n2- It is clean and becomes not available.\n3- It terminates before finishing task due to\nunusual events.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student provided three distinct and correct reasons for thread termination, each aligning with a point in the grading policy. (1) 'finishes their task normally' matches 'finished/completed task'. (2) 'becomes not available' matches 'dead/stopped/terminated/no longer available'. (3) 'terminates before finishing task due to unusual events' matches 'unusual event/exception/error'."
+      },
+      "1.9": {
+        "answer": "1.9 :-\n1- Standard Input Stream [System.in]\n2- Standard Output Stream [System.out]\n3- Standard Error Stream [System.err]",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Awarded 1 mark for each of the three correctly identified default streams (System.in, System.out, System.err)."
+      },
+      "1.10": {
+        "answer": "1.10 :-\nJFC API",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student answered 'JFC API', which is a broader collection that includes Swing, not what Swing is built on top of. Swing is built on AWT, which is a different part of JFC."
+      },
+      "2.1": {
+        "answer": "2.1 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.2": {
+        "answer": "2.2 : Flase ; It is possible for an interface to inherits\nfrom multiple other interfaces. Properties,",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'False' (misspelled 'Flase'), which is the correct answer according to the rubric."
+      },
+      "2.3": {
+        "answer": "2.3 : True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'True'."
+      },
+      "2.4": {
+        "answer": "2.4 : Flase ; Runtime polymorphism could\nbeachieved by method overwidding",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as False, despite a minor spelling error ('Flase' instead of 'False')."
+      },
+      "2.5": {
+        "answer": "2.5 : flase ; abstract classes could Have\nabstract methods within them",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'flase' (false) while the expected answer was 'True'. According to policy, score 3 only if 'True' is chosen, otherwise 0."
+      },
+      "2.6": {
+        "answer": "2.6 : True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'True', matching the expected answer and rubric."
+      },
+      "2.7": {
+        "answer": "2.7 : True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student answered 'True', but the correct answer is 'False'. According to the policy, full marks (3) are given only if 'False' is chosen."
+      },
+      "3.1": {
+        "answer": "3.1- Implementing new innovations and features\nin the art of programming.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "3.2 : C language",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'C' as an example of a POP language, which aligns with the expected answer."
+      },
+      "3.3": {
+        "answer": "3.3 : The execution order of functions' definition",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student's answer 'execution order of functions' definition' does not match the expected concept 'data'."
+      },
+      "3.4": {
+        "answer": "3.4: applets",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'applets' which matches the expected answer."
+      },
+      "3.5": {
+        "answer": "3.5: a container",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "3.6: The model-view-controller",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Controller' as the missing part of the Model-View-Controller architecture."
+      },
+      "3.7": {
+        "answer": "3.7) DBC",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student answered \"DBC\", which is not \"JDBC\" or \"Java Database Connectivity\" as per the grading policy."
+      },
+      "4.1": {
+        "answer": "4.1 :-\nSystem.out.println (seats[i] + \", you will take\nseat \" + number i + \" );\n// Because this code will print the name of the seat\nand its index in the list [seats] Which is equal\nto the seat seat's number. So the code will print\nthe desired output",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "L.2 :-\nCalculate Votes (760,0);\nCalculateVotes(totalVotes);\nBecause when calling calculateVotes method\nwith argument (760). The value of portion becomes\n760 x 0.15 = 114. Then, the method will print\nthe desired output according to these circumstances.",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Both calculateVotes and totalVotes are present"
+      }
+    },
+    "totals": {
+      "q1": 24.0,
+      "q2": 15.0,
+      "q3": 15.0,
+      "q4": 28.0,
+      "overall": 82.0
+    }
+  }
+}

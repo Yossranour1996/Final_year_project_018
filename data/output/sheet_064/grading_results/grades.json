@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1-1 & it is not tied on specific\nmachine on operating Systems Architect.",
+    "1.2": "1-2 & it came up with Some problems\nin security and pretable, So programing\nlanguage had to adopt the changing in\nthe Environment",
+    "1.3": "1-3 OOP / POP\n-POP: processer-oriented procedures &\nit focuses on generate data on Code.\nSo, in large number of procedure could.\nbe more Complex and too long.\n-OOP: object oriented programing\nforces on the Code and method\ndeveloping rather than data.\n-POP: data process in term of sequence\nbut OOP: grouped code around data,\nSo we have much controlling on data\n-OOP: is flexibility & efficency more than\nPOP.",
+    "1.4": "1.4 = what are component of JBE\n- JBE, Java Runtime environment\nconsist of developement component and\nalse JVM\nJVM\nlaibary somefiles\ncontrolling tools\nJRE\nJDK",
+    "1.5": "1.5 = inheritance is to create new\nclass base on an existing one\npolymorphism poly mean more,\nmorphsm meen formg\ninheritance is a data hiding\n• Implement information and instruction\nby delifing common featers to sub class\npolymorphism if is result of inheritanse\nafter Sub class inherte the member of\nSuper class It can be modified by adding\nanther (attribute, constructor)",
+    "1.6": "1-6 = encapsulation is a maganism to binds data and code, and\nprevent them from outside changing",
+    "1.7": "1-7- 2way to achieve abstracts:\n1- call it in place we difinition\n2- use modifier access modifier",
+    "1.8": "1-8- Thread could be terminated\n3 reason\n1- Some Application doesn't terminated\n2- protect from autsid strong",
+    "1.9": "1-9. 3 defult streams\n1- Input stream System.in\nOutput stream System.Out\nerror stream: System.err",
+    "1.10": "1-10= build in top of interase.",
+    "2.1": "2-1 true",
+    "2.2": "2-2 false, It is possible, but\n2.3 inherit from inherited one",
+    "2.3": "2-3 true",
+    "2.4": "2-4 false, Runtime polymorphism could\nbe achieved by method overriding",
+    "2.5": "2-5 False, Abstract classes\nshould only have abstract method\nwithin them",
+    "2.6": "2-6 true",
+    "2.7": "2-7 true",
+    "3.1": "3.1 To adapt the changing\nof environment and uses.",
+    "3.2": "3.2- C programming language",
+    "3.3": "3.3 instruction",
+    "3.4": "3.4 applet",
+    "3.5": "3.5 [UNK] package",
+    "3.6": "3.6. [UNK] system",
+    "3.7": "3.7 JDBE",
+    "4.1": "& Seats [i] + \"you will take seat\" + i [UNK]",
+    "4.2": "answer (4-2)\ndouble numOFVal[UNK] = int total Volteg\nLx1"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1-1 & it is not tied on specific\nmachine on operating Systems Architect.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student conveys the idea that Java is not restricted to a specific machine or operating system/architecture, which matches the concept of architecture-neutrality, despite weak wording."
+      },
+      "1.2": {
+        "answer": "1-2 & it came up with Some problems\nin security and pretable, So programing\nlanguage had to adopt the changing in\nthe Environment",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Accepted nonblank answer without Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "1-3 OOP / POP\n-POP: processer-oriented procedures &\nit focuses on generate data on Code.\nSo, in large number of procedure could.\nbe more Complex and too long.\n-OOP: object oriented programing\nforces on the Code and method\ndeveloping rather than data.\n-POP: data process in term of sequence\nbut OOP: grouped code around data,\nSo we have much controlling on data\n-OOP: is flexibility & efficency more than\nPOP.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly conveys that POP is related to procedures and data ('processer-oriented procedures', 'generate data on Code', 'data process in term of sequence') and OOP is related to objects and grouping code around data ('object oriented programing', 'grouped code around data'). This aligns with the grading policy."
+      },
+      "1.4": {
+        "answer": "1.4 = what are component of JBE\n- JBE, Java Runtime environment\nconsist of developement component and\nalse JVM\nJVM\nlaibary somefiles\ncontrolling tools\nJRE\nJDK",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "Awarded 2/3 for: JVM, files"
+      },
+      "1.5": {
+        "answer": "1.5 = inheritance is to create new\nclass base on an existing one\npolymorphism poly mean more,\nmorphsm meen formg\ninheritance is a data hiding\n• Implement information and instruction\nby delifing common featers to sub class\npolymorphism if is result of inheritanse\nafter Sub class inherte the member of\nSuper class It can be modified by adding\nanther (attribute, constructor)",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "The student correctly defines inheritance as creating a new class based on an existing one. However, their explanation of polymorphism is incorrect, describing modifications in subclasses rather than the concept of 'many forms' or 'one interface/general class of actions'."
+      },
+      "1.6": {
+        "answer": "1-6 = encapsulation is a maganism to binds data and code, and\nprevent them from outside changing",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identifies encapsulation as binding data and code together, despite a minor spelling error ('maganism' instead of 'mechanism'). This aligns with the core concept required by the rubric."
+      },
+      "1.7": {
+        "answer": "1-7- 2way to achieve abstracts:\n1- call it in place we difinition\n2- use modifier access modifier",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student did not mention 'abstract classes' and 'interfaces', which are the two required concepts for full marks according to the grading policy."
+      },
+      "1.8": {
+        "answer": "1-8- Thread could be terminated\n3 reason\n1- Some Application doesn't terminated\n2- protect from autsid strong",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student provided incorrect reasons for thread termination that do not align with the expected answers."
+      },
+      "1.9": {
+        "answer": "1-9. 3 defult streams\n1- Input stream System.in\nOutput stream System.Out\nerror stream: System.err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified all three default streams: System.in, System.out, and System.err, earning 1 mark for each."
+      },
+      "1.10": {
+        "answer": "1-10= build in top of interase.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student's answer 'interase' (likely 'interface') is not AWT, Abstract Window Toolkit, or a clear equivalent."
+      },
+      "2.1": {
+        "answer": "2-1 true",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the answer as True."
+      },
+      "2.2": {
+        "answer": "2-2 false, It is possible, but\n2.3 inherit from inherited one",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as False."
+      },
+      "2.3": {
+        "answer": "2-3 true",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the answer as True."
+      },
+      "2.4": {
+        "answer": "2-4 false, Runtime polymorphism could\nbe achieved by method overriding",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'False' as required by the policy."
+      },
+      "2.5": {
+        "answer": "2-5 False, Abstract classes\nshould only have abstract method\nwithin them",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student chose 'False', but the correct answer is 'True'."
+      },
+      "2.6": {
+        "answer": "2-6 true",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'true'."
+      },
+      "2.7": {
+        "answer": "2-7 true",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student answered 'true', but the expected answer is 'False'. According to the policy, full marks are only awarded if the student chose 'False'."
+      },
+      "3.1": {
+        "answer": "3.1 To adapt the changing\nof environment and uses.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "3.2- C programming language",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'C programming language' as an example of a POP language, which aligns with the expected answer and teacher's policy."
+      },
+      "3.3": {
+        "answer": "3.3 instruction",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student's answer 'instruction' does not match the expected concept 'data'."
+      },
+      "3.4": {
+        "answer": "3.4 applet",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'applet' as the answer, which matches the expected concept."
+      },
+      "3.5": {
+        "answer": "3.5 [UNK] package",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Neither Container nor Frame identified"
+      },
+      "3.6": {
+        "answer": "3.6. [UNK] system",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student's answer '[UNK] system' does not match the expected 'Controller'."
+      },
+      "3.7": {
+        "answer": "3.7 JDBE",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student's answer 'JDBE' is a clear minor spelling mistake for 'JDBC', and the intended meaning is fully recoverable according to grading principles."
+      },
+      "4.1": {
+        "answer": "& Seats [i] + \"you will take seat\" + i [UNK]",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "answer (4-2)\ndouble numOFVal[UNK] = int total Volteg\nLx1",
+        "score": 7.0,
+        "max_score": 14.0,
+        "reason": "Nonblank answer unrelated to votes"
+      }
+    },
+    "totals": {
+      "q1": 19.0,
+      "q2": 15.0,
+      "q3": 12.0,
+      "q4": 21.0,
+      "overall": 67.0
+    }
+  }
+}

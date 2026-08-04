@@ -1,0 +1,213 @@
+MANUAL LABELING FILE
+================================================================================
+
+Instructions:
+1) Put each answer between its opening and closing markers.
+2) Format must be exactly like: with number between quotes and then closed with number between quotes and slach
+3) Leave the block empty if there is no answer.
+4) Do NOT change the question keys.
+5) After editing this file, save it, then return to the terminal and press Enter.
+
+RAW OCR REFERENCE
+================================================================================
+===== RAW OCR FROM page_03.txt =====
+"1.1" (1.1) we mean that Java isn't tied to a
+specific machine or operating system, but
+can work anywhere. "1.1/"
+
+"1.2" (1.2) The world wide web made sharing of computer
+software over it a very easy task, hence a
+need for a language that could work
+equally well in the variety of platforms involved.
+This marked the birth of the
+Java programming language. "1.2/"
+
+"1.3" (1.3) Object oriented programming (OOP) is
+a paradigm at which data is the central
+focus. It works on the principle of encapsulation
+which groups data and code into blocks. While
+procedure oriented programming (POP) is where
+the code (procedure/process) comes first.
+Programs are broken up to parts that are
+executed via a sequence of functions, and
+data is usually available globally for use in
+procedures. "1.3/"
+
+"1.4" (1.4) J.R.E. (Java Runtime Environment) is
+composed of the J.V.M. (Java Virtual Machine),
+standard libraries (e.g. rt.jar) and other files
+that help in execution of programs. "1.4/"
+
+
+===== RAW OCR FROM page_04.txt =====
+"1.5" (1.5) In inheritance is the ability to build
+multiple classes based on the same base
+classes. Polymorphism on the other hand is
+the ability of an object to take different
+forms (poly = morphs = many + forms). So, it's
+clear that "1.5/"
+
+"1.6" (1.6) Encapsulation is the wrapping up of data
+in a single unit. It is the process of grouping
+data and code, and acts as a protective
+shield for the data from outside interference. "1.6/"
+
+"1.7" (1.7) Abstraction can be achieved either through
+the usage of abstract classes, or interfaces.
+thread. "1.7/"
+
+"1.8" (1.8) 1/ The task has finished execution normally
+2/ Execution ended unexpectedly due to a
+problem.
+3/ Thread has been going for too long and was
+terminated. "1.8/"
+
+"1.9" (1.9) 1/ System.in stream
+2/ System.out stream
+3/ System.err stream "1.9/"
+
+"1.10" (1.10) Java AWT (Abstract window Toolkit)
+API "1.10/"
+
+
+===== RAW OCR FROM page_05.txt =====
+"2.1" (2.1) True "2.1/"
+
+"2.2" (2.2) False, it is possible "2.2/"
+
+"2.3" (2.3) True "2.3/"
+
+"2.4" (2.4) False, achieved by method overwriting "2.4/"
+
+"2.5" (2.5) False, abstract classes can only have abstract methods "2.5/"
+
+"2.6" (2.6) True "2.6/"
+
+"2.7" (2.7) True "2.7/"
+
+(2.5) True
+
+
+===== RAW OCR FROM page_06.txt =====
+"3.1" (3.1) Adapting to new environments and uses (eg: internet boom) "3.1/"
+
+"3.2" (3.2) C "3.2/"
+
+"3.3" (3.3) Data "3.3/"
+
+"3.4" (3.4) Applets "3.4/"
+
+"3.5" (3.5) Container (window, panel, dialogue, frame) "3.5/"
+
+"3.6" (3.6) Controller "3.6/"
+
+"3.7" (3.7) JDBC (Java Database Connectivity) "3.7/"
+
+
+===== RAW OCR FROM page_07.txt =====
+"4.1" (4.1) seats[i] + " , you will take seat " + i
+(4-1)
+Code: seats[i] + ", you will take seat " + i
+Explanation: It is apparent that the output is
+looping over the array "seats" printing every
+element and its corresponding index along with
+an appropriate text message. "4.1/"
+
+"4.2" (4.2) System.out.println ("The number
+(4.2) calculatedVotes (totalVotes);
+(4.2) caculatedVotes (totalVotes);
+(4-2)
+Code: calculateVotes (totalVotes);
+Explanation: The function "calculateVotes" calculates
+"proportion" which is 15% of its input parameter
+"numOfVotes", then prints the result with an
+appropriate message. From this it is clear that
+to get the needed output, we only need to
+call the function "calculateVotes" and pass the
+totalVotes variable on the parameter slot. "4.2/"
+
+
+===== RAW OCR FROM page_10.txt =====
+EMPTY
+
+
+EDITABLE LABEL BLOCKS
+================================================================================
+
+"1.1" 
+"1.1/"
+
+"1.2" 
+"1.2/"
+
+"1.3" 
+"1.3/"
+
+"1.4" 
+"1.4/"
+
+"1.5" 
+"1.5/"
+
+"1.6" 
+"1.6/"
+
+"1.7" 
+"1.7/"
+
+"1.8" 
+"1.8/"
+
+"1.9" 
+"1.9/"
+
+"1.10" 
+"1.10/"
+
+"2.1" 
+"2.1/"
+
+"2.2" 
+"2.2/"
+
+"2.3" 
+"2.3/"
+
+"2.4" 
+"2.4/"
+
+"2.5" 
+"2.5/"
+
+"2.6" 
+"2.6/"
+
+"2.7" 
+"2.7/"
+
+"3.1" 
+"3.1/"
+
+"3.2" 
+"3.2/"
+
+"3.3" 
+"3.3/"
+
+"3.4" 
+"3.4/"
+
+"3.5" 
+"3.5/"
+
+"3.6" 
+"3.6/"
+
+"3.7" 
+"3.7/"
+
+"4.1" 
+"4.1/"
+
+"4.2" 
+"4.2/"

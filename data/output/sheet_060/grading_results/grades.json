@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1.1) It means that Java is not restricted by a specific\nsystem architecture.",
+    "1.2": "1.2) WWW provided a better overall environment for developing\nprograms, introduced new uses for programming, made the\nshortcomings of early programming languages more prominent\nand allow worldwide collective effort to solve them.",
+    "1.3": "1.3) POP uses procedure (code) to act on data to achieve\nthe program goal. OOP uses classes and objects to\nencapsulate both code and data.",
+    "1.4": "1.4) Java Virtual Machine (JVM) which acts as a\nrun time engine to execute Java applications (interpreter)\n& Java compiler (javac).",
+    "1.5": "1.5) Inheritance is the process by which one object acquires\nthe properties of another object. This is important because\nit allows heirarchical classification.\npolymorphism (Greek for \"many forms\") is the feature that\nallows an interface to be used for a general set of actions.\nThe specific action is determined by the exact nature\nof the situation.",
+    "1.6": "1.6) Encapsulation is the mechanism that binds code\nand data, and protects both from outside interference\nor misuse.",
+    "1.7": "1.7) abstraction of class and interface",
+    "1.8": "1.8) a) The thread finished its task normally\nb) The thread was terminated due to unusual events.\nc) The thread is dead or no longer available.",
+    "1.9": "1.9 System.in, System.out and System.err",
+    "1.10": "1.10 on the model-view -controller architecture",
+    "2.1": "2.1 True",
+    "2.2": "2.2 True",
+    "2.3": "2.3 True",
+    "2.4": "2.4 False",
+    "2.5": "2.5 True",
+    "2.6": "2.6 True",
+    "2.7": "2.7 False",
+    "3.1": "3.1) Implementing improvements to the art of\nprogramming,\nand, adapting to changes in environment and uses.",
+    "3.2": "3.2) C programming language",
+    "3.3": "3.3) Procedures",
+    "3.4": "",
+    "3.5": "3.5) Frame",
+    "3.6": "3.6) controller",
+    "3.7": "3.7) Java DataBase Connectivity (JDBC)",
+    "4.1": "4.1\nseats[i] + \", you will take seat \" + i\nexplanations element orders in arrays start from 0,\ni starts from 0 up to 4 because seats.length = 5,\nand each member of the array is assigned their array\norder in the output.",
+    "4.2": "4.2.1\ndouble numOFVotes = (double) totalVotes;\nexplanations: totalVotes is defined as int value, but the\ninput to calculateVotes is defined as double, so we\nneed to define the total number of votes in the double\ntype."
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1.1) It means that Java is not restricted by a specific\nsystem architecture.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student clearly conveys that Java is not restricted by a specific system architecture, directly matching the expected concept."
+      },
+      "1.2": {
+        "answer": "1.2) WWW provided a better overall environment for developing\nprograms, introduced new uses for programming, made the\nshortcomings of early programming languages more prominent\nand allow worldwide collective effort to solve them.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Accepted nonblank answer without Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "1.3) POP uses procedure (code) to act on data to achieve\nthe program goal. OOP uses classes and objects to\nencapsulate both code and data.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identifies POP as procedure/code oriented acting on data, and OOP as using classes and objects which encapsulate code and data, satisfying both parts of the rubric."
+      },
+      "1.4": {
+        "answer": "1.4) Java Virtual Machine (JVM) which acts as a\nrun time engine to execute Java applications (interpreter)\n& Java compiler (javac).",
+        "score": 1.0,
+        "max_score": 3.0,
+        "reason": "Awarded 1/3 for: JVM"
+      },
+      "1.5": {
+        "answer": "1.5) Inheritance is the process by which one object acquires\nthe properties of another object. This is important because\nit allows heirarchical classification.\npolymorphism (Greek for \"many forms\") is the feature that\nallows an interface to be used for a general set of actions.\nThe specific action is determined by the exact nature\nof the situation.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance and polymorphism are correctly described. Inheritance implies acquiring properties from another object/class, and polymorphism is accurately defined as 'many forms' allowing an interface for general actions, with specific action determined by context."
+      },
+      "1.6": {
+        "answer": "1.6) Encapsulation is the mechanism that binds code\nand data, and protects both from outside interference\nor misuse.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly states that encapsulation binds code and data, which directly matches the expected concept."
+      },
+      "1.7": {
+        "answer": "1.7) abstraction of class and interface",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student mentioned 'abstraction of class' (implying abstract classes) and 'interface', which are the two expected ways to achieve abstraction."
+      },
+      "1.8": {
+        "answer": "1.8) a) The thread finished its task normally\nb) The thread was terminated due to unusual events.\nc) The thread is dead or no longer available.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided three distinct and correct reasons for thread termination, matching all points in the rubric."
+      },
+      "1.9": {
+        "answer": "1.9 System.in, System.out and System.err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified all three default streams: System.in, System.out, and System.err. Each correct stream earns 1 mark, with a maximum of 3."
+      },
+      "1.10": {
+        "answer": "1.10 on the model-view -controller architecture",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student's answer describes MVC architecture, which is not what Swing is built on top of. The expected answer is AWT or Abstract Window Toolkit."
+      },
+      "2.1": {
+        "answer": "2.1 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'True', matching the expected answer and teacher's grading policy."
+      },
+      "2.2": {
+        "answer": "2.2 True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True' for question 2.2, but the expected answer was 'False'."
+      },
+      "2.3": {
+        "answer": "2.3 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'True'."
+      },
+      "2.4": {
+        "answer": "2.4 False",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the answer as False."
+      },
+      "2.5": {
+        "answer": "2.5 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.6": {
+        "answer": "2.6 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.7": {
+        "answer": "2.7 False",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly answered 'False' as required by the grading policy."
+      },
+      "3.1": {
+        "answer": "3.1) Implementing improvements to the art of\nprogramming,\nand, adapting to changes in environment and uses.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "3.2) C programming language",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'C programming language', which explicitly includes 'C' and matches the teacher's grading policy for full credit."
+      },
+      "3.3": {
+        "answer": "3.3) Procedures",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'Procedures' does not match the expected concept 'data' as per the grading policy."
+      },
+      "3.4": {
+        "answer": "",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Blank answer"
+      },
+      "3.5": {
+        "answer": "3.5) Frame",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "3.6) controller",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'controller' matches the expected answer 'Controller', accounting for minor capitalization as per grading principles."
+      },
+      "3.7": {
+        "answer": "3.7) Java DataBase Connectivity (JDBC)",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'Java DataBase Connectivity (JDBC)' which matches the expected answer 'JDBC or Java Database Connectivity'."
+      },
+      "4.1": {
+        "answer": "4.1\nseats[i] + \", you will take seat \" + i\nexplanations element orders in arrays start from 0,\ni starts from 0 up to 4 because seats.length = 5,\nand each member of the array is assigned their array\norder in the output.",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "4.2.1\ndouble numOFVotes = (double) totalVotes;\nexplanations: totalVotes is defined as int value, but the\ninput to calculateVotes is defined as double, so we\nneed to define the total number of votes in the double\ntype.",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Both calculateVotes and totalVotes are present"
+      }
+    },
+    "totals": {
+      "q1": 25.0,
+      "q2": 18.0,
+      "q3": 15.0,
+      "q4": 28.0,
+      "overall": 86.0
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1.1 Java not restricted to specific system Architecture.",
+    "1.2": "1.2 World Wide Web is in all the world become famous and\nbecause of entering it Some Kind of matter download automatic.\nit is become problem in security and portability but\nJava fix these problem in security and portability\nprogrammable",
+    "1.3": "1.3 pop has Code that operate in Data to achieve prograus\ngoals.\nOOP: has class That encapsulate both code and data\nPoP OOP\ncode\nData",
+    "1.4": "1.4 JRE (Java Run-time Environment) provide environment\nfor only Run (not develop) program on machine.\nit component of JVM [Java Virtual Machine] it is act\nas a Run time engine also Known by java interpreter.",
+    "1.5": "1.5.- inheritance is the inherit class [the process by which\nthe inherit the attributes by another class]\nclass.\n- polymorphism: the class can present and use in multiple form\n[is the feature that allow interface to be use for\ngeneral class of action]\n\n\n===== RAW OCR FROM page_04.txt =====\nprocess which",
+    "1.6": "1-6- Encapsulation : It binds together data and code\nand keep it safe from any outside interference and misuse.\nabstraction",
+    "1.7": "1-7- 1. Run time: which Dynamic and\nachieved by method Overriden.\n2. climb abstraction : which static and achieve\nby function overriding or operator overriding.",
+    "1.8": "1-8- 1- finished it task normally.\n2- terminated due to unusall event.\n3- Dead and no longer available.",
+    "1.9": "1-9- (1)- system in\n(2)- system out\n(3)- system Err.",
+    "1.10": "1-10 [AWT]",
+    "2.1": "2.1 True",
+    "2.2": "2.2 False - possible",
+    "2.3": "2.3 True",
+    "2.4": "2.4 False - by method overriden",
+    "2.5": "2.5 True could have abstract",
+    "2.6": "2.6 True",
+    "2.7": "2.7 False - for API",
+    "3.1": "3.1 adapp+",
+    "3.2": "3.2 C",
+    "3.3": "3.3 data",
+    "3.4": "3.4 Applet",
+    "3.5": "3.5 frame",
+    "3.6": "3.6 control",
+    "3.7": "3.7 JDBC",
+    "4.1": "4.2\nStudent [UNK] you will take Seat \" + (4-2)\nbecause in Line 3 for (Int i=0; i<seats.length; i++)\nit is like the seat is opposite and the first be last one",
+    "4.2": "4.2\nprivate class\nnumber of Notes = double portion"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1.1 Java not restricted to specific system Architecture.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student clearly conveys the idea that Java is not restricted to a specific system architecture, which aligns perfectly with the expected answer and grading policy."
+      },
+      "1.2": {
+        "answer": "1.2 World Wide Web is in all the world become famous and\nbecause of entering it Some Kind of matter download automatic.\nit is become problem in security and portability but\nJava fix these problem in security and portability\nprogrammable",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Accepted nonblank answer without Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "1.3 pop has Code that operate in Data to achieve prograus\ngoals.\nOOP: has class That encapsulate both code and data\nPoP OOP\ncode\nData",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly conveys that POP involves code operating on data, and OOP involves classes that encapsulate both code and data, which matches the core concepts required by the rubric for full marks."
+      },
+      "1.4": {
+        "answer": "1.4 JRE (Java Run-time Environment) provide environment\nfor only Run (not develop) program on machine.\nit component of JVM [Java Virtual Machine] it is act\nas a Run time engine also Known by java interpreter.",
+        "score": 1.0,
+        "max_score": 3.0,
+        "reason": "Awarded 1/3 for: JVM"
+      },
+      "1.5": {
+        "answer": "1.5.- inheritance is the inherit class [the process by which\nthe inherit the attributes by another class]\nclass.\n- polymorphism: the class can present and use in multiple form\n[is the feature that allow interface to be use for\ngeneral class of action]\n\n\n===== RAW OCR FROM page_04.txt =====\nprocess which",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance and polymorphism meanings are clearly correct. Inheritance is described as a process where a class gets attributes from another class. Polymorphism is described as a class presenting in multiple forms and an interface being used for general classes of action, matching the expected concepts."
+      },
+      "1.6": {
+        "answer": "1-6- Encapsulation : It binds together data and code\nand keep it safe from any outside interference and misuse.\nabstraction",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identifies that encapsulation 'binds together data and code', which matches the core concept of the expected answer."
+      },
+      "1.7": {
+        "answer": "1-7- 1. Run time: which Dynamic and\nachieved by method Overriden.\n2. climb abstraction : which static and achieve\nby function overriding or operator overriding.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student's answer discusses method overriding and function overriding, which are related to polymorphism, not the specified ways to achieve abstraction (abstract classes and interfaces)."
+      },
+      "1.8": {
+        "answer": "1-8- 1- finished it task normally.\n2- terminated due to unusall event.\n3- Dead and no longer available.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided three distinct and correct reasons for thread termination: finishing task normally, termination due to an unusual event (despite a minor spelling error, meaning is clear), and being dead/no longer available. Each point earns 1 mark, totaling 3 marks."
+      },
+      "1.9": {
+        "answer": "1-9- (1)- system in\n(2)- system out\n(3)- system Err.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified System.in, System.out, and System.err, each earning 1 mark as per policy for clearly intended streams despite minor spelling/formatting."
+      },
+      "1.10": {
+        "answer": "1-10 [AWT]",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified AWT."
+      },
+      "2.1": {
+        "answer": "2.1 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'True', matching the expected answer and rubric."
+      },
+      "2.2": {
+        "answer": "2.2 False - possible",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified the answer as False."
+      },
+      "2.3": {
+        "answer": "2.3 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'True'."
+      },
+      "2.4": {
+        "answer": "2.4 False - by method overriden",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as False, adhering to the grading policy."
+      },
+      "2.5": {
+        "answer": "2.5 True could have abstract",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.6": {
+        "answer": "2.6 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'True'."
+      },
+      "2.7": {
+        "answer": "2.7 False - for API",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'False'."
+      },
+      "3.1": {
+        "answer": "3.1 adapp+",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "3.2 C",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'C' as an example of a POP language, which matches one of the accepted answers."
+      },
+      "3.3": {
+        "answer": "3.3 data",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'data' as the missing word."
+      },
+      "3.4": {
+        "answer": "3.4 Applet",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Applet', which matches the expected answer and grading policy."
+      },
+      "3.5": {
+        "answer": "3.5 frame",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "3.6 control",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'control' is a clear and recoverable intended meaning of 'Controller', aligning with the MVC architecture, despite the minor spelling/suffix omission."
+      },
+      "3.7": {
+        "answer": "3.7 JDBC",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified JDBC."
+      },
+      "4.1": {
+        "answer": "4.2\nStudent [UNK] you will take Seat \" + (4-2)\nbecause in Line 3 for (Int i=0; i<seats.length; i++)\nit is like the seat is opposite and the first be last one",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "4.2\nprivate class\nnumber of Notes = double portion",
+        "score": 7.0,
+        "max_score": 14.0,
+        "reason": "Nonblank answer unrelated to votes"
+      }
+    },
+    "totals": {
+      "q1": 25.0,
+      "q2": 21.0,
+      "q3": 21.0,
+      "q4": 21.0,
+      "overall": 88.0
+    }
+  }
+}

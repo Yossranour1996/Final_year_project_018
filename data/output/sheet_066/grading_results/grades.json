@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1-1\nThat mean Java is not restrict to specific a system\narchitecture.",
+    "1.2": "",
+    "1.3": "1-3.\nPOP has procedure (code) that operate the data\nto achieve program goals.",
+    "1.4": "1-4.\nJRE (Java Runtime Environment) is\nits environment for only run the Java program -\nl- JVM",
+    "1.5": "1-5\nthe difference is (inheritance is creating a new\nclass based on another class. The class inherits from\nanother class can reuse the method and field\nof the another) and the polymorphism is (the\nfeature feature that allows interface to be used\nfrom general class of actions)",
+    "1.6": "1-6.\nits the mechanism that binds both data and\ncode it manipulates. and keep them safe from\nthe interference and misuse.",
+    "1.7": "1-7.\nabstraction class and interface.",
+    "1.8": "1-8.\n1- finished it's task normally -\n2- terminated due to unusul event.\n3- dead or no longer [UNK] available -",
+    "1.9": "1.9.\n1- system.in , system.out , system.err .",
+    "1.10": "1-10\nRun command to run Java application.",
+    "2.1": "2.1 True",
+    "2.2": "2.2 True",
+    "2.3": "2.3 True",
+    "2.4": "2.4 False (Compile time Polymorphism could be achieved by method overloading)",
+    "2.5": "2.5 False",
+    "2.6": "2.6 False",
+    "2.7": "2.7 True",
+    "3.1": "3.1) To implement improvment to the art of Programing.",
+    "3.2": "3.2) C",
+    "3.3": "3.3) a data",
+    "3.4": "3.4) applet",
+    "3.5": "3.5) container",
+    "3.6": "3.6) controller",
+    "3.7": "3.7) JDBC",
+    "4.1": "Public class Example {\nPublic static Void main (String[] ag.s) {\nString[] seats = {\"M\", \"C\", \"B\", \"P\"};\nSystem.out.print(\"it's time to take your seat exm.\");\nfor (int i=0; i < seats.length; i++) {\nfor (int i=0; i < seats.length; i++) {\nseats[i] +\n4-1\nseats[i] + \", you will take seat\" + i",
+    "4.2": ""
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1-1\nThat mean Java is not restrict to specific a system\narchitecture.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student clearly conveys that Java is not restricted to a specific system architecture, which matches the expected concept despite minor grammatical imperfections."
+      },
+      "1.2": {
+        "answer": "",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Blank answer"
+      },
+      "1.3": {
+        "answer": "1-3.\nPOP has procedure (code) that operate the data\nto achieve program goals.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student only explained POP, not OOP, failing to meet the requirement to convey both POP's and OOP's orientation as per the grading policy."
+      },
+      "1.4": {
+        "answer": "1-4.\nJRE (Java Runtime Environment) is\nits environment for only run the Java program -\nl- JVM",
+        "score": 1.0,
+        "max_score": 3.0,
+        "reason": "Awarded 1/3 for: JVM"
+      },
+      "1.5": {
+        "answer": "1-5\nthe difference is (inheritance is creating a new\nclass based on another class. The class inherits from\nanother class can reuse the method and field\nof the another) and the polymorphism is (the\nfeature feature that allows interface to be used\nfrom general class of actions)",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance and polymorphism meanings are clearly correct. Inheritance is described as creating a new class based on another, allowing reuse of methods and fields. Polymorphism is described as allowing 'interface to be used from general class of actions', which aligns with the 'general class of actions' concept."
+      },
+      "1.6": {
+        "answer": "1-6.\nits the mechanism that binds both data and\ncode it manipulates. and keep them safe from\nthe interference and misuse.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student clearly states that encapsulation is the mechanism that binds data and the code that manipulates it, which directly matches the core concept of binding/bundling code and data together."
+      },
+      "1.7": {
+        "answer": "1-7.\nabstraction class and interface.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student mentioned 'abstraction class' (interpreted as abstract class) and 'interface', fulfilling both required concepts for full marks."
+      },
+      "1.8": {
+        "answer": "1-8.\n1- finished it's task normally -\n2- terminated due to unusul event.\n3- dead or no longer [UNK] available -",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student provided three distinct and correct reasons for thread termination: finishing its task normally, termination due to an unusual event, and being dead/no longer available. All three points align with the teacher's grading policy, earning full marks."
+      },
+      "1.9": {
+        "answer": "1.9.\n1- system.in , system.out , system.err .",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified all three default streams: System.in, System.out, and System.err. Minor casing difference (system vs System) is disregarded per policy."
+      },
+      "1.10": {
+        "answer": "1-10\nRun command to run Java application.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student's answer is completely irrelevant to the question asked and does not mention AWT or Abstract Window Toolkit."
+      },
+      "2.1": {
+        "answer": "2.1 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the answer as 'True'."
+      },
+      "2.2": {
+        "answer": "2.2 True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student chose 'True', but the expected answer is 'False'. According to the grading policy, full marks are only awarded if the student chose 'False'."
+      },
+      "2.3": {
+        "answer": "2.3 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.4": {
+        "answer": "2.4 False (Compile time Polymorphism could be achieved by method overloading)",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as False."
+      },
+      "2.5": {
+        "answer": "2.5 False",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student answered 'False' instead of the expected 'True'."
+      },
+      "2.6": {
+        "answer": "2.6 False",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'False', but the correct answer is 'True'."
+      },
+      "2.7": {
+        "answer": "2.7 True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose True, but the correct answer is False."
+      },
+      "3.1": {
+        "answer": "3.1) To implement improvment to the art of Programing.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "3.2) C",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'C', which is one of the accepted examples for a POP language."
+      },
+      "3.3": {
+        "answer": "3.3) a data",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer clearly contains 'data', which is the expected concept. Minor grammatical artifacts like 'a' before 'data' do not reduce the score according to the policy."
+      },
+      "3.4": {
+        "answer": "3.4) applet",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'applet', which matches the expected answer according to the rubric."
+      },
+      "3.5": {
+        "answer": "3.5) container",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "3.6) controller",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'controller' as the missing part of the Model-View-Controller architecture."
+      },
+      "3.7": {
+        "answer": "3.7) JDBC",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified JDBC."
+      },
+      "4.1": {
+        "answer": "Public class Example {\nPublic static Void main (String[] ag.s) {\nString[] seats = {\"M\", \"C\", \"B\", \"P\"};\nSystem.out.print(\"it's time to take your seat exm.\");\nfor (int i=0; i < seats.length; i++) {\nfor (int i=0; i < seats.length; i++) {\nseats[i] +\n4-1\nseats[i] + \", you will take seat\" + i",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "",
+        "score": 0.0,
+        "max_score": 14.0,
+        "reason": "Blank answer"
+      }
+    },
+    "totals": {
+      "q1": 19.0,
+      "q2": 9.0,
+      "q3": 21.0,
+      "q4": 14.0,
+      "overall": 63.0
+    }
+  }
+}

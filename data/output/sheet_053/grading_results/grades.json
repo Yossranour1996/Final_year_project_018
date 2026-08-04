@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1- It doesn't relay on the architecture of the System level.",
+    "1.2": "2- It helped programming language like Java large that are able\nto create desktop based programs that can be transferred\nex: apps and mobile.",
+    "1.3": "1.3 DOP Object Oriented programming focuses on data\nrather than code it decompose problems to small parts\nand (object) and bind data and code to its (1)\nPOP process oriented programming focuses on the procedure\nthat is the code that is a series of functions\nand instruction. the data is isolated to be access by all [UNK]\nin the case of getting modified. fig (2)\nAll Code\nfig (1)\ndata\nCode\ndata\nfig (2)",
+    "1.4": "1.4 what are the Components of Java and the other\nJava virtual machine / libraries and other things\nlang\nJVM\nlibraries\nfiles\nJRE\nJDK\ntoolkits",
+    "1.5": "1.5 Inheritance\nThe Creation of a new Class using an existing\none the new class have all the method and attributes of\nthe classes inherited and can add new.\nIt helps= reuse code, Creat Class hierarchy.\nPolymorphism : meaning many forms allow interface reuse\naccess to classes and it has two types:\nRun time polymorphism - Compile time polymorphism.\nIt also means to take more than one form",
+    "1.6": "1.6. Encapsulation: The mechanism that binds together\nthe data and the code that manages it and\nby that protect the data from being modified by an\noutside code. it can be achieved using abstraction and\ndata hiding it is added as implementation.",
+    "1.7": "1.7 - abstract Classes and interfaces.",
+    "1.8": "1.8 - It finished working normally\nStopped due to unusual errors\nit no Longer exist..",
+    "1.9": "1.9 - System - in System-out System.err.\nFor input For output For errors",
+    "1.10": "1.10. An top of AWT\nAbstract windows tool kit",
+    "2.1": "1- True",
+    "2.2": "2- True",
+    "2.3": "3- True = Jurn [UNK] machine",
+    "2.4": "4- False = Can be achived by method over[UNK]",
+    "2.5": "5- False = Couthave method, when they can be used to run [UNK]",
+    "2.6": "6- True",
+    "2.7": "7- False = There are multiple JDBC drivers depend on data [UNK]",
+    "3.1": "1- To adapt to the changes in the invironments.",
+    "3.2": "2- C",
+    "3.3": "3- the data -",
+    "3.4": "4- applets",
+    "3.5": "5- Panels and frames and menus",
+    "3.6": "6- model View Conrolle -",
+    "3.7": "7- JDBC = Java database connection.",
+    "4.1": "System.out.print(String seat[i] + \"you will take seat[\nfor (i=0; i< seat.length(); i++)\n+ invaild.i[i]\nThe list that is printed on the output can be achieved\nusing the I/O stream System. out that prints a new lig.\nat (i) represents the value in the string in the list and the number\nthe invalid, suppose to achieve the number of 4\nof you can use.\na time of 4.",
+    "4.2": "2 -int numOfvotes = total votes\nThe numOf votes in the public classe means that\nis used to calculate the double 'portion' is not\nidentified. غير معرفة للبرنامج"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1- It doesn't relay on the architecture of the System level.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student conveys the idea that Java does not rely on the specific architecture of the system, which is the core meaning of architecture-neutral. Minor spelling ('relay' instead of 'rely') is ignored as per policy."
+      },
+      "1.2": {
+        "answer": "2- It helped programming language like Java large that are able\nto create desktop based programs that can be transferred\nex: apps and mobile.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Accepted nonblank answer without Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "1.3 DOP Object Oriented programming focuses on data\nrather than code it decompose problems to small parts\nand (object) and bind data and code to its (1)\nPOP process oriented programming focuses on the procedure\nthat is the code that is a series of functions\nand instruction. the data is isolated to be access by all [UNK]\nin the case of getting modified. fig (2)\nAll Code\nfig (1)\ndata\nCode\ndata\nfig (2)",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identifies that OOP focuses on objects ('decompose problems to small parts and (object)' and 'bind data and code') and POP focuses on procedures/functions ('focuses on the procedure that is the code that is a series of functions'). The typo 'DOP' instead of 'OOP' and minor grammatical issues do not obscure the intended meaning."
+      },
+      "1.4": {
+        "answer": "1.4 what are the Components of Java and the other\nJava virtual machine / libraries and other things\nlang\nJVM\nlibraries\nfiles\nJRE\nJDK\ntoolkits",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Awarded 3/3 for: JVM, libraries, files"
+      },
+      "1.5": {
+        "answer": "1.5 Inheritance\nThe Creation of a new Class using an existing\none the new class have all the method and attributes of\nthe classes inherited and can add new.\nIt helps= reuse code, Creat Class hierarchy.\nPolymorphism : meaning many forms allow interface reuse\naccess to classes and it has two types:\nRun time polymorphism - Compile time polymorphism.\nIt also means to take more than one form",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both inheritance and polymorphism concepts are correctly described, matching the expected answer."
+      },
+      "1.6": {
+        "answer": "1.6. Encapsulation: The mechanism that binds together\nthe data and the code that manages it and\nby that protect the data from being modified by an\noutside code. it can be achieved using abstraction and\ndata hiding it is added as implementation.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identifies encapsulation as the mechanism that binds together data and the code that manages it, which directly matches the expected concept of binding/bundling code and data."
+      },
+      "1.7": {
+        "answer": "1.7 - abstract Classes and interfaces.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified both 'abstract classes' and 'interfaces' as ways to achieve abstraction, which aligns perfectly with the expected answer and the grading policy."
+      },
+      "1.8": {
+        "answer": "1.8 - It finished working normally\nStopped due to unusual errors\nit no Longer exist..",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided three distinct and correct reasons for thread termination, matching 'finished normally', 'unusual event/error', and 'no longer available'."
+      },
+      "1.9": {
+        "answer": "1.9 - System - in System-out System.err.\nFor input For output For errors",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified all three default streams: System.in, System.out, and System.err. Minor formatting (hyphen instead of dot, space) is explicitly disregarded by the grading policy, and the intended meaning is clear for all three."
+      },
+      "1.10": {
+        "answer": "1.10. An top of AWT\nAbstract windows tool kit",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified AWT and Abstract Window Toolkit, matching the expected answer despite minor spelling variations which do not obscure meaning."
+      },
+      "2.1": {
+        "answer": "1- True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'True', matching the expected answer."
+      },
+      "2.2": {
+        "answer": "2- True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student answered 'True', but the expected answer was 'False'. According to the policy, full marks (3) are only awarded if the student chose 'False'."
+      },
+      "2.3": {
+        "answer": "3- True = Jurn [UNK] machine",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student chose 'True', which is the correct answer according to the teacher's policy."
+      },
+      "2.4": {
+        "answer": "4- False = Can be achived by method over[UNK]",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'False' as required by the grading policy."
+      },
+      "2.5": {
+        "answer": "5- False = Couthave method, when they can be used to run [UNK]",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student chose 'False', but the correct answer is 'True'."
+      },
+      "2.6": {
+        "answer": "6- True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'True'."
+      },
+      "2.7": {
+        "answer": "7- False = There are multiple JDBC drivers depend on data [UNK]",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'False' as required by the grading policy."
+      },
+      "3.1": {
+        "answer": "1- To adapt to the changes in the invironments.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "2- C",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'C' as an example of a POP language."
+      },
+      "3.3": {
+        "answer": "3- the data -",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'the data' clearly contains the expected concept 'data', fulfilling the grading policy."
+      },
+      "3.4": {
+        "answer": "4- applets",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'applets' as the answer, which matches the expected concept."
+      },
+      "3.5": {
+        "answer": "5- Panels and frames and menus",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "6- model View Conrolle -",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'Conrolle' is a clear misspelling of 'Controller'. The intended meaning is recoverable despite the weak spelling, which should be awarded full credit according to policy."
+      },
+      "3.7": {
+        "answer": "7- JDBC = Java database connection.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'JDBC', which is one of the accepted answers. The slight variation in the expansion ('connection' instead of 'connectivity') does not prevent awarding full marks, especially since 'JDBC' itself is present."
+      },
+      "4.1": {
+        "answer": "System.out.print(String seat[i] + \"you will take seat[\nfor (i=0; i< seat.length(); i++)\n+ invaild.i[i]\nThe list that is printed on the output can be achieved\nusing the I/O stream System. out that prints a new lig.\nat (i) represents the value in the string in the list and the number\nthe invalid, suppose to achieve the number of 4\nof you can use.\na time of 4.",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "2 -int numOfvotes = total votes\nThe numOf votes in the public classe means that\nis used to calculate the double 'portion' is not\nidentified. غير معرفة للبرنامج",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Both calculateVotes and totalVotes are present"
+      }
+    },
+    "totals": {
+      "q1": 30.0,
+      "q2": 15.0,
+      "q3": 21.0,
+      "q4": 28.0,
+      "overall": 94.0
+    }
+  }
+}

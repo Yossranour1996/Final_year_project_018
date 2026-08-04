@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1.1) It doesn't depend on a specific\nmachine or operating system architectura.",
+    "1.2": "1.2) There was a need for more effecient\nprogramming language to handle more",
+    "1.3": "1.3) P.O.P uses procedure applied on\ndata to achieve some goal.\nO.O.P uses Classes and Objects\nand binding data and codes.",
+    "1.4": "1.4) Java Virtual machine and many\nother running tools.",
+    "1.5": "1.5) -Inheritance is to Create a new class\nfrom excisted one.\n- polymorphism is an object that can\ntake many forms.",
+    "1.6": "1.6) The mechanism that binds data\nand codes.",
+    "1.7": "1.7) Abstract class and Interface.",
+    "1.8": "1.8) 1) It reaches it's terminal.\n2) unusual events.\n3) Dead and no longer available.",
+    "1.9": "1.9) - System.in\n- System.err\n- System.Out",
+    "1.10": "1.10) Java AWT.",
+    "2.1": "2.1) True.",
+    "2.2": "2.2) False\n\" It's not possible for an interface\nto implement another interface properties.",
+    "2.3": "2.3) True.",
+    "2.4": "2.4) False\n\" Could be achieved by\nmethod overridden.",
+    "2.5": "2.5) True",
+    "2.6": "2.6) True",
+    "2.7": "2.7) False\n\" The is Drive manager and\nDrivers.\"",
+    "3.1": "3.1) Adapt to change in environments\nand uses. 3.1) Internet.",
+    "3.2": "3.2) C programming language.",
+    "3.3": "3.3) Data.",
+    "3.4": "3.4) Applet. Servlet.",
+    "3.5": "3.5) Containers.",
+    "3.6": "3.6) Controller.",
+    "3.7": "3.7) JDBC.",
+    "4.1": "4). 1)\nStudent [i] t\", You\nStudent [i] t\", you will take seat\" + [UNK] length\n(student.length)\nStudent [i] t\", you will take seat\" + i [UNK] the output String.\n- You will take seat is the output String.\n- i (Student.length), because the Counting\nStarted from i=0.",
+    "4.2": "4.2)\nprivate S&r\nAgree. Calculate Votes (total Votes)\nCalculate Votes (total Votes)\nno. Of Votes = total Votes.\nWe have to define the function\nfirstly."
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1.1) It doesn't depend on a specific\nmachine or operating system architectura.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student clearly conveys the idea that Java does not depend on a specific machine or operating system architecture, which aligns with 'architecture-neutral'. Minor spelling error ('architectura') does not reduce score per policy."
+      },
+      "1.2": {
+        "answer": "1.2) There was a need for more effecient\nprogramming language to handle more",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Accepted nonblank answer without Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "1.3) P.O.P uses procedure applied on\ndata to achieve some goal.\nO.O.P uses Classes and Objects\nand binding data and codes.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identifies POP with 'procedure applied on data' and OOP with 'Classes and Objects', fulfilling both requirements of the grading policy."
+      },
+      "1.4": {
+        "answer": "1.4) Java Virtual machine and many\nother running tools.",
+        "score": 1.0,
+        "max_score": 3.0,
+        "reason": "Awarded 1/3 for: JVM"
+      },
+      "1.5": {
+        "answer": "1.5) -Inheritance is to Create a new class\nfrom excisted one.\n- polymorphism is an object that can\ntake many forms.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Both definitions are correct. 'Inheritance is to Create a new class from excisted one' correctly captures the idea of building upon an existing class. 'Polymorphism is an object that can take many forms' aligns directly with the 'many forms' aspect of polymorphism. Minor spelling error ('excisted') does not obscure meaning."
+      },
+      "1.6": {
+        "answer": "1.6) The mechanism that binds data\nand codes.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identifies encapsulation as the mechanism that binds data and code, which aligns with the core concept in the rubric."
+      },
+      "1.7": {
+        "answer": "1.7) Abstract class and Interface.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly mentioned both 'Abstract class' and 'Interface', which are the two expected ways to achieve abstraction."
+      },
+      "1.8": {
+        "answer": "1.8) 1) It reaches it's terminal.\n2) unusual events.\n3) Dead and no longer available.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided three correct reasons: reaching its terminal (finishing normally), unusual events (exceptions/errors), and being dead and no longer available."
+      },
+      "1.9": {
+        "answer": "1.9) - System.in\n- System.err\n- System.Out",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified all three default streams: System.in, System.err, and System.out. The capitalization 'System.Out' is considered a minor spelling mistake and the intended meaning is clear, so full credit is awarded."
+      },
+      "1.10": {
+        "answer": "1.10) Java AWT.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified AWT, which aligns with the expected answer and grading policy."
+      },
+      "2.1": {
+        "answer": "2.1) True.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.2": {
+        "answer": "2.2) False\n\" It's not possible for an interface\nto implement another interface properties.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'False' as required by the teacher's grading policy."
+      },
+      "2.3": {
+        "answer": "2.3) True.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly answered 'True', which matches the expected answer and the condition for full marks according to the teacher's grading policy."
+      },
+      "2.4": {
+        "answer": "2.4) False\n\" Could be achieved by\nmethod overridden.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the answer as False."
+      },
+      "2.5": {
+        "answer": "2.5) True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose True, which matches the expected answer and grading policy for full marks."
+      },
+      "2.6": {
+        "answer": "2.6) True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student chose 'True', which matches the expected answer and the grading policy for full marks."
+      },
+      "2.7": {
+        "answer": "2.7) False\n\" The is Drive manager and\nDrivers.\"",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the answer as False."
+      },
+      "3.1": {
+        "answer": "3.1) Adapt to change in environments\nand uses. 3.1) Internet.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "3.2) C programming language.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'C' as an example of a POP language."
+      },
+      "3.3": {
+        "answer": "3.3) Data.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'data' as the missing word, matching the expected answer and grading policy."
+      },
+      "3.4": {
+        "answer": "3.4) Applet. Servlet.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'Applet' which is the expected answer. The presence of an additional incorrect term ('Servlet') does not negate the correct answer according to the rubric."
+      },
+      "3.5": {
+        "answer": "3.5) Containers.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "3.6) Controller.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'Controller' as the missing part of the Model-View-Controller architecture."
+      },
+      "3.7": {
+        "answer": "3.7) JDBC.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified JDBC, which is the expected answer."
+      },
+      "4.1": {
+        "answer": "4). 1)\nStudent [i] t\", You\nStudent [i] t\", you will take seat\" + [UNK] length\n(student.length)\nStudent [i] t\", you will take seat\" + i [UNK] the output String.\n- You will take seat is the output String.\n- i (Student.length), because the Counting\nStarted from i=0.",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "4.2)\nprivate S&r\nAgree. Calculate Votes (total Votes)\nCalculate Votes (total Votes)\nno. Of Votes = total Votes.\nWe have to define the function\nfirstly.",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Both calculateVotes and totalVotes are present"
+      }
+    },
+    "totals": {
+      "q1": 28.0,
+      "q2": 21.0,
+      "q3": 21.0,
+      "q4": 28.0,
+      "overall": 98.0
+    }
+  }
+}

@@ -1,0 +1,191 @@
+MANUAL LABELING FILE
+================================================================================
+
+Instructions:
+1) Put each answer between its opening and closing markers.
+2) Format must be exactly like: with number between quotes and then closed with number between quotes and slach
+3) Leave the block empty if there is no answer.
+4) Do NOT change the question keys.
+5) After editing this file, save it, then return to the terminal and press Enter.
+
+RAW OCR REFERENCE
+================================================================================
+===== RAW OCR FROM page_02.txt =====
+"1.1" 1.1 We mean that it is not restricted by aspasific
+architecture system "1.1/"
+
+"1.2" 1.2 WWW and Internet participat in programming
+revolution because every code is written can't be shared
+and all the information about programming is available. "1.2/"
+
+"1.3" 1.3 POP: pruduse code that operate in program's goal
+OOP: uses class and opjeces to capsulate code and
+data
+POP
+code
+data
+OOP
+code
+data "1.3/"
+
+"1.4" 1.4 there are many componenes of the JRE "1.4/"
+
+"1.5" 1.5 Inheritance is making class based on existing one
+bue run time polymorphism can't be achieved by method
+overloading "1.5/"
+
+
+===== RAW OCR FROM page_03.txt =====
+"1.6" 1.6 We mean by encapsulation: dealing with data and
+code at the same time, as capsuls and we
+use it in OOP "1.6/"
+
+"1.7" 1.7 Abstract class and interface "1.7/"
+
+"1.8" 1.8 A thread could be terminate if:
+it finished his jop
+Broke for unusual reson
+Dead "1.8/"
+
+"1.9" 1.9 The three Default streams in Java are:
+System.in
+System.out
+System.err "1.9/"
+
+"1.10" 1.10 Java API is used for dealing with data base
+But API Java swing was built on top of model
+view of multilayer architecture "1.10/"
+
+
+===== RAW OCR FROM page_04.txt =====
+"2.1" 2.1 True "2.1/"
+
+"2.2" 2.2 True "2.2/"
+
+"2.3" 2.3 True "2.3/"
+
+"2.4" 2.4 False can't be achieved by overloading "2.4/"
+
+"2.5" 2.5 True "2.5/"
+
+"2.6" 2.6 True "2.6/"
+
+"2.7" 2.7 False Many drivers are there. "2.7/"
+
+
+===== RAW OCR FROM page_05.txt =====
+"3.1" 3.1 To match environment updates and uses "3.1/"
+
+"3.2" 3.2 C "3.2/"
+
+"3.3" 3.3 Code "3.3/"
+
+"3.4" 3.4 Ithesnet java enabled web browser execution "3.4/"
+
+"3.5" 3.5 In compouent which resive information "3.5/"
+
+"3.6" 3.6 Multi Layers "3.6/"
+
+"3.7" 3.7 JDBC "3.7/"
+
+
+===== RAW OCR FROM page_06.txt =====
+"4.1" 4.1 CODE: String [i] + " you will take seat" + (4-i)
+Saving [i] will print one of the letters: M, C, ..
+" you will be printed as it is every time in the
+loop.
+(4-i): represent the number of seat "4.1/"
+
+"4.2" 4.2 forLint
+Private string id;
+for loop "4.2/"
+
+
+===== RAW OCR FROM page_07.txt =====
+EMPTY
+
+
+===== RAW OCR FROM page_09.txt =====
+EMPTY
+
+
+EDITABLE LABEL BLOCKS
+================================================================================
+
+"1.1" 
+"1.1/"
+
+"1.2" 
+"1.2/"
+
+"1.3" 
+"1.3/"
+
+"1.4" 
+"1.4/"
+
+"1.5" 
+"1.5/"
+
+"1.6" 
+"1.6/"
+
+"1.7" 
+"1.7/"
+
+"1.8" 
+"1.8/"
+
+"1.9" 
+"1.9/"
+
+"1.10" 
+"1.10/"
+
+"2.1" 
+"2.1/"
+
+"2.2" 
+"2.2/"
+
+"2.3" 
+"2.3/"
+
+"2.4" 
+"2.4/"
+
+"2.5" 
+"2.5/"
+
+"2.6" 
+"2.6/"
+
+"2.7" 
+"2.7/"
+
+"3.1" 
+"3.1/"
+
+"3.2" 
+"3.2/"
+
+"3.3" 
+"3.3/"
+
+"3.4" 
+"3.4/"
+
+"3.5" 
+"3.5/"
+
+"3.6" 
+"3.6/"
+
+"3.7" 
+"3.7/"
+
+"4.1" 
+"4.1/"
+
+"4.2" 
+"4.2/"

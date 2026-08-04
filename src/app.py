@@ -6,7 +6,7 @@ from src.graph.workflow import build_graph
 
 
 SHEETS = [
-   "sheet_041","sheet_042","sheet_043","sheet_044","sheet_045","sheet_046","sheet_047","sheet_048","sheet_049", "sheet_050"
+  "sheet_070"
 ]
 
 

@@ -1,0 +1,197 @@
+MANUAL LABELING FILE
+================================================================================
+
+Instructions:
+1) Put each answer between its opening and closing markers.
+2) Format must be exactly like: with number between quotes and then closed with number between quotes and slach
+3) Leave the block empty if there is no answer.
+4) Do NOT change the question keys.
+5) After editing this file, save it, then return to the terminal and press Enter.
+
+RAW OCR REFERENCE
+================================================================================
+===== RAW OCR FROM page_03.txt =====
+"1.1" * 1.1 It is means Java is not restricted
+to a specific Architecter in
+Computers "1.1/"
+
+"1.2" * 1-2 Internet help to improve and
+development the programming and programing
+languages such as Java, C++ like.
+"Applet" which is a programme act on
+web browser automatically by Java, also
+servlet (small programme acts on the server) "1.2/"
+
+"1.3" * 1-3 pop -> main emphasis is the
+procedure (code), not the data
+oop -> the main emphasis is the data
+not the Code, #oop encapsulates
+the Data and Code manipulate the data
+code
+code
+X-X X-X
+data
+POP
+OOP objects "1.3/"
+
+"1.4" * 1-4 liberies, files and JVM
+(Java virtual machine) "1.4/"
+
+
+===== RAW OCR FROM page_04.txt =====
+"1.5" 1-5 Inhertence is creating new classes
+from another exciting class holds the
+Some methods and field of the main
+Class -
+Poly morphism -> Signifies "Many forms" Interface
+It is a fucture on OOP for group
+Class of action , the action is determined
+depends on the natur of the need - "1.5/"
+
+"1.6" 1-6 Mechañise that binds together
+both Data and code manipulite it, for
+keep it safe from misuse and outside
+Interference - "1.6/"
+
+"1.7" 1-7 Abstraction by Class
+" Interface "1.7/"
+
+"1.8" 1-8
+① The tanth finished normally
+② Terminated for unusual events
+③ Dead or Stopped working "1.8/"
+
+"1.9" 1-9 - Streams - In
+- Streams - out
+- Streams - err "1.9/"
+
+"1.10" 1-10 JAVA AWT "1.10/"
+
+
+===== RAW OCR FROM page_05.txt =====
+"2.1" 2-1 True "2.1/"
+
+"2.2" 2-2 False
+-> It is possible and it Can inherit
+as many times "2.2/"
+
+"2.3" 2-3 True "2.3/"
+
+"2.4" 2-4 False
+-> method override overwrite "2.4/"
+
+"2.5" 2-5 True "2.5/"
+
+"2.6" 2-6 True "2.6/"
+
+"2.7" 2-7 False
+-> A lot of Java Database Connectivity
+for Database sources "2.7/"
+
+
+===== RAW OCR FROM page_06.txt =====
+"3.1" 3-1 Internet "3.1/"
+
+"3.2" 3-2 C language "3.2/"
+
+"3.3" 3-3 Data "3.3/"
+
+"3.4" 3-4 Applet "3.4/"
+
+"3.5" 3-5 package Container "3.5/"
+
+"3.6" 3-6 Controller "3.6/"
+
+"3.7" 3-7 JDBC "3.7/"
+
+
+===== RAW OCR FROM page_07.txt =====
+"4.1" 4-1
+Complete the Code-
+Student[i] + " you will take seat " +(1) "4.1/"
+
+"4.2" Another Code
+4-2
+Calculate Votes (total votes) "4.2/"
+
+
+EDITABLE LABEL BLOCKS
+================================================================================
+
+"1.1" 
+"1.1/"
+
+"1.2" 
+"1.2/"
+
+"1.3" 
+"1.3/"
+
+"1.4" 
+"1.4/"
+
+"1.5" 
+"1.5/"
+
+"1.6" 
+"1.6/"
+
+"1.7" 
+"1.7/"
+
+"1.8" 
+"1.8/"
+
+"1.9" 
+"1.9/"
+
+"1.10" 
+"1.10/"
+
+"2.1" 
+"2.1/"
+
+"2.2" 
+"2.2/"
+
+"2.3" 
+"2.3/"
+
+"2.4" 
+"2.4/"
+
+"2.5" 
+"2.5/"
+
+"2.6" 
+"2.6/"
+
+"2.7" 
+"2.7/"
+
+"3.1" 
+"3.1/"
+
+"3.2" 
+"3.2/"
+
+"3.3" 
+"3.3/"
+
+"3.4" 
+"3.4/"
+
+"3.5" 
+"3.5/"
+
+"3.6" 
+"3.6/"
+
+"3.7" 
+"3.7/"
+
+"4.1" 
+"4.1/"
+
+"4.2" 
+"4.2/"

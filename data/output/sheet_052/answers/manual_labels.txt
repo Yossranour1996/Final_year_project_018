@@ -1,0 +1,200 @@
+MANUAL LABELING FILE
+================================================================================
+
+Instructions:
+1) Put each answer between its opening and closing markers.
+2) Format must be exactly like: with number between quotes and then closed with number between quotes and slach
+3) Leave the block empty if there is no answer.
+4) Do NOT change the question keys.
+5) After editing this file, save it, then return to the terminal and press Enter.
+
+RAW OCR REFERENCE
+================================================================================
+===== RAW OCR FROM page_01.txt =====
+EMPTY
+
+
+===== RAW OCR FROM page_02.txt =====
+EMPTY
+
+
+===== RAW OCR FROM page_03.txt =====
+Q.1.
+"1.1" 1.1 Java not restricted to specific system Architecture. "1.1/"
+
+"1.2" 1.2 World Wide Web is in all the world become famous and
+because of entering it Some Kind of matter download automatic.
+it is become problem in security and portability but
+Java fix these problem in security and portability
+programmable "1.2/"
+
+"1.3" 1.3 pop has Code that operate in Data to achieve prograus
+goals.
+OOP: has class That encapsulate both code and data
+PoP OOP
+code
+Data "1.3/"
+
+"1.4" 1.4 JRE (Java Run-time Environment) provide environment
+for only Run (not develop) program on machine.
+it component of JVM [Java Virtual Machine] it is act
+as a Run time engine also Known by java interpreter. "1.4/"
+
+"1.5" 1.5.- inheritance is the inherit class [the process by which
+the inherit the attributes by another class]
+class.
+- polymorphism: the class can present and use in multiple form
+[is the feature that allow interface to be use for
+general class of action]
+
+
+===== RAW OCR FROM page_04.txt =====
+process which "1.5/"
+
+"1.6" 1-6- Encapsulation : It binds together data and code
+and keep it safe from any outside interference and misuse.
+abstraction "1.6/"
+
+"1.7" 1-7- 1. Run time: which Dynamic and
+achieved by method Overriden.
+2. climb abstraction : which static and achieve
+by function overriding or operator overriding. "1.7/"
+
+"1.8" 1-8- 1- finished it task normally.
+2- terminated due to unusall event.
+3- Dead and no longer available. "1.8/"
+
+"1.9" 1-9- (1)- system in
+(2)- system out
+(3)- system Err. "1.9/"
+
+"1.10" 1-10 [AWT] "1.10/"
+
+
+===== RAW OCR FROM page_05.txt =====
+"2.1" 2.1 True "2.1/"
+
+"2.2" 2.2 False - possible "2.2/"
+
+"2.3" 2.3 True "2.3/"
+
+"2.4" 2.4 False - by method overriden "2.4/"
+
+"2.5" 2.5 True could have abstract "2.5/"
+
+"2.6" 2.6 True "2.6/"
+
+"2.7" 2.7 False - for API "2.7/"
+
+
+===== RAW OCR FROM page_06.txt =====
+"3.1" 3.1 adapp+ "3.1/"
+
+"3.2" 3.2 C "3.2/"
+
+"3.3" 3.3 data "3.3/"
+
+"3.4" 3.4 Applet "3.4/"
+
+"3.5" 3.5 frame "3.5/"
+
+"3.6" 3.6 control "3.6/"
+
+"3.7" 3.7 JDBC "3.7/"
+
+
+===== RAW OCR FROM page_07.txt =====
+"4.1" 4.2
+Student [UNK] you will take Seat " + (4-2)
+because in Line 3 for (Int i=0; i<seats.length; i++)
+it is like the seat is opposite and the first be last one "4.1/"
+
+"4.2" 4.2
+private class
+number of Notes = double portion "4.2/"
+
+
+===== RAW OCR FROM page_08.txt =====
+EMPTY
+
+
+EDITABLE LABEL BLOCKS
+================================================================================
+
+"1.1" 
+"1.1/"
+
+"1.2" 
+"1.2/"
+
+"1.3" 
+"1.3/"
+
+"1.4" 
+"1.4/"
+
+"1.5" 
+"1.5/"
+
+"1.6" 
+"1.6/"
+
+"1.7" 
+"1.7/"
+
+"1.8" 
+"1.8/"
+
+"1.9" 
+"1.9/"
+
+"1.10" 
+"1.10/"
+
+"2.1" 
+"2.1/"
+
+"2.2" 
+"2.2/"
+
+"2.3" 
+"2.3/"
+
+"2.4" 
+"2.4/"
+
+"2.5" 
+"2.5/"
+
+"2.6" 
+"2.6/"
+
+"2.7" 
+"2.7/"
+
+"3.1" 
+"3.1/"
+
+"3.2" 
+"3.2/"
+
+"3.3" 
+"3.3/"
+
+"3.4" 
+"3.4/"
+
+"3.5" 
+"3.5/"
+
+"3.6" 
+"3.6/"
+
+"3.7" 
+"3.7/"
+
+"4.1" 
+"4.1/"
+
+"4.2" 
+"4.2/"

@@ -13,9 +13,9 @@ import pdfplumber
 # GRADES_PDF = r"C:\Users\hp\Desktop\final_marks.pdf"
 # OUTPUT_CSV = r"C:\Users\hp\Desktop\sheet_marks.csv"
 # # =====================================
-SHEETS_FOLDER = r"C:\Users\hp\Desktop\tr_evl"
+SHEETS_FOLDER = r"C:\Users\hp\Desktop\test_sheets"
 GRADES_PDF = r"C:/Users/hp/Downloads/Java_exam_final_marks.pdf"
-OUTPUT_CSV = r"C:/Users/hp/Desktop/sheet_marks.csv"
+OUTPUT_CSV = r"C:/Users/hp/Desktop/sheet_marks_test.csv"
 
 
 def extract_index_and_sheetnum(filename: str) -> Optional[Tuple[str, str]]:

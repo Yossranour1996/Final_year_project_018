@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1.1 It means that its independentent on the\ndevice and it's operating system.",
+    "1.2": "1.2 It supported the revolution of Java, that handled\nprogramming Languages like Java, that handled\nthe complexity Needed to deal with the WWWs,\nwith the technologies like applets",
+    "1.3": "1.3. OOP (Object oriented programming)\nbinds the data with code with the data\nIt manipulates using encapsulation and gives\nmore focus on the data than POP.\nPOP (procedure oriented programming)\nIt is a serial of procedures and\nfunctions that work on the data\nPOP\nOOP\nData , Code, procedures.",
+    "1.4": "1.4. JRE consists of the JVM\n(Java virtual machine) and other files\nand libraries.",
+    "1.5": "1.5. Inheritance is the process in which an object\nacquires the properties from another object.\npolymorphism is the procedure in which one\ninterface can do a Class of different of group",
+    "1.6": "1.6. encapsulation is the property that\nbinds the code to the data that it\nmanipulates and wraps it from changes\nfrom external misuses.",
+    "1.7": "1.7 calsses and& interface absraction",
+    "1.8": "1.8 -\n① If it completed it task\n② due to unusual events\n③ if it's dead",
+    "1.9": "1.9 -\nSystem.in Stream.in\nSystem.out Stream.out\nSystem.err Stream.err",
+    "1.10": "1.10 java AWT",
+    "2.1": "2-1 True",
+    "2.2": "2-2 False it is possible",
+    "2.3": "2-3 True",
+    "2.4": "2-4 False , by method overriding",
+    "2.5": "2-5 True",
+    "2.6": "2-6 True",
+    "2.7": "2-7 False , there are several JDBC drivers",
+    "3.1": "3.1 Internet and the World Wide Web",
+    "3.2": "3.2 C",
+    "3.3": "3.3 data",
+    "3.4": "3.4 applet",
+    "3.5": "3.5 Container",
+    "3.6": "3.6 Controller",
+    "3.7": "3.7 JDBC",
+    "4.1": "4.1\nString [i] + \" \" you will take seat\" + i\nII each each time\nthe Code will\nprint the i'th element in the\n\"seats\" array, then it will then\nprint the index",
+    "4.2": "4.2\nAgree CalculateVotes (int total votes);"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1.1 It means that its independentent on the\ndevice and it's operating system.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student conveys the idea that Java is independent of the device and operating system, which aligns with the concept of being architecture-neutral."
+      },
+      "1.2": {
+        "answer": "1.2 It supported the revolution of Java, that handled\nprogramming Languages like Java, that handled\nthe complexity Needed to deal with the WWWs,\nwith the technologies like applets",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Mentions Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "1.3. OOP (Object oriented programming)\nbinds the data with code with the data\nIt manipulates using encapsulation and gives\nmore focus on the data than POP.\nPOP (procedure oriented programming)\nIt is a serial of procedures and\nfunctions that work on the data\nPOP\nOOP\nData , Code, procedures.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identifies POP as being related to procedures and functions that operate on data. For OOP, the student conveys the concept of binding data with code, which is characteristic of objects/classes, thus meeting the criteria that OOP is related to objects/classes."
+      },
+      "1.4": {
+        "answer": "1.4. JRE consists of the JVM\n(Java virtual machine) and other files\nand libraries.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Awarded 3/3 for: JVM, libraries, files"
+      },
+      "1.5": {
+        "answer": "1.5. Inheritance is the process in which an object\nacquires the properties from another object.\npolymorphism is the procedure in which one\ninterface can do a Class of different of group",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "Inheritance definition is clearly correct, capturing the essence of acquiring properties. Polymorphism definition mentions 'one interface' but the subsequent phrasing is too vague and grammatically poor to clearly convey the concept of 'many forms' or 'different behaviors' for that interface."
+      },
+      "1.6": {
+        "answer": "1.6. encapsulation is the property that\nbinds the code to the data that it\nmanipulates and wraps it from changes\nfrom external misuses.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly states that encapsulation 'binds the code to the data that it manipulates', which matches the core concept of binding/bundling code and data together as per the rubric."
+      },
+      "1.7": {
+        "answer": "1.7 calsses and& interface absraction",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student mentioned 'classes' (intended abstract classes) and 'interface', both linked to 'abstraction', satisfying the requirement for mentioning abstract classes and interfaces despite spelling and grammar."
+      },
+      "1.8": {
+        "answer": "1.8 -\n① If it completed it task\n② due to unusual events\n③ if it's dead",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided three correct reasons for thread termination: completing its task, unusual events, and being dead, matching all points in the grading policy."
+      },
+      "1.9": {
+        "answer": "1.9 -\nSystem.in Stream.in\nSystem.out Stream.out\nSystem.err Stream.err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified System.in, System.out, and System.err (3 correct streams)."
+      },
+      "1.10": {
+        "answer": "1.10 java AWT",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'AWT', which matches the expected answer."
+      },
+      "2.1": {
+        "answer": "2-1 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly chose 'True'."
+      },
+      "2.2": {
+        "answer": "2-2 False it is possible",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as False."
+      },
+      "2.3": {
+        "answer": "2-3 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.4": {
+        "answer": "2-4 False , by method overriding",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as False."
+      },
+      "2.5": {
+        "answer": "2-5 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly answered 'True' as per the expected answer."
+      },
+      "2.6": {
+        "answer": "2-6 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose True."
+      },
+      "2.7": {
+        "answer": "2-7 False , there are several JDBC drivers",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as False."
+      },
+      "3.1": {
+        "answer": "3.1 Internet and the World Wide Web",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "3.2 C",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'C' as an example of a POP language."
+      },
+      "3.3": {
+        "answer": "3.3 data",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'data' as the answer."
+      },
+      "3.4": {
+        "answer": "3.4 applet",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student's answer 'applet' directly matches the expected concept 'Applets'."
+      },
+      "3.5": {
+        "answer": "3.5 Container",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "3.6 Controller",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified 'Controller' which matches the expected answer and the grading policy for full marks."
+      },
+      "3.7": {
+        "answer": "3.7 JDBC",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified JDBC as the Java API for database interaction."
+      },
+      "4.1": {
+        "answer": "4.1\nString [i] + \" \" you will take seat\" + i\nII each each time\nthe Code will\nprint the i'th element in the\n\"seats\" array, then it will then\nprint the index",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "4.2\nAgree CalculateVotes (int total votes);",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Both calculateVotes and totalVotes are present"
+      }
+    },
+    "totals": {
+      "q1": 26.0,
+      "q2": 21.0,
+      "q3": 21.0,
+      "q4": 28.0,
+      "overall": 96.0
+    }
+  }
+}

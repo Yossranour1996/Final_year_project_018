@@ -1,70 +1,87 @@
 GRADING ANALYSIS REPORT
 ================================================================================
 
-Total predicted rows found: 10
-Matched usable rows: 10
+Total predicted rows found: 20
+Matched usable rows: 20
 
 OVERALL METRICS
 --------------------------------------------------------------------------------
-Mean Error (pred - true): -0.800
-Mean Absolute Error (MAE): 2.800
-Mean Squared Error (MSE): 9.800
-Root Mean Squared Error (RMSE): 3.130
-Within ±5 marks: 10/10 (100.00%)
+Mean Error (pred - true): -1.150
+Mean Absolute Error (MAE): 4.850
+Mean Squared Error (MSE): 34.650
+Root Mean Squared Error (RMSE): 5.886
+
+ERROR RANGE DISTRIBUTION
+--------------------------------------------------------------------------------
+Exact matches (error = 0): 0/20 (0.00%)
+Within 3 marks (> 0 and <= 3): 10/20 (50.00%)
+Within 5 marks (> 3 and <= 5): 4/20 (20.00%)
+More than 5 marks (> 5): 6/20 (30.00%)
 
 ERROR DIRECTION
 --------------------------------------------------------------------------------
-Overgraded cases  (system > true): 3
-Undergraded cases (system < true): 6
-Exact matches: 1
+Overgraded cases  (system > true): 10
+Undergraded cases (system < true): 10
+Exact matches: 0
 
 WHERE THE SYSTEM FAILS MOST
 --------------------------------------------------------------------------------
-Large errors   (> 5): 0
-Moderate errors(> 2 and <= 5): 7
-Small errors   (<= 2): 3
+Exact matches (= 0): 0
+Within 3 marks (> 0 and <= 3): 10
+Within 5 marks (> 3 and <= 5): 4
+More than 5 marks (> 5): 6
 
 WORST CASES
 --------------------------------------------------------------------------------
-sheet_047 | sheet_num=047 | true=80.00 | pred=85.00 | error=+5.00 | abs_error=5.00
-sheet_048 | sheet_num=048 | true=84.00 | pred=80.00 | error=-4.00 | abs_error=4.00
-sheet_050 | sheet_num=050 | true=75.00 | pred=71.00 | error=-4.00 | abs_error=4.00
-sheet_042 | sheet_num=042 | true=77.00 | pred=80.00 | error=+3.00 | abs_error=3.00
-sheet_044 | sheet_num=044 | true=93.00 | pred=90.00 | error=-3.00 | abs_error=3.00
-sheet_043 | sheet_num=043 | true=70.00 | pred=67.00 | error=-3.00 | abs_error=3.00
-sheet_049 | sheet_num=049 | true=95.00 | pred=92.00 | error=-3.00 | abs_error=3.00
-sheet_046 | sheet_num=046 | true=82.00 | pred=84.00 | error=+2.00 | abs_error=2.00
-sheet_045 | sheet_num=045 | true=60.00 | pred=59.00 | error=-1.00 | abs_error=1.00
-sheet_041 | sheet_num=041 | true=80.00 | pred=80.00 | error=+0.00 | abs_error=0.00
+sheet_064 | sheet_num=064 | true=80.00 | pred=67.00 | error=-13.00 | abs_error=13.00
+sheet_061 | sheet_num=061 | true=90.00 | pred=79.00 | error=-11.00 | abs_error=11.00
+sheet_057 | sheet_num=057 | true=75.00 | pred=66.00 | error=-9.00 | abs_error=9.00
+sheet_063 | sheet_num=063 | true=81.00 | pred=89.00 | error=+8.00 | abs_error=8.00
+sheet_069 | sheet_num=069 | true=90.00 | pred=82.00 | error=-8.00 | abs_error=8.00
+sheet_066 | sheet_num=066 | true=70.00 | pred=63.00 | error=-7.00 | abs_error=7.00
+sheet_060 | sheet_num=060 | true=81.00 | pred=86.00 | error=+5.00 | abs_error=5.00
+sheet_058 | sheet_num=058 | true=85.00 | pred=90.00 | error=+5.00 | abs_error=5.00
+sheet_062 | sheet_num=062 | true=81.00 | pred=86.00 | error=+5.00 | abs_error=5.00
+sheet_053 | sheet_num=053 | true=90.00 | pred=94.00 | error=+4.00 | abs_error=4.00
+sheet_055 | sheet_num=055 | true=97.00 | pred=94.00 | error=-3.00 | abs_error=3.00
+sheet_068 | sheet_num=068 | true=99.00 | pred=96.00 | error=-3.00 | abs_error=3.00
+sheet_070 | sheet_num=070 | true=99.00 | pred=96.00 | error=-3.00 | abs_error=3.00
+sheet_067 | sheet_num=067 | true=95.00 | pred=98.00 | error=+3.00 | abs_error=3.00
+sheet_052 | sheet_num=052 | true=90.00 | pred=88.00 | error=-2.00 | abs_error=2.00
+sheet_056 | sheet_num=056 | true=63.00 | pred=65.00 | error=+2.00 | abs_error=2.00
+sheet_059 | sheet_num=059 | true=87.00 | pred=89.00 | error=+2.00 | abs_error=2.00
+sheet_065 | sheet_num=065 | true=90.00 | pred=92.00 | error=+2.00 | abs_error=2.00
+sheet_054 | sheet_num=054 | true=70.00 | pred=71.00 | error=+1.00 | abs_error=1.00
+sheet_051 | sheet_num=051 | true=67.00 | pred=66.00 | error=-1.00 | abs_error=1.00
 
 WHICH MAJOR QUESTION GROUP LOSES THE MOST MARKS
 --------------------------------------------------------------------------------
-Q1: average loss=8.400 out of 30.0, average score=21.600, count=10
-Q2: average loss=4.800 out of 21.0, average score=16.200, count=10
-Q3: average loss=4.500 out of 21.0, average score=16.500, count=10
-Q4: average loss=3.500 out of 28.0, average score=24.500, count=10
+Q1: average loss=6.100 out of 30.0, average score=23.900, count=20
+Q2: average loss=4.800 out of 21.0, average score=16.200, count=20
+Q3: average loss=3.150 out of 21.0, average score=17.850, count=20
+Q4: average loss=3.100 out of 28.0, average score=24.900, count=20
 
-Most deducted major section overall: Q1 (average loss = 8.400)
+Most deducted major section overall: Q1 (average loss = 6.100)
 
 WHICH SUB-QUESTIONS LOSE THE MOST MARKS
 --------------------------------------------------------------------------------
-4.2: average loss=3.500 out of 14.0, average score=10.500, count=10
-1.4: average loss=2.200 out of 3.0, average score=0.800, count=10
-2.5: average loss=2.100 out of 3.0, average score=0.900, count=10
-1.10: average loss=2.100 out of 3.0, average score=0.900, count=10
-1.6: average loss=1.500 out of 3.0, average score=1.500, count=10
-3.4: average loss=1.200 out of 3.0, average score=1.800, count=10
-2.2: average loss=1.200 out of 3.0, average score=1.800, count=10
-3.6: average loss=1.200 out of 3.0, average score=1.800, count=10
-3.3: average loss=0.900 out of 3.0, average score=2.100, count=10
-1.2: average loss=0.900 out of 3.0, average score=2.100, count=10
-3.5: average loss=0.900 out of 3.0, average score=2.100, count=10
-1.7: average loss=0.600 out of 3.0, average score=2.400, count=10
-2.7: average loss=0.600 out of 3.0, average score=2.400, count=10
-1.8: average loss=0.400 out of 3.0, average score=2.600, count=10
-1.5: average loss=0.400 out of 3.0, average score=2.600, count=10
+4.2: average loss=3.100 out of 14.0, average score=10.900, count=20
+1.4: average loss=1.800 out of 3.0, average score=1.200, count=20
+2.5: average loss=1.800 out of 3.0, average score=1.200, count=20
+1.10: average loss=1.650 out of 3.0, average score=1.350, count=20
+2.7: average loss=1.500 out of 3.0, average score=1.500, count=20
+2.2: average loss=1.200 out of 3.0, average score=1.800, count=20
+3.3: average loss=1.050 out of 3.0, average score=1.950, count=20
+1.2: average loss=0.750 out of 3.0, average score=2.250, count=20
+3.5: average loss=0.750 out of 3.0, average score=2.250, count=20
+1.5: average loss=0.450 out of 3.0, average score=2.550, count=20
+3.6: average loss=0.450 out of 3.0, average score=2.550, count=20
+1.6: average loss=0.450 out of 3.0, average score=2.550, count=20
+3.4: average loss=0.450 out of 3.0, average score=2.550, count=20
+3.7: average loss=0.450 out of 3.0, average score=2.550, count=20
+1.8: average loss=0.350 out of 3.0, average score=2.650, count=20
 
-Most deducted sub-question overall: 4.2 (average loss = 3.500)
+Most deducted sub-question overall: 4.2 (average loss = 3.100)
 
 MATCHING ISSUES
 --------------------------------------------------------------------------------

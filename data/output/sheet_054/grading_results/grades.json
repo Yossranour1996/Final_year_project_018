@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1.1 We mean that it is not restricted by aspasific\narchitecture system",
+    "1.2": "1.2 WWW and Internet participat in programming\nrevolution because every code is written can't be shared\nand all the information about programming is available.",
+    "1.3": "1.3 POP: pruduse code that operate in program's goal\nOOP: uses class and opjeces to capsulate code and\ndata\nPOP\ncode\ndata\nOOP\ncode\ndata",
+    "1.4": "1.4 there are many componenes of the JRE",
+    "1.5": "1.5 Inheritance is making class based on existing one\nbue run time polymorphism can't be achieved by method\noverloading",
+    "1.6": "1.6 We mean by encapsulation: dealing with data and\ncode at the same time, as capsuls and we\nuse it in OOP",
+    "1.7": "1.7 Abstract class and interface",
+    "1.8": "1.8 A thread could be terminate if:\nit finished his jop\nBroke for unusual reson\nDead",
+    "1.9": "1.9 The three Default streams in Java are:\nSystem.in\nSystem.out\nSystem.err",
+    "1.10": "1.10 Java API is used for dealing with data base\nBut API Java swing was built on top of model\nview of multilayer architecture",
+    "2.1": "2.1 True",
+    "2.2": "2.2 True",
+    "2.3": "2.3 True",
+    "2.4": "2.4 False can't be achieved by overloading",
+    "2.5": "2.5 True",
+    "2.6": "2.6 True",
+    "2.7": "2.7 False Many drivers are there.",
+    "3.1": "3.1 To match environment updates and uses",
+    "3.2": "3.2 C",
+    "3.3": "3.3 Code",
+    "3.4": "3.4 Ithesnet java enabled web browser execution",
+    "3.5": "3.5 In compouent which resive information",
+    "3.6": "3.6 Multi Layers",
+    "3.7": "3.7 JDBC",
+    "4.1": "4.1 CODE: String [i] + \" you will take seat\" + (4-i)\nSaving [i] will print one of the letters: M, C, ..\n\" you will be printed as it is every time in the\nloop.\n(4-i): represent the number of seat",
+    "4.2": "4.2 forLint\nPrivate string id;\nfor loop"
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1.1 We mean that it is not restricted by aspasific\narchitecture system",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student conveys the core idea that Java is not restricted by a specific architecture system, despite a minor spelling error ('aspasific' for 'a specific'). This aligns with the teacher's policy for full marks."
+      },
+      "1.2": {
+        "answer": "1.2 WWW and Internet participat in programming\nrevolution because every code is written can't be shared\nand all the information about programming is available.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Accepted nonblank answer without Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "1.3 POP: pruduse code that operate in program's goal\nOOP: uses class and opjeces to capsulate code and\ndata\nPOP\ncode\ndata\nOOP\ncode\ndata",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student conveys that OOP uses classes and objects (OOP: 'uses class and opjeces to capsulate code and data'). For POP, they describe 'pruduse code that operate in program's goal' and visually represent 'POP code data' as separate entities, implying a focus on code/procedures acting on data, which fulfills the requirement that POP is related to procedures/functions/data, despite poor spelling."
+      },
+      "1.4": {
+        "answer": "1.4 there are many componenes of the JRE",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "No required JRE component mentioned"
+      },
+      "1.5": {
+        "answer": "1.5 Inheritance is making class based on existing one\nbue run time polymorphism can't be achieved by method\noverloading",
+        "score": 2.0,
+        "max_score": 3.0,
+        "reason": "The student correctly defines inheritance as 'making class based on existing one'. However, the statement regarding polymorphism ('run time polymorphism can't be achieved by method overloading') is a correct fact about polymorphism but does not define or explain the concept of polymorphism itself. Therefore, only one of the two concepts is clearly correct."
+      },
+      "1.6": {
+        "answer": "1.6 We mean by encapsulation: dealing with data and\ncode at the same time, as capsuls and we\nuse it in OOP",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student expresses the idea of 'dealing with data and code at the same time, as capsuls' which, despite the spelling, clearly conveys the concept of bundling or binding code and data together in a single unit, fulfilling the rubric's requirement for an equivalent meaning."
+      },
+      "1.7": {
+        "answer": "1.7 Abstract class and interface",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly mentioned both 'Abstract class' and 'interface', fulfilling the rubric's requirements for full marks."
+      },
+      "1.8": {
+        "answer": "1.8 A thread could be terminate if:\nit finished his jop\nBroke for unusual reson\nDead",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided three correct reasons for thread termination: finishing its job, breaking due to an unusual reason (exception/error), and being in a 'dead' state."
+      },
+      "1.9": {
+        "answer": "1.9 The three Default streams in Java are:\nSystem.in\nSystem.out\nSystem.err",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "All three default streams (System.in, System.out, System.err) are correctly identified and spelled."
+      },
+      "1.10": {
+        "answer": "1.10 Java API is used for dealing with data base\nBut API Java swing was built on top of model\nview of multilayer architecture",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student did not mention AWT or Abstract Window Toolkit, or a clear equivalent. The answer discusses Java API for databases and model-view architecture, neither of which is the correct underlying technology for Swing."
+      },
+      "2.1": {
+        "answer": "2.1 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'True'."
+      },
+      "2.2": {
+        "answer": "2.2 True",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student answered 'True', but the correct answer is 'False'."
+      },
+      "2.3": {
+        "answer": "2.3 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.4": {
+        "answer": "2.4 False can't be achieved by overloading",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'False' as the answer."
+      },
+      "2.5": {
+        "answer": "2.5 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose True."
+      },
+      "2.6": {
+        "answer": "2.6 True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True', which matches the expected answer and the grading policy for full marks."
+      },
+      "2.7": {
+        "answer": "2.7 False Many drivers are there.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified 'False'."
+      },
+      "3.1": {
+        "answer": "3.1 To match environment updates and uses",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "3.2 C",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'C', which is a correct example of a POP language."
+      },
+      "3.3": {
+        "answer": "3.3 Code",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student did not provide 'data' as the answer."
+      },
+      "3.4": {
+        "answer": "3.4 Ithesnet java enabled web browser execution",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student's answer does not mention 'Applets' or any clear equivalent, as required by the grading policy."
+      },
+      "3.5": {
+        "answer": "3.5 In compouent which resive information",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Neither Container nor Frame identified"
+      },
+      "3.6": {
+        "answer": "3.6 Multi Layers",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student did not provide 'Controller' as the missing part of the MVC architecture."
+      },
+      "3.7": {
+        "answer": "3.7 JDBC",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'JDBC', which is the correct API."
+      },
+      "4.1": {
+        "answer": "4.1 CODE: String [i] + \" you will take seat\" + (4-i)\nSaving [i] will print one of the letters: M, C, ..\n\" you will be printed as it is every time in the\nloop.\n(4-i): represent the number of seat",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "4.2 forLint\nPrivate string id;\nfor loop",
+        "score": 7.0,
+        "max_score": 14.0,
+        "reason": "Nonblank answer unrelated to votes"
+      }
+    },
+    "totals": {
+      "q1": 23.0,
+      "q2": 18.0,
+      "q3": 9.0,
+      "q4": 21.0,
+      "overall": 71.0
+    }
+  }
+}

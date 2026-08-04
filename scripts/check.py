@@ -12,7 +12,7 @@ import pandas as pd
 # =========================
 
 # ملف الدرجات الحقيقية
-TRUE_MARKS_FILE = r"C:\Users\hp\Desktop\sheet_marks.csv"
+TRUE_MARKS_FILE = r"C:\Users\hp\Desktop\sheet_marks_test.csv"
 # أو xlsx
 
 # المجلد الذي يحتوي ملفات النتائج

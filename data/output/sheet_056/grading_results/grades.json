@@ -1,0 +1,197 @@
+{
+  "parsed_answers": {
+    "1.1": "1.18- We mean that Java is not restricted to a specific architecture\nlanguage.",
+    "1.2": "1.28-\nBy use it in many websites.",
+    "1.3": "1.38-\nWhile POP has a procedures (code) make opperates in data to\nachive the program goal, OOP use classes and objectes to\nencapsulate both data and code.",
+    "1.4": "",
+    "1.5": "",
+    "1.6": "",
+    "1.7": "1.78-\nAbstract classes and interfaces.",
+    "1.8": "",
+    "1.9": "1.98-\n(system.in), (system.out), (system.err).",
+    "1.10": "1.108-\nJDBC.",
+    "2.1": "2.1: True",
+    "2.2": "2.2: False.\nIt is possible for an interface to inherit another interface's properties.",
+    "2.3": "2.3: True.",
+    "2.4": "2.4: False.\nRun time polymorphism could be achieved by method overloading.",
+    "2.5": "2.5: False.\nAbstract classes could have abstract methods within them",
+    "2.6": "2.6: True.",
+    "2.7": "2.7: True.",
+    "3.1": "3.1: To adapt to Changing environment and uses.",
+    "3.2": "3.2: C language.",
+    "3.3": "3.3: data.",
+    "3.4": "3.4: Aplet.",
+    "3.5": "3.5: Frame.",
+    "3.6": "3.6: Control.",
+    "3.7": "3.7: JDBC.",
+    "4.1": "",
+    "4.2": ""
+  },
+  "grading": {
+    "questions": {
+      "1.1": {
+        "answer": "1.18- We mean that Java is not restricted to a specific architecture\nlanguage.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly states that Java is not restricted to a specific architecture, which directly matches the expected concept for architecture-neutrality."
+      },
+      "1.2": {
+        "answer": "1.28-\nBy use it in many websites.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Accepted nonblank answer without Applet or Servlet"
+      },
+      "1.3": {
+        "answer": "1.38-\nWhile POP has a procedures (code) make opperates in data to\nachive the program goal, OOP use classes and objectes to\nencapsulate both data and code.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identifies POP as being related to procedures/code and data, and OOP as being related to classes and objects, fulfilling the grading policy."
+      },
+      "1.4": {
+        "answer": "",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Blank answer"
+      },
+      "1.5": {
+        "answer": "",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Blank answer"
+      },
+      "1.6": {
+        "answer": "",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Blank answer"
+      },
+      "1.7": {
+        "answer": "1.78-\nAbstract classes and interfaces.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly mentioned 'Abstract classes' and 'interfaces', which are the two expected ways to achieve abstraction."
+      },
+      "1.8": {
+        "answer": "",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Blank answer"
+      },
+      "1.9": {
+        "answer": "1.98-\n(system.in), (system.out), (system.err).",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified all three default streams: System.in, System.out, and System.err. Minor casing difference (system vs System) does not reduce the score per policy."
+      },
+      "1.10": {
+        "answer": "1.108-\nJDBC.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'JDBC' is incorrect and does not match AWT or Abstract Window Toolkit, nor is it a clear equivalent."
+      },
+      "2.1": {
+        "answer": "2.1: True",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.2": {
+        "answer": "2.2: False.\nIt is possible for an interface to inherit another interface's properties.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly chose 'False'."
+      },
+      "2.3": {
+        "answer": "2.3: True.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student correctly identified the statement as True, matching the expected answer and grading policy."
+      },
+      "2.4": {
+        "answer": "2.4: False.\nRun time polymorphism could be achieved by method overloading.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as False."
+      },
+      "2.5": {
+        "answer": "2.5: False.\nAbstract classes could have abstract methods within them",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose False, but the expected answer is True. According to policy, 3 is awarded only if True is chosen, otherwise 0."
+      },
+      "2.6": {
+        "answer": "2.6: True.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified the statement as True."
+      },
+      "2.7": {
+        "answer": "2.7: True.",
+        "score": 0.0,
+        "max_score": 3.0,
+        "reason": "Student chose 'True' but the expected answer was 'False'. According to policy, 3 is awarded only if 'False' is chosen, otherwise 0."
+      },
+      "3.1": {
+        "answer": "3.1: To adapt to Changing environment and uses.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "3.2": {
+        "answer": "3.2: C language.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'C language', which includes 'C' and matches the expected answer and grading policy."
+      },
+      "3.3": {
+        "answer": "3.3: data.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'data' matches the expected concept exactly, earning full marks according to the policy."
+      },
+      "3.4": {
+        "answer": "3.4: Aplet.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "The student's answer 'Aplet' is a clear misspelling of 'Applet', which is the correct concept. According to the grading policy, minor spelling mistakes are accepted if the intended meaning is clear."
+      },
+      "3.5": {
+        "answer": "3.5: Frame.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Container or Frame identified"
+      },
+      "3.6": {
+        "answer": "3.6: Control.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student provided 'Control', which is a clear and recoverable abbreviation/shorthand for 'Controller' in the context of MVC. Intended meaning is clear."
+      },
+      "3.7": {
+        "answer": "3.7: JDBC.",
+        "score": 3.0,
+        "max_score": 3.0,
+        "reason": "Student correctly identified JDBC."
+      },
+      "4.1": {
+        "answer": "",
+        "score": 14.0,
+        "max_score": 14.0,
+        "reason": "Automatically awarded full marks"
+      },
+      "4.2": {
+        "answer": "",
+        "score": 0.0,
+        "max_score": 14.0,
+        "reason": "Blank answer"
+      }
+    },
+    "totals": {
+      "q1": 15.0,
+      "q2": 15.0,
+      "q3": 21.0,
+      "q4": 14.0,
+      "overall": 65.0
+    }
+  }
+}
